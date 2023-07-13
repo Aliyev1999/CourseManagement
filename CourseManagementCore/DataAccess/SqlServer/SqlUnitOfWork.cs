@@ -9,12 +9,13 @@ namespace CourseManagementCore.DataAccess.SqlServer
 {
     public class SqlUnitOfWork : IUnitOfWork
     {
+        string _connectionString;
         public SqlUnitOfWork(string connectionString)
         {
-
+            _connectionString = connectionString;
         }
-
-        public IStudentRepository EmployeeRepository => new StudentRepository();
+        
+        public IStudentRepository StudentRepository => new SqlStudentRepository(_connectionString);
 
     }
 }

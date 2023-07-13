@@ -9,9 +9,13 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = CourseManagement
 build_property.RootNamespace = CourseManagement
-build_property.ProjectDir = D:\Lessons\CM\CourseManagement\CourseManagement\
+build_property.ProjectDir = D:\Course\CourseManagement\CourseManagement\CourseManagement\
 build_property.RazorLangVersion = 6.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = D:\Lessons\CM\CourseManagement\CourseManagement
+build_property.MSBuildProjectDirectory = D:\Course\CourseManagement\CourseManagement\CourseManagement
 build_property._RazorSourceGeneratorDebug = 
+
+[D:/Course/CourseManagement/CourseManagement/CourseManagement/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 

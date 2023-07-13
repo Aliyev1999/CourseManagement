@@ -7,9 +7,8 @@ using System.Threading.Tasks;
 
 namespace CourseManagementCore.Domain.Abstraction.Interfaces
 {
-    public interface IStudentRepository
+    public interface IStudentRepository : IRepository<Student>
     {
-        public List<Student> GetStudents();
-      
+
     }
 }

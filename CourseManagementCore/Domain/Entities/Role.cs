@@ -10,14 +10,3 @@
     }
 
 }
-
-
-
-
-//Course
-//Student
-//Teachers
-
-//Users
-//Permission
-//Roles
