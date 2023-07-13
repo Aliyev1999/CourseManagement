@@ -8,7 +8,7 @@ using System.Threading.Tasks;
 
 namespace CourseManagementCore.DataAccess.SqlServer
 {
-    internal class StudentRepository : IStudentRepository
+    public class StudentRepository : IStudentRepository
     {
         public List<Student> GetStudents()
         {

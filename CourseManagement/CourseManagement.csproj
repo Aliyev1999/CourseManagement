@@ -15,4 +15,8 @@
     <Folder Include="Views\" />
   </ItemGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\CourseManagementCore\CourseManagementCore.csproj" />
+  </ItemGroup>
+
 </Project>

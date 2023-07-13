@@ -7,8 +7,13 @@ using System.Threading.Tasks;
 
 namespace CourseManagementCore.DataAccess.SqlServer
 {
-    public class SqlUnitOfWork
+    public class SqlUnitOfWork : IUnitOfWork
     {
+        public SqlUnitOfWork(string connectionString)
+        {
+
+        }
+
         public IStudentRepository EmployeeRepository => new StudentRepository();
 
     }

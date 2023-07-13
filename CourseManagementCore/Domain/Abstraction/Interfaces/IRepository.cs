@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace CourseManagementCore.Domain.Abstraction.Interfaces
 {
-    internal interface IRepository
+    public interface IRepository
     {
     }
 }
