@@ -14,22 +14,96 @@ namespace CourseManagementCore.DataAccess.SqlServer
 
         public void Add(Student student)
         {
-            throw new NotImplementedException();
+            using var connection = new SqlConnection(_connectionString);
+
+            if (connection.State == System.Data.ConnectionState.Closed)
+            {
+                connection.Open();
+            }
+
+            using SqlCommand command = new SqlCommand();
+            command.Connection = connection;
+            command.CommandText = @"INSERT INTO Students
+                                   VALUES (@Name, @Surname, @Email, @PhoneNumber, @BirthDate, @IsDeleted);";
+
+
+            //command.Parameters.AddRange(new[]SqlParameter {
+            //    new SqlParameter("Name",student.Name),
+            //    new SqlParameter("Surname", student.Surname),
+            //    new SqlParameter("Email", student.Email),
+            //    new SqlParameter("PhoneNumber", student.PhoneNumber),
+            //    new SqlParameter("BirthDate", student.BirthDate),
+            //    new SqlParameter("IsDeleted", student.IsDeleted)
+            //  });
+
         }
 
         public bool Check(int id)
         {
-            throw new NotImplementedException();
+            using var connection = new SqlConnection(_connectionString);
+
+            if (connection.State == System.Data.ConnectionState.Closed)
+            {
+                connection.Open();
+            }
+
+            using SqlCommand command = new SqlCommand();
+            command.Connection = connection;
+            command.CommandText = "select count(*) c from Students";
+
+            int count = (int)command.ExecuteScalar();
+
+            if (connection.State == System.Data.ConnectionState.Open)
+            {
+                connection.Close();
+            }
+
+            return count > 0;
         }
 
         public int Count()
         {
-            throw new NotImplementedException();
+            using var connection = new SqlConnection(_connectionString);
+
+            if (connection.State == System.Data.ConnectionState.Closed)
+            {
+                connection.Open();
+            }
+
+            using SqlCommand command = new SqlCommand();
+            command.Connection = connection;
+            command.CommandText = "select count(*) c from Students";
+
+            int count = (int)command.ExecuteScalar();
+
+            if (connection.State == System.Data.ConnectionState.Open)
+            {
+                connection.Close();
+            }
+
+            return count;
         }
 
         public void Delete(int id)
         {
-            throw new NotImplementedException();
+            using var connection = new SqlConnection(_connectionString);
+
+            if (connection.State == System.Data.ConnectionState.Closed)
+            {
+                connection.Open();
+            }
+
+            using SqlCommand command = new SqlCommand();
+            command.Connection = connection;
+            command.CommandText = "delete from Students where Id = @Id";
+            command.Parameters.Add(new SqlParameter("Id", id));
+
+            command.ExecuteNonQuery();
+
+            if (connection.State == System.Data.ConnectionState.Open)
+            {
+                connection.Close();
+            }
         }
 
         public Student Get(int id)
@@ -38,17 +112,22 @@ namespace CourseManagementCore.DataAccess.SqlServer
 
             using var connection = new SqlConnection(_connectionString);
 
-            connection.Open();
+            if (connection.State == System.Data.ConnectionState.Closed)
+            {
+                connection.Open();
+            }
 
             using SqlCommand command = new SqlCommand();
             command.Connection = connection;
-            command.CommandText = "select* from Students";
+            command.CommandText = "select* from Students where Id = @Id";
+
+            command.Parameters.Add(new SqlParameter("Id", id));
 
             using SqlDataReader reader = command.ExecuteReader();
 
-            while (reader.Read())
+            if (reader.Read())
             {
-                student.Add(new Student()
+                student = new Student()
                 {
                     Id = Convert.ToInt16(reader["Id"]),
                     Surname = reader["Surname"].ToString(),
@@ -57,12 +136,14 @@ namespace CourseManagementCore.DataAccess.SqlServer
                     IsDeleted = Convert.ToBoolean(reader["IsDeleted"]),
                     Email = Convert.ToString(reader["Email"]),
                     PhoneNumber = Convert.ToString(reader["PhoneNumber"])
-                });
+                };
 
             }
-            connection.Close();
+            if (connection.State == System.Data.ConnectionState.Open)
+            {
+                connection.Close();
+            }
             return student;
-
         }
 
         public List<Student> GetAll()

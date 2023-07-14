@@ -1,0 +1,14 @@
+D:\Course\CourseManagement\CourseManagement\CourseManagementEFCore\bin\Debug\net6.0\CourseManagementEFCore.deps.json
+D:\Course\CourseManagement\CourseManagement\CourseManagementEFCore\bin\Debug\net6.0\CourseManagementEFCore.runtimeconfig.json
+D:\Course\CourseManagement\CourseManagement\CourseManagementEFCore\bin\Debug\net6.0\CourseManagementEFCore.dll
+D:\Course\CourseManagement\CourseManagement\CourseManagementEFCore\bin\Debug\net6.0\CourseManagementEFCore.pdb
+D:\Course\CourseManagement\CourseManagement\CourseManagementEFCore\obj\Debug\net6.0\CourseManagementEFCore.csproj.AssemblyReference.cache
+D:\Course\CourseManagement\CourseManagement\CourseManagementEFCore\obj\Debug\net6.0\CourseManagementEFCore.GeneratedMSBuildEditorConfig.editorconfig
+D:\Course\CourseManagement\CourseManagement\CourseManagementEFCore\obj\Debug\net6.0\CourseManagementEFCore.AssemblyInfoInputs.cache
+D:\Course\CourseManagement\CourseManagement\CourseManagementEFCore\obj\Debug\net6.0\CourseManagementEFCore.AssemblyInfo.cs
+D:\Course\CourseManagement\CourseManagement\CourseManagementEFCore\obj\Debug\net6.0\CourseManagementEFCore.csproj.CoreCompileInputs.cache
+D:\Course\CourseManagement\CourseManagement\CourseManagementEFCore\obj\Debug\net6.0\CourseManagementEFCore.dll
+D:\Course\CourseManagement\CourseManagement\CourseManagementEFCore\obj\Debug\net6.0\refint\CourseManagementEFCore.dll
+D:\Course\CourseManagement\CourseManagement\CourseManagementEFCore\obj\Debug\net6.0\CourseManagementEFCore.pdb
+D:\Course\CourseManagement\CourseManagement\CourseManagementEFCore\obj\Debug\net6.0\CourseManagementEFCore.genruntimeconfig.cache
+D:\Course\CourseManagement\CourseManagement\CourseManagementEFCore\obj\Debug\net6.0\ref\CourseManagementEFCore.dll

@@ -1,5 +1,7 @@
-using CourseManagementCore.DataAccess.SqlServer;
-using CourseManagementCore.Domain.Abstraction.Interfaces;
+using CourseManagementEFCore;
+using CourseManagementEFCore.DataAccess.SqlServer;
+using CourseManagementEFCore.Domain.Abstractions;
+using Microsoft.EntityFrameworkCore;
 using Serilog;
 
 var builder = WebApplication.CreateBuilder(args);
@@ -12,11 +14,13 @@ var logger = new LoggerConfiguration()
 builder.Logging.ClearProviders();
 builder.Logging.AddSerilog(logger);
 
-string connString = builder.Configuration.GetConnectionString("DefaultConnection");
-
-builder.Services.AddScoped(typeof(IUnitOfWork), x => new SqlUnitOfWork(connString));
 
 builder.Services.AddControllersWithViews();
+
+builder.Services.AddDbContext<AppDBContext>(options => options.UseSqlServer(builder.Configuration.GetConnectionString("DefaultConnection")));
+
+builder.Services.AddScoped<IUnitOfWork, SqlUnitOfWork>();
+
 
 var app = builder.Build();
 
@@ -28,6 +32,10 @@ else
 {
     app.UseExceptionHandler("/Error");
 }
+
+app.UseHttpsRedirection();
+
+app.UseStaticFiles();
 
 app.UseRouting();
 
