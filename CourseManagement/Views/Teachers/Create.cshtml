@@ -10,7 +10,7 @@
             <h1>Create Teacher</h1>
         </div>
 
-        <form method="post" asp-controller="Teachers" asp-action="Create">
+        <form method="post" asp-controller="Teachers" asp-action="Submit">
             <div class="row" style="margin:20px 20px 20px 20px">
                 <div class="col-md-6">
                     <div asp-validation-summary="ModelOnly" class="text-danger"></div>
@@ -56,7 +56,7 @@
                     </div>
                 </div>
                 <div class="form-group">
-                    <input type="submit" asp-action="Submit" value="Create" class="btn btn-primary ml-1" />
+                    <input type="submit" value="Create" class="btn btn-primary ml-1" />
                     <a href="##" class="btn btn-sm btn-warning ml-1" onClick="history.go(-1); return false;"> Return to back</a>
                 </div>
             </div>

@@ -1,1207 +1,1207 @@
 {
   "Files": [
     {
-      "Id": "D:\\Lessons\\CM\\CourseManagement\\CourseManagement\\wwwroot\\Images\\bg-01.jpg",
+      "Id": "D:\\Course\\CourseManagement\\CourseManagement\\CourseManagement\\wwwroot\\Images\\bg-01.jpg",
       "PackagePath": "staticwebassets\\Images\\bg-01.jpg"
     },
     {
-      "Id": "D:\\Lessons\\CM\\CourseManagement\\CourseManagement\\wwwroot\\Images\\bg-1.jpg",
+      "Id": "D:\\Course\\CourseManagement\\CourseManagement\\CourseManagement\\wwwroot\\Images\\bg-1.jpg",
       "PackagePath": "staticwebassets\\Images\\bg-1.jpg"
     },
     {
-      "Id": "D:\\Lessons\\CM\\CourseManagement\\CourseManagement\\wwwroot\\Images\\bg-2.jpg",
+      "Id": "D:\\Course\\CourseManagement\\CourseManagement\\CourseManagement\\wwwroot\\Images\\bg-2.jpg",
       "PackagePath": "staticwebassets\\Images\\bg-2.jpg"
     },
     {
-      "Id": "D:\\Lessons\\CM\\CourseManagement\\CourseManagement\\wwwroot\\Images\\bg-3.jpg",
+      "Id": "D:\\Course\\CourseManagement\\CourseManagement\\CourseManagement\\wwwroot\\Images\\bg-3.jpg",
       "PackagePath": "staticwebassets\\Images\\bg-3.jpg"
     },
     {
-      "Id": "D:\\Lessons\\CM\\CourseManagement\\CourseManagement\\wwwroot\\Images\\fav.png",
+      "Id": "D:\\Course\\CourseManagement\\CourseManagement\\CourseManagement\\wwwroot\\Images\\fav.png",
       "PackagePath": "staticwebassets\\Images\\fav.png"
     },
     {
-      "Id": "D:\\Lessons\\CM\\CourseManagement\\CourseManagement\\wwwroot\\Images\\icons\\favicon.ico",
+      "Id": "D:\\Course\\CourseManagement\\CourseManagement\\CourseManagement\\wwwroot\\Images\\icons\\favicon.ico",
       "PackagePath": "staticwebassets\\Images\\icons\\favicon.ico"
     },
     {
-      "Id": "D:\\Lessons\\CM\\CourseManagement\\CourseManagement\\wwwroot\\Images\\logo-2.png",
+      "Id": "D:\\Course\\CourseManagement\\CourseManagement\\CourseManagement\\wwwroot\\Images\\logo-2.png",
       "PackagePath": "staticwebassets\\Images\\logo-2.png"
     },
     {
-      "Id": "D:\\Lessons\\CM\\CourseManagement\\CourseManagement\\wwwroot\\Images\\logo.png",
+      "Id": "D:\\Course\\CourseManagement\\CourseManagement\\CourseManagement\\wwwroot\\Images\\logo.png",
       "PackagePath": "staticwebassets\\Images\\logo.png"
     },
     {
-      "Id": "D:\\Lessons\\CM\\CourseManagement\\CourseManagement\\wwwroot\\Images\\page-banner-1.jpg",
+      "Id": "D:\\Course\\CourseManagement\\CourseManagement\\CourseManagement\\wwwroot\\Images\\page-banner-1.jpg",
       "PackagePath": "staticwebassets\\Images\\page-banner-1.jpg"
     },
     {
-      "Id": "D:\\Lessons\\CM\\CourseManagement\\CourseManagement\\wwwroot\\Images\\page-banner-2.jpg",
+      "Id": "D:\\Course\\CourseManagement\\CourseManagement\\CourseManagement\\wwwroot\\Images\\page-banner-2.jpg",
       "PackagePath": "staticwebassets\\Images\\page-banner-2.jpg"
     },
     {
-      "Id": "D:\\Lessons\\CM\\CourseManagement\\CourseManagement\\wwwroot\\Images\\page-banner-3.jpg",
+      "Id": "D:\\Course\\CourseManagement\\CourseManagement\\CourseManagement\\wwwroot\\Images\\page-banner-3.jpg",
       "PackagePath": "staticwebassets\\Images\\page-banner-3.jpg"
     },
     {
-      "Id": "D:\\Lessons\\CM\\CourseManagement\\CourseManagement\\wwwroot\\Images\\page-banner-4.jpg",
+      "Id": "D:\\Course\\CourseManagement\\CourseManagement\\CourseManagement\\wwwroot\\Images\\page-banner-4.jpg",
       "PackagePath": "staticwebassets\\Images\\page-banner-4.jpg"
     },
     {
-      "Id": "D:\\Lessons\\CM\\CourseManagement\\CourseManagement\\wwwroot\\Images\\page-banner-5.jpg",
+      "Id": "D:\\Course\\CourseManagement\\CourseManagement\\CourseManagement\\wwwroot\\Images\\page-banner-5.jpg",
       "PackagePath": "staticwebassets\\Images\\page-banner-5.jpg"
     },
     {
-      "Id": "D:\\Lessons\\CM\\CourseManagement\\CourseManagement\\wwwroot\\Images\\page-banner-6.jpg",
+      "Id": "D:\\Course\\CourseManagement\\CourseManagement\\CourseManagement\\wwwroot\\Images\\page-banner-6.jpg",
       "PackagePath": "staticwebassets\\Images\\page-banner-6.jpg"
     },
     {
-      "Id": "D:\\Lessons\\CM\\CourseManagement\\CourseManagement\\wwwroot\\Login\\css\\main.css",
+      "Id": "D:\\Course\\CourseManagement\\CourseManagement\\CourseManagement\\wwwroot\\Login\\css\\main.css",
       "PackagePath": "staticwebassets\\Login\\css\\main.css"
     },
     {
-      "Id": "D:\\Lessons\\CM\\CourseManagement\\CourseManagement\\wwwroot\\Login\\css\\util.css",
+      "Id": "D:\\Course\\CourseManagement\\CourseManagement\\CourseManagement\\wwwroot\\Login\\css\\util.css",
       "PackagePath": "staticwebassets\\Login\\css\\util.css"
     },
     {
-      "Id": "D:\\Lessons\\CM\\CourseManagement\\CourseManagement\\wwwroot\\Login\\fonts\\Linearicons-Free-v1.0.0\\WebFont\\Linearicons-Free.eot",
+      "Id": "D:\\Course\\CourseManagement\\CourseManagement\\CourseManagement\\wwwroot\\Login\\fonts\\Linearicons-Free-v1.0.0\\WebFont\\Linearicons-Free.eot",
       "PackagePath": "staticwebassets\\Login\\fonts\\Linearicons-Free-v1.0.0\\WebFont\\Linearicons-Free.eot"
     },
     {
-      "Id": "D:\\Lessons\\CM\\CourseManagement\\CourseManagement\\wwwroot\\Login\\fonts\\Linearicons-Free-v1.0.0\\WebFont\\Linearicons-Free.svg",
+      "Id": "D:\\Course\\CourseManagement\\CourseManagement\\CourseManagement\\wwwroot\\Login\\fonts\\Linearicons-Free-v1.0.0\\WebFont\\Linearicons-Free.svg",
       "PackagePath": "staticwebassets\\Login\\fonts\\Linearicons-Free-v1.0.0\\WebFont\\Linearicons-Free.svg"
     },
     {
-      "Id": "D:\\Lessons\\CM\\CourseManagement\\CourseManagement\\wwwroot\\Login\\fonts\\Linearicons-Free-v1.0.0\\WebFont\\Linearicons-Free.ttf",
+      "Id": "D:\\Course\\CourseManagement\\CourseManagement\\CourseManagement\\wwwroot\\Login\\fonts\\Linearicons-Free-v1.0.0\\WebFont\\Linearicons-Free.ttf",
       "PackagePath": "staticwebassets\\Login\\fonts\\Linearicons-Free-v1.0.0\\WebFont\\Linearicons-Free.ttf"
     },
     {
-      "Id": "D:\\Lessons\\CM\\CourseManagement\\CourseManagement\\wwwroot\\Login\\fonts\\Linearicons-Free-v1.0.0\\WebFont\\Linearicons-Free.woff",
+      "Id": "D:\\Course\\CourseManagement\\CourseManagement\\CourseManagement\\wwwroot\\Login\\fonts\\Linearicons-Free-v1.0.0\\WebFont\\Linearicons-Free.woff",
       "PackagePath": "staticwebassets\\Login\\fonts\\Linearicons-Free-v1.0.0\\WebFont\\Linearicons-Free.woff"
     },
     {
-      "Id": "D:\\Lessons\\CM\\CourseManagement\\CourseManagement\\wwwroot\\Login\\fonts\\Linearicons-Free-v1.0.0\\WebFont\\Linearicons-Free.woff2",
+      "Id": "D:\\Course\\CourseManagement\\CourseManagement\\CourseManagement\\wwwroot\\Login\\fonts\\Linearicons-Free-v1.0.0\\WebFont\\Linearicons-Free.woff2",
       "PackagePath": "staticwebassets\\Login\\fonts\\Linearicons-Free-v1.0.0\\WebFont\\Linearicons-Free.woff2"
     },
     {
-      "Id": "D:\\Lessons\\CM\\CourseManagement\\CourseManagement\\wwwroot\\Login\\fonts\\Linearicons-Free-v1.0.0\\icon-font.min.css",
+      "Id": "D:\\Course\\CourseManagement\\CourseManagement\\CourseManagement\\wwwroot\\Login\\fonts\\Linearicons-Free-v1.0.0\\icon-font.min.css",
       "PackagePath": "staticwebassets\\Login\\fonts\\Linearicons-Free-v1.0.0\\icon-font.min.css"
     },
     {
-      "Id": "D:\\Lessons\\CM\\CourseManagement\\CourseManagement\\wwwroot\\Login\\fonts\\font-awesome-4.7.0\\HELP-US-OUT.txt",
+      "Id": "D:\\Course\\CourseManagement\\CourseManagement\\CourseManagement\\wwwroot\\Login\\fonts\\font-awesome-4.7.0\\HELP-US-OUT.txt",
       "PackagePath": "staticwebassets\\Login\\fonts\\font-awesome-4.7.0\\HELP-US-OUT.txt"
     },
     {
-      "Id": "D:\\Lessons\\CM\\CourseManagement\\CourseManagement\\wwwroot\\Login\\fonts\\font-awesome-4.7.0\\css\\font-awesome.css",
+      "Id": "D:\\Course\\CourseManagement\\CourseManagement\\CourseManagement\\wwwroot\\Login\\fonts\\font-awesome-4.7.0\\css\\font-awesome.css",
       "PackagePath": "staticwebassets\\Login\\fonts\\font-awesome-4.7.0\\css\\font-awesome.css"
     },
     {
-      "Id": "D:\\Lessons\\CM\\CourseManagement\\CourseManagement\\wwwroot\\Login\\fonts\\font-awesome-4.7.0\\css\\font-awesome.min.css",
+      "Id": "D:\\Course\\CourseManagement\\CourseManagement\\CourseManagement\\wwwroot\\Login\\fonts\\font-awesome-4.7.0\\css\\font-awesome.min.css",
       "PackagePath": "staticwebassets\\Login\\fonts\\font-awesome-4.7.0\\css\\font-awesome.min.css"
     },
     {
-      "Id": "D:\\Lessons\\CM\\CourseManagement\\CourseManagement\\wwwroot\\Login\\fonts\\font-awesome-4.7.0\\fonts\\FontAwesome.otf",
+      "Id": "D:\\Course\\CourseManagement\\CourseManagement\\CourseManagement\\wwwroot\\Login\\fonts\\font-awesome-4.7.0\\fonts\\FontAwesome.otf",
       "PackagePath": "staticwebassets\\Login\\fonts\\font-awesome-4.7.0\\fonts\\FontAwesome.otf"
     },
     {
-      "Id": "D:\\Lessons\\CM\\CourseManagement\\CourseManagement\\wwwroot\\Login\\fonts\\font-awesome-4.7.0\\fonts\\fontawesome-webfont.eot",
+      "Id": "D:\\Course\\CourseManagement\\CourseManagement\\CourseManagement\\wwwroot\\Login\\fonts\\font-awesome-4.7.0\\fonts\\fontawesome-webfont.eot",
       "PackagePath": "staticwebassets\\Login\\fonts\\font-awesome-4.7.0\\fonts\\fontawesome-webfont.eot"
     },
     {
-      "Id": "D:\\Lessons\\CM\\CourseManagement\\CourseManagement\\wwwroot\\Login\\fonts\\font-awesome-4.7.0\\fonts\\fontawesome-webfont.svg",
+      "Id": "D:\\Course\\CourseManagement\\CourseManagement\\CourseManagement\\wwwroot\\Login\\fonts\\font-awesome-4.7.0\\fonts\\fontawesome-webfont.svg",
       "PackagePath": "staticwebassets\\Login\\fonts\\font-awesome-4.7.0\\fonts\\fontawesome-webfont.svg"
     },
     {
-      "Id": "D:\\Lessons\\CM\\CourseManagement\\CourseManagement\\wwwroot\\Login\\fonts\\font-awesome-4.7.0\\fonts\\fontawesome-webfont.ttf",
+      "Id": "D:\\Course\\CourseManagement\\CourseManagement\\CourseManagement\\wwwroot\\Login\\fonts\\font-awesome-4.7.0\\fonts\\fontawesome-webfont.ttf",
       "PackagePath": "staticwebassets\\Login\\fonts\\font-awesome-4.7.0\\fonts\\fontawesome-webfont.ttf"
     },
     {
-      "Id": "D:\\Lessons\\CM\\CourseManagement\\CourseManagement\\wwwroot\\Login\\fonts\\font-awesome-4.7.0\\fonts\\fontawesome-webfont.woff",
+      "Id": "D:\\Course\\CourseManagement\\CourseManagement\\CourseManagement\\wwwroot\\Login\\fonts\\font-awesome-4.7.0\\fonts\\fontawesome-webfont.woff",
       "PackagePath": "staticwebassets\\Login\\fonts\\font-awesome-4.7.0\\fonts\\fontawesome-webfont.woff"
     },
     {
-      "Id": "D:\\Lessons\\CM\\CourseManagement\\CourseManagement\\wwwroot\\Login\\fonts\\font-awesome-4.7.0\\fonts\\fontawesome-webfont.woff2",
+      "Id": "D:\\Course\\CourseManagement\\CourseManagement\\CourseManagement\\wwwroot\\Login\\fonts\\font-awesome-4.7.0\\fonts\\fontawesome-webfont.woff2",
       "PackagePath": "staticwebassets\\Login\\fonts\\font-awesome-4.7.0\\fonts\\fontawesome-webfont.woff2"
     },
     {
-      "Id": "D:\\Lessons\\CM\\CourseManagement\\CourseManagement\\wwwroot\\Login\\fonts\\font-awesome-4.7.0\\less\\animated.less",
+      "Id": "D:\\Course\\CourseManagement\\CourseManagement\\CourseManagement\\wwwroot\\Login\\fonts\\font-awesome-4.7.0\\less\\animated.less",
       "PackagePath": "staticwebassets\\Login\\fonts\\font-awesome-4.7.0\\less\\animated.less"
     },
     {
-      "Id": "D:\\Lessons\\CM\\CourseManagement\\CourseManagement\\wwwroot\\Login\\fonts\\font-awesome-4.7.0\\less\\bordered-pulled.less",
+      "Id": "D:\\Course\\CourseManagement\\CourseManagement\\CourseManagement\\wwwroot\\Login\\fonts\\font-awesome-4.7.0\\less\\bordered-pulled.less",
       "PackagePath": "staticwebassets\\Login\\fonts\\font-awesome-4.7.0\\less\\bordered-pulled.less"
     },
     {
-      "Id": "D:\\Lessons\\CM\\CourseManagement\\CourseManagement\\wwwroot\\Login\\fonts\\font-awesome-4.7.0\\less\\core.less",
+      "Id": "D:\\Course\\CourseManagement\\CourseManagement\\CourseManagement\\wwwroot\\Login\\fonts\\font-awesome-4.7.0\\less\\core.less",
       "PackagePath": "staticwebassets\\Login\\fonts\\font-awesome-4.7.0\\less\\core.less"
     },
     {
-      "Id": "D:\\Lessons\\CM\\CourseManagement\\CourseManagement\\wwwroot\\Login\\fonts\\font-awesome-4.7.0\\less\\fixed-width.less",
+      "Id": "D:\\Course\\CourseManagement\\CourseManagement\\CourseManagement\\wwwroot\\Login\\fonts\\font-awesome-4.7.0\\less\\fixed-width.less",
       "PackagePath": "staticwebassets\\Login\\fonts\\font-awesome-4.7.0\\less\\fixed-width.less"
     },
     {
-      "Id": "D:\\Lessons\\CM\\CourseManagement\\CourseManagement\\wwwroot\\Login\\fonts\\font-awesome-4.7.0\\less\\font-awesome.less",
+      "Id": "D:\\Course\\CourseManagement\\CourseManagement\\CourseManagement\\wwwroot\\Login\\fonts\\font-awesome-4.7.0\\less\\font-awesome.less",
       "PackagePath": "staticwebassets\\Login\\fonts\\font-awesome-4.7.0\\less\\font-awesome.less"
     },
     {
-      "Id": "D:\\Lessons\\CM\\CourseManagement\\CourseManagement\\wwwroot\\Login\\fonts\\font-awesome-4.7.0\\less\\icons.less",
+      "Id": "D:\\Course\\CourseManagement\\CourseManagement\\CourseManagement\\wwwroot\\Login\\fonts\\font-awesome-4.7.0\\less\\icons.less",
       "PackagePath": "staticwebassets\\Login\\fonts\\font-awesome-4.7.0\\less\\icons.less"
     },
     {
-      "Id": "D:\\Lessons\\CM\\CourseManagement\\CourseManagement\\wwwroot\\Login\\fonts\\font-awesome-4.7.0\\less\\larger.less",
+      "Id": "D:\\Course\\CourseManagement\\CourseManagement\\CourseManagement\\wwwroot\\Login\\fonts\\font-awesome-4.7.0\\less\\larger.less",
       "PackagePath": "staticwebassets\\Login\\fonts\\font-awesome-4.7.0\\less\\larger.less"
     },
     {
-      "Id": "D:\\Lessons\\CM\\CourseManagement\\CourseManagement\\wwwroot\\Login\\fonts\\font-awesome-4.7.0\\less\\list.less",
+      "Id": "D:\\Course\\CourseManagement\\CourseManagement\\CourseManagement\\wwwroot\\Login\\fonts\\font-awesome-4.7.0\\less\\list.less",
       "PackagePath": "staticwebassets\\Login\\fonts\\font-awesome-4.7.0\\less\\list.less"
     },
     {
-      "Id": "D:\\Lessons\\CM\\CourseManagement\\CourseManagement\\wwwroot\\Login\\fonts\\font-awesome-4.7.0\\less\\mixins.less",
+      "Id": "D:\\Course\\CourseManagement\\CourseManagement\\CourseManagement\\wwwroot\\Login\\fonts\\font-awesome-4.7.0\\less\\mixins.less",
       "PackagePath": "staticwebassets\\Login\\fonts\\font-awesome-4.7.0\\less\\mixins.less"
     },
     {
-      "Id": "D:\\Lessons\\CM\\CourseManagement\\CourseManagement\\wwwroot\\Login\\fonts\\font-awesome-4.7.0\\less\\path.less",
+      "Id": "D:\\Course\\CourseManagement\\CourseManagement\\CourseManagement\\wwwroot\\Login\\fonts\\font-awesome-4.7.0\\less\\path.less",
       "PackagePath": "staticwebassets\\Login\\fonts\\font-awesome-4.7.0\\less\\path.less"
     },
     {
-      "Id": "D:\\Lessons\\CM\\CourseManagement\\CourseManagement\\wwwroot\\Login\\fonts\\font-awesome-4.7.0\\less\\rotated-flipped.less",
+      "Id": "D:\\Course\\CourseManagement\\CourseManagement\\CourseManagement\\wwwroot\\Login\\fonts\\font-awesome-4.7.0\\less\\rotated-flipped.less",
       "PackagePath": "staticwebassets\\Login\\fonts\\font-awesome-4.7.0\\less\\rotated-flipped.less"
     },
     {
-      "Id": "D:\\Lessons\\CM\\CourseManagement\\CourseManagement\\wwwroot\\Login\\fonts\\font-awesome-4.7.0\\less\\screen-reader.less",
+      "Id": "D:\\Course\\CourseManagement\\CourseManagement\\CourseManagement\\wwwroot\\Login\\fonts\\font-awesome-4.7.0\\less\\screen-reader.less",
       "PackagePath": "staticwebassets\\Login\\fonts\\font-awesome-4.7.0\\less\\screen-reader.less"
     },
     {
-      "Id": "D:\\Lessons\\CM\\CourseManagement\\CourseManagement\\wwwroot\\Login\\fonts\\font-awesome-4.7.0\\less\\stacked.less",
+      "Id": "D:\\Course\\CourseManagement\\CourseManagement\\CourseManagement\\wwwroot\\Login\\fonts\\font-awesome-4.7.0\\less\\stacked.less",
       "PackagePath": "staticwebassets\\Login\\fonts\\font-awesome-4.7.0\\less\\stacked.less"
     },
     {
-      "Id": "D:\\Lessons\\CM\\CourseManagement\\CourseManagement\\wwwroot\\Login\\fonts\\font-awesome-4.7.0\\less\\variables.less",
+      "Id": "D:\\Course\\CourseManagement\\CourseManagement\\CourseManagement\\wwwroot\\Login\\fonts\\font-awesome-4.7.0\\less\\variables.less",
       "PackagePath": "staticwebassets\\Login\\fonts\\font-awesome-4.7.0\\less\\variables.less"
     },
     {
-      "Id": "D:\\Lessons\\CM\\CourseManagement\\CourseManagement\\wwwroot\\Login\\fonts\\font-awesome-4.7.0\\scss\\_animated.scss",
+      "Id": "D:\\Course\\CourseManagement\\CourseManagement\\CourseManagement\\wwwroot\\Login\\fonts\\font-awesome-4.7.0\\scss\\_animated.scss",
       "PackagePath": "staticwebassets\\Login\\fonts\\font-awesome-4.7.0\\scss\\_animated.scss"
     },
     {
-      "Id": "D:\\Lessons\\CM\\CourseManagement\\CourseManagement\\wwwroot\\Login\\fonts\\font-awesome-4.7.0\\scss\\_bordered-pulled.scss",
+      "Id": "D:\\Course\\CourseManagement\\CourseManagement\\CourseManagement\\wwwroot\\Login\\fonts\\font-awesome-4.7.0\\scss\\_bordered-pulled.scss",
       "PackagePath": "staticwebassets\\Login\\fonts\\font-awesome-4.7.0\\scss\\_bordered-pulled.scss"
     },
     {
-      "Id": "D:\\Lessons\\CM\\CourseManagement\\CourseManagement\\wwwroot\\Login\\fonts\\font-awesome-4.7.0\\scss\\_core.scss",
+      "Id": "D:\\Course\\CourseManagement\\CourseManagement\\CourseManagement\\wwwroot\\Login\\fonts\\font-awesome-4.7.0\\scss\\_core.scss",
       "PackagePath": "staticwebassets\\Login\\fonts\\font-awesome-4.7.0\\scss\\_core.scss"
     },
     {
-      "Id": "D:\\Lessons\\CM\\CourseManagement\\CourseManagement\\wwwroot\\Login\\fonts\\font-awesome-4.7.0\\scss\\_fixed-width.scss",
+      "Id": "D:\\Course\\CourseManagement\\CourseManagement\\CourseManagement\\wwwroot\\Login\\fonts\\font-awesome-4.7.0\\scss\\_fixed-width.scss",
       "PackagePath": "staticwebassets\\Login\\fonts\\font-awesome-4.7.0\\scss\\_fixed-width.scss"
     },
     {
-      "Id": "D:\\Lessons\\CM\\CourseManagement\\CourseManagement\\wwwroot\\Login\\fonts\\font-awesome-4.7.0\\scss\\_icons.scss",
+      "Id": "D:\\Course\\CourseManagement\\CourseManagement\\CourseManagement\\wwwroot\\Login\\fonts\\font-awesome-4.7.0\\scss\\_icons.scss",
       "PackagePath": "staticwebassets\\Login\\fonts\\font-awesome-4.7.0\\scss\\_icons.scss"
     },
     {
-      "Id": "D:\\Lessons\\CM\\CourseManagement\\CourseManagement\\wwwroot\\Login\\fonts\\font-awesome-4.7.0\\scss\\_larger.scss",
+      "Id": "D:\\Course\\CourseManagement\\CourseManagement\\CourseManagement\\wwwroot\\Login\\fonts\\font-awesome-4.7.0\\scss\\_larger.scss",
       "PackagePath": "staticwebassets\\Login\\fonts\\font-awesome-4.7.0\\scss\\_larger.scss"
     },
     {
-      "Id": "D:\\Lessons\\CM\\CourseManagement\\CourseManagement\\wwwroot\\Login\\fonts\\font-awesome-4.7.0\\scss\\_list.scss",
+      "Id": "D:\\Course\\CourseManagement\\CourseManagement\\CourseManagement\\wwwroot\\Login\\fonts\\font-awesome-4.7.0\\scss\\_list.scss",
       "PackagePath": "staticwebassets\\Login\\fonts\\font-awesome-4.7.0\\scss\\_list.scss"
     },
     {
-      "Id": "D:\\Lessons\\CM\\CourseManagement\\CourseManagement\\wwwroot\\Login\\fonts\\font-awesome-4.7.0\\scss\\_mixins.scss",
+      "Id": "D:\\Course\\CourseManagement\\CourseManagement\\CourseManagement\\wwwroot\\Login\\fonts\\font-awesome-4.7.0\\scss\\_mixins.scss",
       "PackagePath": "staticwebassets\\Login\\fonts\\font-awesome-4.7.0\\scss\\_mixins.scss"
     },
     {
-      "Id": "D:\\Lessons\\CM\\CourseManagement\\CourseManagement\\wwwroot\\Login\\fonts\\font-awesome-4.7.0\\scss\\_path.scss",
+      "Id": "D:\\Course\\CourseManagement\\CourseManagement\\CourseManagement\\wwwroot\\Login\\fonts\\font-awesome-4.7.0\\scss\\_path.scss",
       "PackagePath": "staticwebassets\\Login\\fonts\\font-awesome-4.7.0\\scss\\_path.scss"
     },
     {
-      "Id": "D:\\Lessons\\CM\\CourseManagement\\CourseManagement\\wwwroot\\Login\\fonts\\font-awesome-4.7.0\\scss\\_rotated-flipped.scss",
+      "Id": "D:\\Course\\CourseManagement\\CourseManagement\\CourseManagement\\wwwroot\\Login\\fonts\\font-awesome-4.7.0\\scss\\_rotated-flipped.scss",
       "PackagePath": "staticwebassets\\Login\\fonts\\font-awesome-4.7.0\\scss\\_rotated-flipped.scss"
     },
     {
-      "Id": "D:\\Lessons\\CM\\CourseManagement\\CourseManagement\\wwwroot\\Login\\fonts\\font-awesome-4.7.0\\scss\\_screen-reader.scss",
+      "Id": "D:\\Course\\CourseManagement\\CourseManagement\\CourseManagement\\wwwroot\\Login\\fonts\\font-awesome-4.7.0\\scss\\_screen-reader.scss",
       "PackagePath": "staticwebassets\\Login\\fonts\\font-awesome-4.7.0\\scss\\_screen-reader.scss"
     },
     {
-      "Id": "D:\\Lessons\\CM\\CourseManagement\\CourseManagement\\wwwroot\\Login\\fonts\\font-awesome-4.7.0\\scss\\_stacked.scss",
+      "Id": "D:\\Course\\CourseManagement\\CourseManagement\\CourseManagement\\wwwroot\\Login\\fonts\\font-awesome-4.7.0\\scss\\_stacked.scss",
       "PackagePath": "staticwebassets\\Login\\fonts\\font-awesome-4.7.0\\scss\\_stacked.scss"
     },
     {
-      "Id": "D:\\Lessons\\CM\\CourseManagement\\CourseManagement\\wwwroot\\Login\\fonts\\font-awesome-4.7.0\\scss\\_variables.scss",
+      "Id": "D:\\Course\\CourseManagement\\CourseManagement\\CourseManagement\\wwwroot\\Login\\fonts\\font-awesome-4.7.0\\scss\\_variables.scss",
       "PackagePath": "staticwebassets\\Login\\fonts\\font-awesome-4.7.0\\scss\\_variables.scss"
     },
     {
-      "Id": "D:\\Lessons\\CM\\CourseManagement\\CourseManagement\\wwwroot\\Login\\fonts\\font-awesome-4.7.0\\scss\\font-awesome.scss",
+      "Id": "D:\\Course\\CourseManagement\\CourseManagement\\CourseManagement\\wwwroot\\Login\\fonts\\font-awesome-4.7.0\\scss\\font-awesome.scss",
       "PackagePath": "staticwebassets\\Login\\fonts\\font-awesome-4.7.0\\scss\\font-awesome.scss"
     },
     {
-      "Id": "D:\\Lessons\\CM\\CourseManagement\\CourseManagement\\wwwroot\\Login\\fonts\\poppins\\Poppins-Black.ttf",
+      "Id": "D:\\Course\\CourseManagement\\CourseManagement\\CourseManagement\\wwwroot\\Login\\fonts\\poppins\\Poppins-Black.ttf",
       "PackagePath": "staticwebassets\\Login\\fonts\\poppins\\Poppins-Black.ttf"
     },
     {
-      "Id": "D:\\Lessons\\CM\\CourseManagement\\CourseManagement\\wwwroot\\Login\\fonts\\poppins\\Poppins-BlackItalic.ttf",
+      "Id": "D:\\Course\\CourseManagement\\CourseManagement\\CourseManagement\\wwwroot\\Login\\fonts\\poppins\\Poppins-BlackItalic.ttf",
       "PackagePath": "staticwebassets\\Login\\fonts\\poppins\\Poppins-BlackItalic.ttf"
     },
     {
-      "Id": "D:\\Lessons\\CM\\CourseManagement\\CourseManagement\\wwwroot\\Login\\fonts\\poppins\\Poppins-Bold.ttf",
+      "Id": "D:\\Course\\CourseManagement\\CourseManagement\\CourseManagement\\wwwroot\\Login\\fonts\\poppins\\Poppins-Bold.ttf",
       "PackagePath": "staticwebassets\\Login\\fonts\\poppins\\Poppins-Bold.ttf"
     },
     {
-      "Id": "D:\\Lessons\\CM\\CourseManagement\\CourseManagement\\wwwroot\\Login\\fonts\\poppins\\Poppins-BoldItalic.ttf",
+      "Id": "D:\\Course\\CourseManagement\\CourseManagement\\CourseManagement\\wwwroot\\Login\\fonts\\poppins\\Poppins-BoldItalic.ttf",
       "PackagePath": "staticwebassets\\Login\\fonts\\poppins\\Poppins-BoldItalic.ttf"
     },
     {
-      "Id": "D:\\Lessons\\CM\\CourseManagement\\CourseManagement\\wwwroot\\Login\\fonts\\poppins\\Poppins-ExtraBold.ttf",
+      "Id": "D:\\Course\\CourseManagement\\CourseManagement\\CourseManagement\\wwwroot\\Login\\fonts\\poppins\\Poppins-ExtraBold.ttf",
       "PackagePath": "staticwebassets\\Login\\fonts\\poppins\\Poppins-ExtraBold.ttf"
     },
     {
-      "Id": "D:\\Lessons\\CM\\CourseManagement\\CourseManagement\\wwwroot\\Login\\fonts\\poppins\\Poppins-ExtraBoldItalic.ttf",
+      "Id": "D:\\Course\\CourseManagement\\CourseManagement\\CourseManagement\\wwwroot\\Login\\fonts\\poppins\\Poppins-ExtraBoldItalic.ttf",
       "PackagePath": "staticwebassets\\Login\\fonts\\poppins\\Poppins-ExtraBoldItalic.ttf"
     },
     {
-      "Id": "D:\\Lessons\\CM\\CourseManagement\\CourseManagement\\wwwroot\\Login\\fonts\\poppins\\Poppins-ExtraLight.ttf",
+      "Id": "D:\\Course\\CourseManagement\\CourseManagement\\CourseManagement\\wwwroot\\Login\\fonts\\poppins\\Poppins-ExtraLight.ttf",
       "PackagePath": "staticwebassets\\Login\\fonts\\poppins\\Poppins-ExtraLight.ttf"
     },
     {
-      "Id": "D:\\Lessons\\CM\\CourseManagement\\CourseManagement\\wwwroot\\Login\\fonts\\poppins\\Poppins-ExtraLightItalic.ttf",
+      "Id": "D:\\Course\\CourseManagement\\CourseManagement\\CourseManagement\\wwwroot\\Login\\fonts\\poppins\\Poppins-ExtraLightItalic.ttf",
       "PackagePath": "staticwebassets\\Login\\fonts\\poppins\\Poppins-ExtraLightItalic.ttf"
     },
     {
-      "Id": "D:\\Lessons\\CM\\CourseManagement\\CourseManagement\\wwwroot\\Login\\fonts\\poppins\\Poppins-Italic.ttf",
+      "Id": "D:\\Course\\CourseManagement\\CourseManagement\\CourseManagement\\wwwroot\\Login\\fonts\\poppins\\Poppins-Italic.ttf",
       "PackagePath": "staticwebassets\\Login\\fonts\\poppins\\Poppins-Italic.ttf"
     },
     {
-      "Id": "D:\\Lessons\\CM\\CourseManagement\\CourseManagement\\wwwroot\\Login\\fonts\\poppins\\Poppins-Light.ttf",
+      "Id": "D:\\Course\\CourseManagement\\CourseManagement\\CourseManagement\\wwwroot\\Login\\fonts\\poppins\\Poppins-Light.ttf",
       "PackagePath": "staticwebassets\\Login\\fonts\\poppins\\Poppins-Light.ttf"
     },
     {
-      "Id": "D:\\Lessons\\CM\\CourseManagement\\CourseManagement\\wwwroot\\Login\\fonts\\poppins\\Poppins-LightItalic.ttf",
+      "Id": "D:\\Course\\CourseManagement\\CourseManagement\\CourseManagement\\wwwroot\\Login\\fonts\\poppins\\Poppins-LightItalic.ttf",
       "PackagePath": "staticwebassets\\Login\\fonts\\poppins\\Poppins-LightItalic.ttf"
     },
     {
-      "Id": "D:\\Lessons\\CM\\CourseManagement\\CourseManagement\\wwwroot\\Login\\fonts\\poppins\\Poppins-Medium.ttf",
+      "Id": "D:\\Course\\CourseManagement\\CourseManagement\\CourseManagement\\wwwroot\\Login\\fonts\\poppins\\Poppins-Medium.ttf",
       "PackagePath": "staticwebassets\\Login\\fonts\\poppins\\Poppins-Medium.ttf"
     },
     {
-      "Id": "D:\\Lessons\\CM\\CourseManagement\\CourseManagement\\wwwroot\\Login\\fonts\\poppins\\Poppins-MediumItalic.ttf",
+      "Id": "D:\\Course\\CourseManagement\\CourseManagement\\CourseManagement\\wwwroot\\Login\\fonts\\poppins\\Poppins-MediumItalic.ttf",
       "PackagePath": "staticwebassets\\Login\\fonts\\poppins\\Poppins-MediumItalic.ttf"
     },
     {
-      "Id": "D:\\Lessons\\CM\\CourseManagement\\CourseManagement\\wwwroot\\Login\\fonts\\poppins\\Poppins-Regular.ttf",
+      "Id": "D:\\Course\\CourseManagement\\CourseManagement\\CourseManagement\\wwwroot\\Login\\fonts\\poppins\\Poppins-Regular.ttf",
       "PackagePath": "staticwebassets\\Login\\fonts\\poppins\\Poppins-Regular.ttf"
     },
     {
-      "Id": "D:\\Lessons\\CM\\CourseManagement\\CourseManagement\\wwwroot\\Login\\fonts\\poppins\\Poppins-SemiBold.ttf",
+      "Id": "D:\\Course\\CourseManagement\\CourseManagement\\CourseManagement\\wwwroot\\Login\\fonts\\poppins\\Poppins-SemiBold.ttf",
       "PackagePath": "staticwebassets\\Login\\fonts\\poppins\\Poppins-SemiBold.ttf"
     },
     {
-      "Id": "D:\\Lessons\\CM\\CourseManagement\\CourseManagement\\wwwroot\\Login\\fonts\\poppins\\Poppins-SemiBoldItalic.ttf",
+      "Id": "D:\\Course\\CourseManagement\\CourseManagement\\CourseManagement\\wwwroot\\Login\\fonts\\poppins\\Poppins-SemiBoldItalic.ttf",
       "PackagePath": "staticwebassets\\Login\\fonts\\poppins\\Poppins-SemiBoldItalic.ttf"
     },
     {
-      "Id": "D:\\Lessons\\CM\\CourseManagement\\CourseManagement\\wwwroot\\Login\\fonts\\poppins\\Poppins-Thin.ttf",
+      "Id": "D:\\Course\\CourseManagement\\CourseManagement\\CourseManagement\\wwwroot\\Login\\fonts\\poppins\\Poppins-Thin.ttf",
       "PackagePath": "staticwebassets\\Login\\fonts\\poppins\\Poppins-Thin.ttf"
     },
     {
-      "Id": "D:\\Lessons\\CM\\CourseManagement\\CourseManagement\\wwwroot\\Login\\fonts\\poppins\\Poppins-ThinItalic.ttf",
+      "Id": "D:\\Course\\CourseManagement\\CourseManagement\\CourseManagement\\wwwroot\\Login\\fonts\\poppins\\Poppins-ThinItalic.ttf",
       "PackagePath": "staticwebassets\\Login\\fonts\\poppins\\Poppins-ThinItalic.ttf"
     },
     {
-      "Id": "D:\\Lessons\\CM\\CourseManagement\\CourseManagement\\wwwroot\\Login\\images\\bg-01.jpg",
+      "Id": "D:\\Course\\CourseManagement\\CourseManagement\\CourseManagement\\wwwroot\\Login\\images\\bg-01.jpg",
       "PackagePath": "staticwebassets\\Login\\images\\bg-01.jpg"
     },
     {
-      "Id": "D:\\Lessons\\CM\\CourseManagement\\CourseManagement\\wwwroot\\Login\\images\\icons\\favicon.ico",
+      "Id": "D:\\Course\\CourseManagement\\CourseManagement\\CourseManagement\\wwwroot\\Login\\images\\icons\\favicon.ico",
       "PackagePath": "staticwebassets\\Login\\images\\icons\\favicon.ico"
     },
     {
-      "Id": "D:\\Lessons\\CM\\CourseManagement\\CourseManagement\\wwwroot\\Login\\images\\icons\\map-marker.png",
+      "Id": "D:\\Course\\CourseManagement\\CourseManagement\\CourseManagement\\wwwroot\\Login\\images\\icons\\map-marker.png",
       "PackagePath": "staticwebassets\\Login\\images\\icons\\map-marker.png"
     },
     {
-      "Id": "D:\\Lessons\\CM\\CourseManagement\\CourseManagement\\wwwroot\\Login\\index.html",
+      "Id": "D:\\Course\\CourseManagement\\CourseManagement\\CourseManagement\\wwwroot\\Login\\index.html",
       "PackagePath": "staticwebassets\\Login\\index.html"
     },
     {
-      "Id": "D:\\Lessons\\CM\\CourseManagement\\CourseManagement\\wwwroot\\Login\\js\\main.js",
+      "Id": "D:\\Course\\CourseManagement\\CourseManagement\\CourseManagement\\wwwroot\\Login\\js\\main.js",
       "PackagePath": "staticwebassets\\Login\\js\\main.js"
     },
     {
-      "Id": "D:\\Lessons\\CM\\CourseManagement\\CourseManagement\\wwwroot\\Login\\js\\map-custom.js",
+      "Id": "D:\\Course\\CourseManagement\\CourseManagement\\CourseManagement\\wwwroot\\Login\\js\\map-custom.js",
       "PackagePath": "staticwebassets\\Login\\js\\map-custom.js"
     },
     {
-      "Id": "D:\\Lessons\\CM\\CourseManagement\\CourseManagement\\wwwroot\\Login\\vendor\\animate\\animate.css",
+      "Id": "D:\\Course\\CourseManagement\\CourseManagement\\CourseManagement\\wwwroot\\Login\\vendor\\animate\\animate.css",
       "PackagePath": "staticwebassets\\Login\\vendor\\animate\\animate.css"
     },
     {
-      "Id": "D:\\Lessons\\CM\\CourseManagement\\CourseManagement\\wwwroot\\Login\\vendor\\animsition\\css\\animsition.css",
+      "Id": "D:\\Course\\CourseManagement\\CourseManagement\\CourseManagement\\wwwroot\\Login\\vendor\\animsition\\css\\animsition.css",
       "PackagePath": "staticwebassets\\Login\\vendor\\animsition\\css\\animsition.css"
     },
     {
-      "Id": "D:\\Lessons\\CM\\CourseManagement\\CourseManagement\\wwwroot\\Login\\vendor\\animsition\\css\\animsition.min.css",
+      "Id": "D:\\Course\\CourseManagement\\CourseManagement\\CourseManagement\\wwwroot\\Login\\vendor\\animsition\\css\\animsition.min.css",
       "PackagePath": "staticwebassets\\Login\\vendor\\animsition\\css\\animsition.min.css"
     },
     {
-      "Id": "D:\\Lessons\\CM\\CourseManagement\\CourseManagement\\wwwroot\\Login\\vendor\\animsition\\js\\animsition.js",
+      "Id": "D:\\Course\\CourseManagement\\CourseManagement\\CourseManagement\\wwwroot\\Login\\vendor\\animsition\\js\\animsition.js",
       "PackagePath": "staticwebassets\\Login\\vendor\\animsition\\js\\animsition.js"
     },
     {
-      "Id": "D:\\Lessons\\CM\\CourseManagement\\CourseManagement\\wwwroot\\Login\\vendor\\animsition\\js\\animsition.min.js",
+      "Id": "D:\\Course\\CourseManagement\\CourseManagement\\CourseManagement\\wwwroot\\Login\\vendor\\animsition\\js\\animsition.min.js",
       "PackagePath": "staticwebassets\\Login\\vendor\\animsition\\js\\animsition.min.js"
     },
     {
-      "Id": "D:\\Lessons\\CM\\CourseManagement\\CourseManagement\\wwwroot\\Login\\vendor\\bootstrap\\css\\bootstrap-grid.css",
+      "Id": "D:\\Course\\CourseManagement\\CourseManagement\\CourseManagement\\wwwroot\\Login\\vendor\\bootstrap\\css\\bootstrap-grid.css",
       "PackagePath": "staticwebassets\\Login\\vendor\\bootstrap\\css\\bootstrap-grid.css"
     },
     {
-      "Id": "D:\\Lessons\\CM\\CourseManagement\\CourseManagement\\wwwroot\\Login\\vendor\\bootstrap\\css\\bootstrap-grid.css.map",
+      "Id": "D:\\Course\\CourseManagement\\CourseManagement\\CourseManagement\\wwwroot\\Login\\vendor\\bootstrap\\css\\bootstrap-grid.css.map",
       "PackagePath": "staticwebassets\\Login\\vendor\\bootstrap\\css\\bootstrap-grid.css.map"
     },
     {
-      "Id": "D:\\Lessons\\CM\\CourseManagement\\CourseManagement\\wwwroot\\Login\\vendor\\bootstrap\\css\\bootstrap-grid.min.css",
+      "Id": "D:\\Course\\CourseManagement\\CourseManagement\\CourseManagement\\wwwroot\\Login\\vendor\\bootstrap\\css\\bootstrap-grid.min.css",
       "PackagePath": "staticwebassets\\Login\\vendor\\bootstrap\\css\\bootstrap-grid.min.css"
     },
     {
-      "Id": "D:\\Lessons\\CM\\CourseManagement\\CourseManagement\\wwwroot\\Login\\vendor\\bootstrap\\css\\bootstrap-grid.min.css.map",
+      "Id": "D:\\Course\\CourseManagement\\CourseManagement\\CourseManagement\\wwwroot\\Login\\vendor\\bootstrap\\css\\bootstrap-grid.min.css.map",
       "PackagePath": "staticwebassets\\Login\\vendor\\bootstrap\\css\\bootstrap-grid.min.css.map"
     },
     {
-      "Id": "D:\\Lessons\\CM\\CourseManagement\\CourseManagement\\wwwroot\\Login\\vendor\\bootstrap\\css\\bootstrap-reboot.css",
+      "Id": "D:\\Course\\CourseManagement\\CourseManagement\\CourseManagement\\wwwroot\\Login\\vendor\\bootstrap\\css\\bootstrap-reboot.css",
       "PackagePath": "staticwebassets\\Login\\vendor\\bootstrap\\css\\bootstrap-reboot.css"
     },
     {
-      "Id": "D:\\Lessons\\CM\\CourseManagement\\CourseManagement\\wwwroot\\Login\\vendor\\bootstrap\\css\\bootstrap-reboot.css.map",
+      "Id": "D:\\Course\\CourseManagement\\CourseManagement\\CourseManagement\\wwwroot\\Login\\vendor\\bootstrap\\css\\bootstrap-reboot.css.map",
       "PackagePath": "staticwebassets\\Login\\vendor\\bootstrap\\css\\bootstrap-reboot.css.map"
     },
     {
-      "Id": "D:\\Lessons\\CM\\CourseManagement\\CourseManagement\\wwwroot\\Login\\vendor\\bootstrap\\css\\bootstrap-reboot.min.css",
+      "Id": "D:\\Course\\CourseManagement\\CourseManagement\\CourseManagement\\wwwroot\\Login\\vendor\\bootstrap\\css\\bootstrap-reboot.min.css",
       "PackagePath": "staticwebassets\\Login\\vendor\\bootstrap\\css\\bootstrap-reboot.min.css"
     },
     {
-      "Id": "D:\\Lessons\\CM\\CourseManagement\\CourseManagement\\wwwroot\\Login\\vendor\\bootstrap\\css\\bootstrap-reboot.min.css.map",
+      "Id": "D:\\Course\\CourseManagement\\CourseManagement\\CourseManagement\\wwwroot\\Login\\vendor\\bootstrap\\css\\bootstrap-reboot.min.css.map",
       "PackagePath": "staticwebassets\\Login\\vendor\\bootstrap\\css\\bootstrap-reboot.min.css.map"
     },
     {
-      "Id": "D:\\Lessons\\CM\\CourseManagement\\CourseManagement\\wwwroot\\Login\\vendor\\bootstrap\\css\\bootstrap.css",
+      "Id": "D:\\Course\\CourseManagement\\CourseManagement\\CourseManagement\\wwwroot\\Login\\vendor\\bootstrap\\css\\bootstrap.css",
       "PackagePath": "staticwebassets\\Login\\vendor\\bootstrap\\css\\bootstrap.css"
     },
     {
-      "Id": "D:\\Lessons\\CM\\CourseManagement\\CourseManagement\\wwwroot\\Login\\vendor\\bootstrap\\css\\bootstrap.css.map",
+      "Id": "D:\\Course\\CourseManagement\\CourseManagement\\CourseManagement\\wwwroot\\Login\\vendor\\bootstrap\\css\\bootstrap.css.map",
       "PackagePath": "staticwebassets\\Login\\vendor\\bootstrap\\css\\bootstrap.css.map"
     },
     {
-      "Id": "D:\\Lessons\\CM\\CourseManagement\\CourseManagement\\wwwroot\\Login\\vendor\\bootstrap\\css\\bootstrap.min.css",
+      "Id": "D:\\Course\\CourseManagement\\CourseManagement\\CourseManagement\\wwwroot\\Login\\vendor\\bootstrap\\css\\bootstrap.min.css",
       "PackagePath": "staticwebassets\\Login\\vendor\\bootstrap\\css\\bootstrap.min.css"
     },
     {
-      "Id": "D:\\Lessons\\CM\\CourseManagement\\CourseManagement\\wwwroot\\Login\\vendor\\bootstrap\\css\\bootstrap.min.css.map",
+      "Id": "D:\\Course\\CourseManagement\\CourseManagement\\CourseManagement\\wwwroot\\Login\\vendor\\bootstrap\\css\\bootstrap.min.css.map",
       "PackagePath": "staticwebassets\\Login\\vendor\\bootstrap\\css\\bootstrap.min.css.map"
     },
     {
-      "Id": "D:\\Lessons\\CM\\CourseManagement\\CourseManagement\\wwwroot\\Login\\vendor\\bootstrap\\js\\bootstrap.js",
+      "Id": "D:\\Course\\CourseManagement\\CourseManagement\\CourseManagement\\wwwroot\\Login\\vendor\\bootstrap\\js\\bootstrap.js",
       "PackagePath": "staticwebassets\\Login\\vendor\\bootstrap\\js\\bootstrap.js"
     },
     {
-      "Id": "D:\\Lessons\\CM\\CourseManagement\\CourseManagement\\wwwroot\\Login\\vendor\\bootstrap\\js\\bootstrap.min.js",
+      "Id": "D:\\Course\\CourseManagement\\CourseManagement\\CourseManagement\\wwwroot\\Login\\vendor\\bootstrap\\js\\bootstrap.min.js",
       "PackagePath": "staticwebassets\\Login\\vendor\\bootstrap\\js\\bootstrap.min.js"
     },
     {
-      "Id": "D:\\Lessons\\CM\\CourseManagement\\CourseManagement\\wwwroot\\Login\\vendor\\bootstrap\\js\\popper.js",
+      "Id": "D:\\Course\\CourseManagement\\CourseManagement\\CourseManagement\\wwwroot\\Login\\vendor\\bootstrap\\js\\popper.js",
       "PackagePath": "staticwebassets\\Login\\vendor\\bootstrap\\js\\popper.js"
     },
     {
-      "Id": "D:\\Lessons\\CM\\CourseManagement\\CourseManagement\\wwwroot\\Login\\vendor\\bootstrap\\js\\popper.min.js",
+      "Id": "D:\\Course\\CourseManagement\\CourseManagement\\CourseManagement\\wwwroot\\Login\\vendor\\bootstrap\\js\\popper.min.js",
       "PackagePath": "staticwebassets\\Login\\vendor\\bootstrap\\js\\popper.min.js"
     },
     {
-      "Id": "D:\\Lessons\\CM\\CourseManagement\\CourseManagement\\wwwroot\\Login\\vendor\\bootstrap\\js\\tooltip.js",
+      "Id": "D:\\Course\\CourseManagement\\CourseManagement\\CourseManagement\\wwwroot\\Login\\vendor\\bootstrap\\js\\tooltip.js",
       "PackagePath": "staticwebassets\\Login\\vendor\\bootstrap\\js\\tooltip.js"
     },
     {
-      "Id": "D:\\Lessons\\CM\\CourseManagement\\CourseManagement\\wwwroot\\Login\\vendor\\countdowntime\\countdowntime.js",
+      "Id": "D:\\Course\\CourseManagement\\CourseManagement\\CourseManagement\\wwwroot\\Login\\vendor\\countdowntime\\countdowntime.js",
       "PackagePath": "staticwebassets\\Login\\vendor\\countdowntime\\countdowntime.js"
     },
     {
-      "Id": "D:\\Lessons\\CM\\CourseManagement\\CourseManagement\\wwwroot\\Login\\vendor\\css-hamburgers\\hamburgers.css",
+      "Id": "D:\\Course\\CourseManagement\\CourseManagement\\CourseManagement\\wwwroot\\Login\\vendor\\css-hamburgers\\hamburgers.css",
       "PackagePath": "staticwebassets\\Login\\vendor\\css-hamburgers\\hamburgers.css"
     },
     {
-      "Id": "D:\\Lessons\\CM\\CourseManagement\\CourseManagement\\wwwroot\\Login\\vendor\\css-hamburgers\\hamburgers.min.css",
+      "Id": "D:\\Course\\CourseManagement\\CourseManagement\\CourseManagement\\wwwroot\\Login\\vendor\\css-hamburgers\\hamburgers.min.css",
       "PackagePath": "staticwebassets\\Login\\vendor\\css-hamburgers\\hamburgers.min.css"
     },
     {
-      "Id": "D:\\Lessons\\CM\\CourseManagement\\CourseManagement\\wwwroot\\Login\\vendor\\daterangepicker\\daterangepicker.css",
+      "Id": "D:\\Course\\CourseManagement\\CourseManagement\\CourseManagement\\wwwroot\\Login\\vendor\\daterangepicker\\daterangepicker.css",
       "PackagePath": "staticwebassets\\Login\\vendor\\daterangepicker\\daterangepicker.css"
     },
     {
-      "Id": "D:\\Lessons\\CM\\CourseManagement\\CourseManagement\\wwwroot\\Login\\vendor\\daterangepicker\\daterangepicker.js",
+      "Id": "D:\\Course\\CourseManagement\\CourseManagement\\CourseManagement\\wwwroot\\Login\\vendor\\daterangepicker\\daterangepicker.js",
       "PackagePath": "staticwebassets\\Login\\vendor\\daterangepicker\\daterangepicker.js"
     },
     {
-      "Id": "D:\\Lessons\\CM\\CourseManagement\\CourseManagement\\wwwroot\\Login\\vendor\\daterangepicker\\moment.js",
+      "Id": "D:\\Course\\CourseManagement\\CourseManagement\\CourseManagement\\wwwroot\\Login\\vendor\\daterangepicker\\moment.js",
       "PackagePath": "staticwebassets\\Login\\vendor\\daterangepicker\\moment.js"
     },
     {
-      "Id": "D:\\Lessons\\CM\\CourseManagement\\CourseManagement\\wwwroot\\Login\\vendor\\daterangepicker\\moment.min.js",
+      "Id": "D:\\Course\\CourseManagement\\CourseManagement\\CourseManagement\\wwwroot\\Login\\vendor\\daterangepicker\\moment.min.js",
       "PackagePath": "staticwebassets\\Login\\vendor\\daterangepicker\\moment.min.js"
     },
     {
-      "Id": "D:\\Lessons\\CM\\CourseManagement\\CourseManagement\\wwwroot\\Login\\vendor\\jquery\\jquery-3.2.1.min.js",
+      "Id": "D:\\Course\\CourseManagement\\CourseManagement\\CourseManagement\\wwwroot\\Login\\vendor\\jquery\\jquery-3.2.1.min.js",
       "PackagePath": "staticwebassets\\Login\\vendor\\jquery\\jquery-3.2.1.min.js"
     },
     {
-      "Id": "D:\\Lessons\\CM\\CourseManagement\\CourseManagement\\wwwroot\\Login\\vendor\\perfect-scrollbar\\perfect-scrollbar.css",
+      "Id": "D:\\Course\\CourseManagement\\CourseManagement\\CourseManagement\\wwwroot\\Login\\vendor\\perfect-scrollbar\\perfect-scrollbar.css",
       "PackagePath": "staticwebassets\\Login\\vendor\\perfect-scrollbar\\perfect-scrollbar.css"
     },
     {
-      "Id": "D:\\Lessons\\CM\\CourseManagement\\CourseManagement\\wwwroot\\Login\\vendor\\perfect-scrollbar\\perfect-scrollbar.min.js",
+      "Id": "D:\\Course\\CourseManagement\\CourseManagement\\CourseManagement\\wwwroot\\Login\\vendor\\perfect-scrollbar\\perfect-scrollbar.min.js",
       "PackagePath": "staticwebassets\\Login\\vendor\\perfect-scrollbar\\perfect-scrollbar.min.js"
     },
     {
-      "Id": "D:\\Lessons\\CM\\CourseManagement\\CourseManagement\\wwwroot\\Login\\vendor\\select2\\select2.css",
+      "Id": "D:\\Course\\CourseManagement\\CourseManagement\\CourseManagement\\wwwroot\\Login\\vendor\\select2\\select2.css",
       "PackagePath": "staticwebassets\\Login\\vendor\\select2\\select2.css"
     },
     {
-      "Id": "D:\\Lessons\\CM\\CourseManagement\\CourseManagement\\wwwroot\\Login\\vendor\\select2\\select2.js",
+      "Id": "D:\\Course\\CourseManagement\\CourseManagement\\CourseManagement\\wwwroot\\Login\\vendor\\select2\\select2.js",
       "PackagePath": "staticwebassets\\Login\\vendor\\select2\\select2.js"
     },
     {
-      "Id": "D:\\Lessons\\CM\\CourseManagement\\CourseManagement\\wwwroot\\Login\\vendor\\select2\\select2.min.css",
+      "Id": "D:\\Course\\CourseManagement\\CourseManagement\\CourseManagement\\wwwroot\\Login\\vendor\\select2\\select2.min.css",
       "PackagePath": "staticwebassets\\Login\\vendor\\select2\\select2.min.css"
     },
     {
-      "Id": "D:\\Lessons\\CM\\CourseManagement\\CourseManagement\\wwwroot\\Login\\vendor\\select2\\select2.min.js",
+      "Id": "D:\\Course\\CourseManagement\\CourseManagement\\CourseManagement\\wwwroot\\Login\\vendor\\select2\\select2.min.js",
       "PackagePath": "staticwebassets\\Login\\vendor\\select2\\select2.min.js"
     },
     {
-      "Id": "D:\\Lessons\\CM\\CourseManagement\\CourseManagement\\wwwroot\\css\\acccessDenied.css",
+      "Id": "D:\\Course\\CourseManagement\\CourseManagement\\CourseManagement\\wwwroot\\css\\acccessDenied.css",
       "PackagePath": "staticwebassets\\css\\acccessDenied.css"
     },
     {
-      "Id": "D:\\Lessons\\CM\\CourseManagement\\CourseManagement\\wwwroot\\css\\animate.css",
+      "Id": "D:\\Course\\CourseManagement\\CourseManagement\\CourseManagement\\wwwroot\\css\\animate.css",
       "PackagePath": "staticwebassets\\css\\animate.css"
     },
     {
-      "Id": "D:\\Lessons\\CM\\CourseManagement\\CourseManagement\\wwwroot\\css\\bootstrap.min.css",
+      "Id": "D:\\Course\\CourseManagement\\CourseManagement\\CourseManagement\\wwwroot\\css\\bootstrap.min.css",
       "PackagePath": "staticwebassets\\css\\bootstrap.min.css"
     },
     {
-      "Id": "D:\\Lessons\\CM\\CourseManagement\\CourseManagement\\wwwroot\\css\\default.css",
+      "Id": "D:\\Course\\CourseManagement\\CourseManagement\\CourseManagement\\wwwroot\\css\\default.css",
       "PackagePath": "staticwebassets\\css\\default.css"
     },
     {
-      "Id": "D:\\Lessons\\CM\\CourseManagement\\CourseManagement\\wwwroot\\css\\font-awesome.min.css",
+      "Id": "D:\\Course\\CourseManagement\\CourseManagement\\CourseManagement\\wwwroot\\css\\font-awesome.min.css",
       "PackagePath": "staticwebassets\\css\\font-awesome.min.css"
     },
     {
-      "Id": "D:\\Lessons\\CM\\CourseManagement\\CourseManagement\\wwwroot\\css\\jquery.nice-number.min.css",
+      "Id": "D:\\Course\\CourseManagement\\CourseManagement\\CourseManagement\\wwwroot\\css\\jquery.nice-number.min.css",
       "PackagePath": "staticwebassets\\css\\jquery.nice-number.min.css"
     },
     {
-      "Id": "D:\\Lessons\\CM\\CourseManagement\\CourseManagement\\wwwroot\\css\\magnific-popup.css",
+      "Id": "D:\\Course\\CourseManagement\\CourseManagement\\CourseManagement\\wwwroot\\css\\magnific-popup.css",
       "PackagePath": "staticwebassets\\css\\magnific-popup.css"
     },
     {
-      "Id": "D:\\Lessons\\CM\\CourseManagement\\CourseManagement\\wwwroot\\css\\main.css",
+      "Id": "D:\\Course\\CourseManagement\\CourseManagement\\CourseManagement\\wwwroot\\css\\main.css",
       "PackagePath": "staticwebassets\\css\\main.css"
     },
     {
-      "Id": "D:\\Lessons\\CM\\CourseManagement\\CourseManagement\\wwwroot\\css\\nice-select.css",
+      "Id": "D:\\Course\\CourseManagement\\CourseManagement\\CourseManagement\\wwwroot\\css\\nice-select.css",
       "PackagePath": "staticwebassets\\css\\nice-select.css"
     },
     {
-      "Id": "D:\\Lessons\\CM\\CourseManagement\\CourseManagement\\wwwroot\\css\\responsive.css",
+      "Id": "D:\\Course\\CourseManagement\\CourseManagement\\CourseManagement\\wwwroot\\css\\responsive.css",
       "PackagePath": "staticwebassets\\css\\responsive.css"
     },
     {
-      "Id": "D:\\Lessons\\CM\\CourseManagement\\CourseManagement\\wwwroot\\css\\slick.css",
+      "Id": "D:\\Course\\CourseManagement\\CourseManagement\\CourseManagement\\wwwroot\\css\\slick.css",
       "PackagePath": "staticwebassets\\css\\slick.css"
     },
     {
-      "Id": "D:\\Lessons\\CM\\CourseManagement\\CourseManagement\\wwwroot\\css\\style.css",
+      "Id": "D:\\Course\\CourseManagement\\CourseManagement\\CourseManagement\\wwwroot\\css\\style.css",
       "PackagePath": "staticwebassets\\css\\style.css"
     },
     {
-      "Id": "D:\\Lessons\\CM\\CourseManagement\\CourseManagement\\wwwroot\\css\\util.css",
+      "Id": "D:\\Course\\CourseManagement\\CourseManagement\\CourseManagement\\wwwroot\\css\\util.css",
       "PackagePath": "staticwebassets\\css\\util.css"
     },
     {
-      "Id": "D:\\Lessons\\CM\\CourseManagement\\CourseManagement\\wwwroot\\fonts\\Linearicons-Free-v1.0.0\\WebFont\\Linearicons-Free.eot",
+      "Id": "D:\\Course\\CourseManagement\\CourseManagement\\CourseManagement\\wwwroot\\fonts\\Linearicons-Free-v1.0.0\\WebFont\\Linearicons-Free.eot",
       "PackagePath": "staticwebassets\\fonts\\Linearicons-Free-v1.0.0\\WebFont\\Linearicons-Free.eot"
     },
     {
-      "Id": "D:\\Lessons\\CM\\CourseManagement\\CourseManagement\\wwwroot\\fonts\\Linearicons-Free-v1.0.0\\WebFont\\Linearicons-Free.svg",
+      "Id": "D:\\Course\\CourseManagement\\CourseManagement\\CourseManagement\\wwwroot\\fonts\\Linearicons-Free-v1.0.0\\WebFont\\Linearicons-Free.svg",
       "PackagePath": "staticwebassets\\fonts\\Linearicons-Free-v1.0.0\\WebFont\\Linearicons-Free.svg"
     },
     {
-      "Id": "D:\\Lessons\\CM\\CourseManagement\\CourseManagement\\wwwroot\\fonts\\Linearicons-Free-v1.0.0\\WebFont\\Linearicons-Free.ttf",
+      "Id": "D:\\Course\\CourseManagement\\CourseManagement\\CourseManagement\\wwwroot\\fonts\\Linearicons-Free-v1.0.0\\WebFont\\Linearicons-Free.ttf",
       "PackagePath": "staticwebassets\\fonts\\Linearicons-Free-v1.0.0\\WebFont\\Linearicons-Free.ttf"
     },
     {
-      "Id": "D:\\Lessons\\CM\\CourseManagement\\CourseManagement\\wwwroot\\fonts\\Linearicons-Free-v1.0.0\\WebFont\\Linearicons-Free.woff",
+      "Id": "D:\\Course\\CourseManagement\\CourseManagement\\CourseManagement\\wwwroot\\fonts\\Linearicons-Free-v1.0.0\\WebFont\\Linearicons-Free.woff",
       "PackagePath": "staticwebassets\\fonts\\Linearicons-Free-v1.0.0\\WebFont\\Linearicons-Free.woff"
     },
     {
-      "Id": "D:\\Lessons\\CM\\CourseManagement\\CourseManagement\\wwwroot\\fonts\\Linearicons-Free-v1.0.0\\WebFont\\Linearicons-Free.woff2",
+      "Id": "D:\\Course\\CourseManagement\\CourseManagement\\CourseManagement\\wwwroot\\fonts\\Linearicons-Free-v1.0.0\\WebFont\\Linearicons-Free.woff2",
       "PackagePath": "staticwebassets\\fonts\\Linearicons-Free-v1.0.0\\WebFont\\Linearicons-Free.woff2"
     },
     {
-      "Id": "D:\\Lessons\\CM\\CourseManagement\\CourseManagement\\wwwroot\\fonts\\Linearicons-Free-v1.0.0\\icon-font.min.css",
+      "Id": "D:\\Course\\CourseManagement\\CourseManagement\\CourseManagement\\wwwroot\\fonts\\Linearicons-Free-v1.0.0\\icon-font.min.css",
       "PackagePath": "staticwebassets\\fonts\\Linearicons-Free-v1.0.0\\icon-font.min.css"
     },
     {
-      "Id": "D:\\Lessons\\CM\\CourseManagement\\CourseManagement\\wwwroot\\fonts\\font-awesome-4.7.0\\HELP-US-OUT.txt",
+      "Id": "D:\\Course\\CourseManagement\\CourseManagement\\CourseManagement\\wwwroot\\fonts\\font-awesome-4.7.0\\HELP-US-OUT.txt",
       "PackagePath": "staticwebassets\\fonts\\font-awesome-4.7.0\\HELP-US-OUT.txt"
     },
     {
-      "Id": "D:\\Lessons\\CM\\CourseManagement\\CourseManagement\\wwwroot\\fonts\\font-awesome-4.7.0\\css\\font-awesome.css",
+      "Id": "D:\\Course\\CourseManagement\\CourseManagement\\CourseManagement\\wwwroot\\fonts\\font-awesome-4.7.0\\css\\font-awesome.css",
       "PackagePath": "staticwebassets\\fonts\\font-awesome-4.7.0\\css\\font-awesome.css"
     },
     {
-      "Id": "D:\\Lessons\\CM\\CourseManagement\\CourseManagement\\wwwroot\\fonts\\font-awesome-4.7.0\\css\\font-awesome.min.css",
+      "Id": "D:\\Course\\CourseManagement\\CourseManagement\\CourseManagement\\wwwroot\\fonts\\font-awesome-4.7.0\\css\\font-awesome.min.css",
       "PackagePath": "staticwebassets\\fonts\\font-awesome-4.7.0\\css\\font-awesome.min.css"
     },
     {
-      "Id": "D:\\Lessons\\CM\\CourseManagement\\CourseManagement\\wwwroot\\fonts\\font-awesome-4.7.0\\fonts\\FontAwesome.otf",
+      "Id": "D:\\Course\\CourseManagement\\CourseManagement\\CourseManagement\\wwwroot\\fonts\\font-awesome-4.7.0\\fonts\\FontAwesome.otf",
       "PackagePath": "staticwebassets\\fonts\\font-awesome-4.7.0\\fonts\\FontAwesome.otf"
     },
     {
-      "Id": "D:\\Lessons\\CM\\CourseManagement\\CourseManagement\\wwwroot\\fonts\\font-awesome-4.7.0\\fonts\\fontawesome-webfont.eot",
+      "Id": "D:\\Course\\CourseManagement\\CourseManagement\\CourseManagement\\wwwroot\\fonts\\font-awesome-4.7.0\\fonts\\fontawesome-webfont.eot",
       "PackagePath": "staticwebassets\\fonts\\font-awesome-4.7.0\\fonts\\fontawesome-webfont.eot"
     },
     {
-      "Id": "D:\\Lessons\\CM\\CourseManagement\\CourseManagement\\wwwroot\\fonts\\font-awesome-4.7.0\\fonts\\fontawesome-webfont.svg",
+      "Id": "D:\\Course\\CourseManagement\\CourseManagement\\CourseManagement\\wwwroot\\fonts\\font-awesome-4.7.0\\fonts\\fontawesome-webfont.svg",
       "PackagePath": "staticwebassets\\fonts\\font-awesome-4.7.0\\fonts\\fontawesome-webfont.svg"
     },
     {
-      "Id": "D:\\Lessons\\CM\\CourseManagement\\CourseManagement\\wwwroot\\fonts\\font-awesome-4.7.0\\fonts\\fontawesome-webfont.ttf",
+      "Id": "D:\\Course\\CourseManagement\\CourseManagement\\CourseManagement\\wwwroot\\fonts\\font-awesome-4.7.0\\fonts\\fontawesome-webfont.ttf",
       "PackagePath": "staticwebassets\\fonts\\font-awesome-4.7.0\\fonts\\fontawesome-webfont.ttf"
     },
     {
-      "Id": "D:\\Lessons\\CM\\CourseManagement\\CourseManagement\\wwwroot\\fonts\\font-awesome-4.7.0\\fonts\\fontawesome-webfont.woff",
+      "Id": "D:\\Course\\CourseManagement\\CourseManagement\\CourseManagement\\wwwroot\\fonts\\font-awesome-4.7.0\\fonts\\fontawesome-webfont.woff",
       "PackagePath": "staticwebassets\\fonts\\font-awesome-4.7.0\\fonts\\fontawesome-webfont.woff"
     },
     {
-      "Id": "D:\\Lessons\\CM\\CourseManagement\\CourseManagement\\wwwroot\\fonts\\font-awesome-4.7.0\\fonts\\fontawesome-webfont.woff2",
+      "Id": "D:\\Course\\CourseManagement\\CourseManagement\\CourseManagement\\wwwroot\\fonts\\font-awesome-4.7.0\\fonts\\fontawesome-webfont.woff2",
       "PackagePath": "staticwebassets\\fonts\\font-awesome-4.7.0\\fonts\\fontawesome-webfont.woff2"
     },
     {
-      "Id": "D:\\Lessons\\CM\\CourseManagement\\CourseManagement\\wwwroot\\fonts\\font-awesome-4.7.0\\less\\animated.less",
+      "Id": "D:\\Course\\CourseManagement\\CourseManagement\\CourseManagement\\wwwroot\\fonts\\font-awesome-4.7.0\\less\\animated.less",
       "PackagePath": "staticwebassets\\fonts\\font-awesome-4.7.0\\less\\animated.less"
     },
     {
-      "Id": "D:\\Lessons\\CM\\CourseManagement\\CourseManagement\\wwwroot\\fonts\\font-awesome-4.7.0\\less\\bordered-pulled.less",
+      "Id": "D:\\Course\\CourseManagement\\CourseManagement\\CourseManagement\\wwwroot\\fonts\\font-awesome-4.7.0\\less\\bordered-pulled.less",
       "PackagePath": "staticwebassets\\fonts\\font-awesome-4.7.0\\less\\bordered-pulled.less"
     },
     {
-      "Id": "D:\\Lessons\\CM\\CourseManagement\\CourseManagement\\wwwroot\\fonts\\font-awesome-4.7.0\\less\\core.less",
+      "Id": "D:\\Course\\CourseManagement\\CourseManagement\\CourseManagement\\wwwroot\\fonts\\font-awesome-4.7.0\\less\\core.less",
       "PackagePath": "staticwebassets\\fonts\\font-awesome-4.7.0\\less\\core.less"
     },
     {
-      "Id": "D:\\Lessons\\CM\\CourseManagement\\CourseManagement\\wwwroot\\fonts\\font-awesome-4.7.0\\less\\fixed-width.less",
+      "Id": "D:\\Course\\CourseManagement\\CourseManagement\\CourseManagement\\wwwroot\\fonts\\font-awesome-4.7.0\\less\\fixed-width.less",
       "PackagePath": "staticwebassets\\fonts\\font-awesome-4.7.0\\less\\fixed-width.less"
     },
     {
-      "Id": "D:\\Lessons\\CM\\CourseManagement\\CourseManagement\\wwwroot\\fonts\\font-awesome-4.7.0\\less\\font-awesome.less",
+      "Id": "D:\\Course\\CourseManagement\\CourseManagement\\CourseManagement\\wwwroot\\fonts\\font-awesome-4.7.0\\less\\font-awesome.less",
       "PackagePath": "staticwebassets\\fonts\\font-awesome-4.7.0\\less\\font-awesome.less"
     },
     {
-      "Id": "D:\\Lessons\\CM\\CourseManagement\\CourseManagement\\wwwroot\\fonts\\font-awesome-4.7.0\\less\\icons.less",
+      "Id": "D:\\Course\\CourseManagement\\CourseManagement\\CourseManagement\\wwwroot\\fonts\\font-awesome-4.7.0\\less\\icons.less",
       "PackagePath": "staticwebassets\\fonts\\font-awesome-4.7.0\\less\\icons.less"
     },
     {
-      "Id": "D:\\Lessons\\CM\\CourseManagement\\CourseManagement\\wwwroot\\fonts\\font-awesome-4.7.0\\less\\larger.less",
+      "Id": "D:\\Course\\CourseManagement\\CourseManagement\\CourseManagement\\wwwroot\\fonts\\font-awesome-4.7.0\\less\\larger.less",
       "PackagePath": "staticwebassets\\fonts\\font-awesome-4.7.0\\less\\larger.less"
     },
     {
-      "Id": "D:\\Lessons\\CM\\CourseManagement\\CourseManagement\\wwwroot\\fonts\\font-awesome-4.7.0\\less\\list.less",
+      "Id": "D:\\Course\\CourseManagement\\CourseManagement\\CourseManagement\\wwwroot\\fonts\\font-awesome-4.7.0\\less\\list.less",
       "PackagePath": "staticwebassets\\fonts\\font-awesome-4.7.0\\less\\list.less"
     },
     {
-      "Id": "D:\\Lessons\\CM\\CourseManagement\\CourseManagement\\wwwroot\\fonts\\font-awesome-4.7.0\\less\\mixins.less",
+      "Id": "D:\\Course\\CourseManagement\\CourseManagement\\CourseManagement\\wwwroot\\fonts\\font-awesome-4.7.0\\less\\mixins.less",
       "PackagePath": "staticwebassets\\fonts\\font-awesome-4.7.0\\less\\mixins.less"
     },
     {
-      "Id": "D:\\Lessons\\CM\\CourseManagement\\CourseManagement\\wwwroot\\fonts\\font-awesome-4.7.0\\less\\path.less",
+      "Id": "D:\\Course\\CourseManagement\\CourseManagement\\CourseManagement\\wwwroot\\fonts\\font-awesome-4.7.0\\less\\path.less",
       "PackagePath": "staticwebassets\\fonts\\font-awesome-4.7.0\\less\\path.less"
     },
     {
-      "Id": "D:\\Lessons\\CM\\CourseManagement\\CourseManagement\\wwwroot\\fonts\\font-awesome-4.7.0\\less\\rotated-flipped.less",
+      "Id": "D:\\Course\\CourseManagement\\CourseManagement\\CourseManagement\\wwwroot\\fonts\\font-awesome-4.7.0\\less\\rotated-flipped.less",
       "PackagePath": "staticwebassets\\fonts\\font-awesome-4.7.0\\less\\rotated-flipped.less"
     },
     {
-      "Id": "D:\\Lessons\\CM\\CourseManagement\\CourseManagement\\wwwroot\\fonts\\font-awesome-4.7.0\\less\\screen-reader.less",
+      "Id": "D:\\Course\\CourseManagement\\CourseManagement\\CourseManagement\\wwwroot\\fonts\\font-awesome-4.7.0\\less\\screen-reader.less",
       "PackagePath": "staticwebassets\\fonts\\font-awesome-4.7.0\\less\\screen-reader.less"
     },
     {
-      "Id": "D:\\Lessons\\CM\\CourseManagement\\CourseManagement\\wwwroot\\fonts\\font-awesome-4.7.0\\less\\stacked.less",
+      "Id": "D:\\Course\\CourseManagement\\CourseManagement\\CourseManagement\\wwwroot\\fonts\\font-awesome-4.7.0\\less\\stacked.less",
       "PackagePath": "staticwebassets\\fonts\\font-awesome-4.7.0\\less\\stacked.less"
     },
     {
-      "Id": "D:\\Lessons\\CM\\CourseManagement\\CourseManagement\\wwwroot\\fonts\\font-awesome-4.7.0\\less\\variables.less",
+      "Id": "D:\\Course\\CourseManagement\\CourseManagement\\CourseManagement\\wwwroot\\fonts\\font-awesome-4.7.0\\less\\variables.less",
       "PackagePath": "staticwebassets\\fonts\\font-awesome-4.7.0\\less\\variables.less"
     },
     {
-      "Id": "D:\\Lessons\\CM\\CourseManagement\\CourseManagement\\wwwroot\\fonts\\font-awesome-4.7.0\\scss\\_animated.scss",
+      "Id": "D:\\Course\\CourseManagement\\CourseManagement\\CourseManagement\\wwwroot\\fonts\\font-awesome-4.7.0\\scss\\_animated.scss",
       "PackagePath": "staticwebassets\\fonts\\font-awesome-4.7.0\\scss\\_animated.scss"
     },
     {
-      "Id": "D:\\Lessons\\CM\\CourseManagement\\CourseManagement\\wwwroot\\fonts\\font-awesome-4.7.0\\scss\\_bordered-pulled.scss",
+      "Id": "D:\\Course\\CourseManagement\\CourseManagement\\CourseManagement\\wwwroot\\fonts\\font-awesome-4.7.0\\scss\\_bordered-pulled.scss",
       "PackagePath": "staticwebassets\\fonts\\font-awesome-4.7.0\\scss\\_bordered-pulled.scss"
     },
     {
-      "Id": "D:\\Lessons\\CM\\CourseManagement\\CourseManagement\\wwwroot\\fonts\\font-awesome-4.7.0\\scss\\_core.scss",
+      "Id": "D:\\Course\\CourseManagement\\CourseManagement\\CourseManagement\\wwwroot\\fonts\\font-awesome-4.7.0\\scss\\_core.scss",
       "PackagePath": "staticwebassets\\fonts\\font-awesome-4.7.0\\scss\\_core.scss"
     },
     {
-      "Id": "D:\\Lessons\\CM\\CourseManagement\\CourseManagement\\wwwroot\\fonts\\font-awesome-4.7.0\\scss\\_fixed-width.scss",
+      "Id": "D:\\Course\\CourseManagement\\CourseManagement\\CourseManagement\\wwwroot\\fonts\\font-awesome-4.7.0\\scss\\_fixed-width.scss",
       "PackagePath": "staticwebassets\\fonts\\font-awesome-4.7.0\\scss\\_fixed-width.scss"
     },
     {
-      "Id": "D:\\Lessons\\CM\\CourseManagement\\CourseManagement\\wwwroot\\fonts\\font-awesome-4.7.0\\scss\\_icons.scss",
+      "Id": "D:\\Course\\CourseManagement\\CourseManagement\\CourseManagement\\wwwroot\\fonts\\font-awesome-4.7.0\\scss\\_icons.scss",
       "PackagePath": "staticwebassets\\fonts\\font-awesome-4.7.0\\scss\\_icons.scss"
     },
     {
-      "Id": "D:\\Lessons\\CM\\CourseManagement\\CourseManagement\\wwwroot\\fonts\\font-awesome-4.7.0\\scss\\_larger.scss",
+      "Id": "D:\\Course\\CourseManagement\\CourseManagement\\CourseManagement\\wwwroot\\fonts\\font-awesome-4.7.0\\scss\\_larger.scss",
       "PackagePath": "staticwebassets\\fonts\\font-awesome-4.7.0\\scss\\_larger.scss"
     },
     {
-      "Id": "D:\\Lessons\\CM\\CourseManagement\\CourseManagement\\wwwroot\\fonts\\font-awesome-4.7.0\\scss\\_list.scss",
+      "Id": "D:\\Course\\CourseManagement\\CourseManagement\\CourseManagement\\wwwroot\\fonts\\font-awesome-4.7.0\\scss\\_list.scss",
       "PackagePath": "staticwebassets\\fonts\\font-awesome-4.7.0\\scss\\_list.scss"
     },
     {
-      "Id": "D:\\Lessons\\CM\\CourseManagement\\CourseManagement\\wwwroot\\fonts\\font-awesome-4.7.0\\scss\\_mixins.scss",
+      "Id": "D:\\Course\\CourseManagement\\CourseManagement\\CourseManagement\\wwwroot\\fonts\\font-awesome-4.7.0\\scss\\_mixins.scss",
       "PackagePath": "staticwebassets\\fonts\\font-awesome-4.7.0\\scss\\_mixins.scss"
     },
     {
-      "Id": "D:\\Lessons\\CM\\CourseManagement\\CourseManagement\\wwwroot\\fonts\\font-awesome-4.7.0\\scss\\_path.scss",
+      "Id": "D:\\Course\\CourseManagement\\CourseManagement\\CourseManagement\\wwwroot\\fonts\\font-awesome-4.7.0\\scss\\_path.scss",
       "PackagePath": "staticwebassets\\fonts\\font-awesome-4.7.0\\scss\\_path.scss"
     },
     {
-      "Id": "D:\\Lessons\\CM\\CourseManagement\\CourseManagement\\wwwroot\\fonts\\font-awesome-4.7.0\\scss\\_rotated-flipped.scss",
+      "Id": "D:\\Course\\CourseManagement\\CourseManagement\\CourseManagement\\wwwroot\\fonts\\font-awesome-4.7.0\\scss\\_rotated-flipped.scss",
       "PackagePath": "staticwebassets\\fonts\\font-awesome-4.7.0\\scss\\_rotated-flipped.scss"
     },
     {
-      "Id": "D:\\Lessons\\CM\\CourseManagement\\CourseManagement\\wwwroot\\fonts\\font-awesome-4.7.0\\scss\\_screen-reader.scss",
+      "Id": "D:\\Course\\CourseManagement\\CourseManagement\\CourseManagement\\wwwroot\\fonts\\font-awesome-4.7.0\\scss\\_screen-reader.scss",
       "PackagePath": "staticwebassets\\fonts\\font-awesome-4.7.0\\scss\\_screen-reader.scss"
     },
     {
-      "Id": "D:\\Lessons\\CM\\CourseManagement\\CourseManagement\\wwwroot\\fonts\\font-awesome-4.7.0\\scss\\_stacked.scss",
+      "Id": "D:\\Course\\CourseManagement\\CourseManagement\\CourseManagement\\wwwroot\\fonts\\font-awesome-4.7.0\\scss\\_stacked.scss",
       "PackagePath": "staticwebassets\\fonts\\font-awesome-4.7.0\\scss\\_stacked.scss"
     },
     {
-      "Id": "D:\\Lessons\\CM\\CourseManagement\\CourseManagement\\wwwroot\\fonts\\font-awesome-4.7.0\\scss\\_variables.scss",
+      "Id": "D:\\Course\\CourseManagement\\CourseManagement\\CourseManagement\\wwwroot\\fonts\\font-awesome-4.7.0\\scss\\_variables.scss",
       "PackagePath": "staticwebassets\\fonts\\font-awesome-4.7.0\\scss\\_variables.scss"
     },
     {
-      "Id": "D:\\Lessons\\CM\\CourseManagement\\CourseManagement\\wwwroot\\fonts\\font-awesome-4.7.0\\scss\\font-awesome.scss",
+      "Id": "D:\\Course\\CourseManagement\\CourseManagement\\CourseManagement\\wwwroot\\fonts\\font-awesome-4.7.0\\scss\\font-awesome.scss",
       "PackagePath": "staticwebassets\\fonts\\font-awesome-4.7.0\\scss\\font-awesome.scss"
     },
     {
-      "Id": "D:\\Lessons\\CM\\CourseManagement\\CourseManagement\\wwwroot\\fonts\\fontawesome-webfont3e6e.eot",
+      "Id": "D:\\Course\\CourseManagement\\CourseManagement\\CourseManagement\\wwwroot\\fonts\\fontawesome-webfont3e6e.eot",
       "PackagePath": "staticwebassets\\fonts\\fontawesome-webfont3e6e.eot"
     },
     {
-      "Id": "D:\\Lessons\\CM\\CourseManagement\\CourseManagement\\wwwroot\\fonts\\fontawesome-webfont3e6e.svg",
+      "Id": "D:\\Course\\CourseManagement\\CourseManagement\\CourseManagement\\wwwroot\\fonts\\fontawesome-webfont3e6e.svg",
       "PackagePath": "staticwebassets\\fonts\\fontawesome-webfont3e6e.svg"
     },
     {
-      "Id": "D:\\Lessons\\CM\\CourseManagement\\CourseManagement\\wwwroot\\fonts\\fontawesome-webfont3e6e.ttf",
+      "Id": "D:\\Course\\CourseManagement\\CourseManagement\\CourseManagement\\wwwroot\\fonts\\fontawesome-webfont3e6e.ttf",
       "PackagePath": "staticwebassets\\fonts\\fontawesome-webfont3e6e.ttf"
     },
     {
-      "Id": "D:\\Lessons\\CM\\CourseManagement\\CourseManagement\\wwwroot\\fonts\\fontawesome-webfont3e6e.woff",
+      "Id": "D:\\Course\\CourseManagement\\CourseManagement\\CourseManagement\\wwwroot\\fonts\\fontawesome-webfont3e6e.woff",
       "PackagePath": "staticwebassets\\fonts\\fontawesome-webfont3e6e.woff"
     },
     {
-      "Id": "D:\\Lessons\\CM\\CourseManagement\\CourseManagement\\wwwroot\\fonts\\fontawesome-webfont3e6e.woff2",
+      "Id": "D:\\Course\\CourseManagement\\CourseManagement\\CourseManagement\\wwwroot\\fonts\\fontawesome-webfont3e6e.woff2",
       "PackagePath": "staticwebassets\\fonts\\fontawesome-webfont3e6e.woff2"
     },
     {
-      "Id": "D:\\Lessons\\CM\\CourseManagement\\CourseManagement\\wwwroot\\fonts\\fontawesome-webfontd41d.eot",
+      "Id": "D:\\Course\\CourseManagement\\CourseManagement\\CourseManagement\\wwwroot\\fonts\\fontawesome-webfontd41d.eot",
       "PackagePath": "staticwebassets\\fonts\\fontawesome-webfontd41d.eot"
     },
     {
-      "Id": "D:\\Lessons\\CM\\CourseManagement\\CourseManagement\\wwwroot\\fonts\\iconic\\css\\material-design-iconic-font.css",
+      "Id": "D:\\Course\\CourseManagement\\CourseManagement\\CourseManagement\\wwwroot\\fonts\\iconic\\css\\material-design-iconic-font.css",
       "PackagePath": "staticwebassets\\fonts\\iconic\\css\\material-design-iconic-font.css"
     },
     {
-      "Id": "D:\\Lessons\\CM\\CourseManagement\\CourseManagement\\wwwroot\\fonts\\iconic\\css\\material-design-iconic-font.min.css",
+      "Id": "D:\\Course\\CourseManagement\\CourseManagement\\CourseManagement\\wwwroot\\fonts\\iconic\\css\\material-design-iconic-font.min.css",
       "PackagePath": "staticwebassets\\fonts\\iconic\\css\\material-design-iconic-font.min.css"
     },
     {
-      "Id": "D:\\Lessons\\CM\\CourseManagement\\CourseManagement\\wwwroot\\fonts\\iconic\\fonts\\Material-Design-Iconic-Font.eot",
+      "Id": "D:\\Course\\CourseManagement\\CourseManagement\\CourseManagement\\wwwroot\\fonts\\iconic\\fonts\\Material-Design-Iconic-Font.eot",
       "PackagePath": "staticwebassets\\fonts\\iconic\\fonts\\Material-Design-Iconic-Font.eot"
     },
     {
-      "Id": "D:\\Lessons\\CM\\CourseManagement\\CourseManagement\\wwwroot\\fonts\\iconic\\fonts\\Material-Design-Iconic-Font.svg",
+      "Id": "D:\\Course\\CourseManagement\\CourseManagement\\CourseManagement\\wwwroot\\fonts\\iconic\\fonts\\Material-Design-Iconic-Font.svg",
       "PackagePath": "staticwebassets\\fonts\\iconic\\fonts\\Material-Design-Iconic-Font.svg"
     },
     {
-      "Id": "D:\\Lessons\\CM\\CourseManagement\\CourseManagement\\wwwroot\\fonts\\iconic\\fonts\\Material-Design-Iconic-Font.ttf",
+      "Id": "D:\\Course\\CourseManagement\\CourseManagement\\CourseManagement\\wwwroot\\fonts\\iconic\\fonts\\Material-Design-Iconic-Font.ttf",
       "PackagePath": "staticwebassets\\fonts\\iconic\\fonts\\Material-Design-Iconic-Font.ttf"
     },
     {
-      "Id": "D:\\Lessons\\CM\\CourseManagement\\CourseManagement\\wwwroot\\fonts\\iconic\\fonts\\Material-Design-Iconic-Font.woff",
+      "Id": "D:\\Course\\CourseManagement\\CourseManagement\\CourseManagement\\wwwroot\\fonts\\iconic\\fonts\\Material-Design-Iconic-Font.woff",
       "PackagePath": "staticwebassets\\fonts\\iconic\\fonts\\Material-Design-Iconic-Font.woff"
     },
     {
-      "Id": "D:\\Lessons\\CM\\CourseManagement\\CourseManagement\\wwwroot\\fonts\\iconic\\fonts\\Material-Design-Iconic-Font.woff2",
+      "Id": "D:\\Course\\CourseManagement\\CourseManagement\\CourseManagement\\wwwroot\\fonts\\iconic\\fonts\\Material-Design-Iconic-Font.woff2",
       "PackagePath": "staticwebassets\\fonts\\iconic\\fonts\\Material-Design-Iconic-Font.woff2"
     },
     {
-      "Id": "D:\\Lessons\\CM\\CourseManagement\\CourseManagement\\wwwroot\\fonts\\poppins\\Poppins-Black.ttf",
+      "Id": "D:\\Course\\CourseManagement\\CourseManagement\\CourseManagement\\wwwroot\\fonts\\poppins\\Poppins-Black.ttf",
       "PackagePath": "staticwebassets\\fonts\\poppins\\Poppins-Black.ttf"
     },
     {
-      "Id": "D:\\Lessons\\CM\\CourseManagement\\CourseManagement\\wwwroot\\fonts\\poppins\\Poppins-BlackItalic.ttf",
+      "Id": "D:\\Course\\CourseManagement\\CourseManagement\\CourseManagement\\wwwroot\\fonts\\poppins\\Poppins-BlackItalic.ttf",
       "PackagePath": "staticwebassets\\fonts\\poppins\\Poppins-BlackItalic.ttf"
     },
     {
-      "Id": "D:\\Lessons\\CM\\CourseManagement\\CourseManagement\\wwwroot\\fonts\\poppins\\Poppins-Bold.ttf",
+      "Id": "D:\\Course\\CourseManagement\\CourseManagement\\CourseManagement\\wwwroot\\fonts\\poppins\\Poppins-Bold.ttf",
       "PackagePath": "staticwebassets\\fonts\\poppins\\Poppins-Bold.ttf"
     },
     {
-      "Id": "D:\\Lessons\\CM\\CourseManagement\\CourseManagement\\wwwroot\\fonts\\poppins\\Poppins-BoldItalic.ttf",
+      "Id": "D:\\Course\\CourseManagement\\CourseManagement\\CourseManagement\\wwwroot\\fonts\\poppins\\Poppins-BoldItalic.ttf",
       "PackagePath": "staticwebassets\\fonts\\poppins\\Poppins-BoldItalic.ttf"
     },
     {
-      "Id": "D:\\Lessons\\CM\\CourseManagement\\CourseManagement\\wwwroot\\fonts\\poppins\\Poppins-ExtraBold.ttf",
+      "Id": "D:\\Course\\CourseManagement\\CourseManagement\\CourseManagement\\wwwroot\\fonts\\poppins\\Poppins-ExtraBold.ttf",
       "PackagePath": "staticwebassets\\fonts\\poppins\\Poppins-ExtraBold.ttf"
     },
     {
-      "Id": "D:\\Lessons\\CM\\CourseManagement\\CourseManagement\\wwwroot\\fonts\\poppins\\Poppins-ExtraBoldItalic.ttf",
+      "Id": "D:\\Course\\CourseManagement\\CourseManagement\\CourseManagement\\wwwroot\\fonts\\poppins\\Poppins-ExtraBoldItalic.ttf",
       "PackagePath": "staticwebassets\\fonts\\poppins\\Poppins-ExtraBoldItalic.ttf"
     },
     {
-      "Id": "D:\\Lessons\\CM\\CourseManagement\\CourseManagement\\wwwroot\\fonts\\poppins\\Poppins-ExtraLight.ttf",
+      "Id": "D:\\Course\\CourseManagement\\CourseManagement\\CourseManagement\\wwwroot\\fonts\\poppins\\Poppins-ExtraLight.ttf",
       "PackagePath": "staticwebassets\\fonts\\poppins\\Poppins-ExtraLight.ttf"
     },
     {
-      "Id": "D:\\Lessons\\CM\\CourseManagement\\CourseManagement\\wwwroot\\fonts\\poppins\\Poppins-ExtraLightItalic.ttf",
+      "Id": "D:\\Course\\CourseManagement\\CourseManagement\\CourseManagement\\wwwroot\\fonts\\poppins\\Poppins-ExtraLightItalic.ttf",
       "PackagePath": "staticwebassets\\fonts\\poppins\\Poppins-ExtraLightItalic.ttf"
     },
     {
-      "Id": "D:\\Lessons\\CM\\CourseManagement\\CourseManagement\\wwwroot\\fonts\\poppins\\Poppins-Italic.ttf",
+      "Id": "D:\\Course\\CourseManagement\\CourseManagement\\CourseManagement\\wwwroot\\fonts\\poppins\\Poppins-Italic.ttf",
       "PackagePath": "staticwebassets\\fonts\\poppins\\Poppins-Italic.ttf"
     },
     {
-      "Id": "D:\\Lessons\\CM\\CourseManagement\\CourseManagement\\wwwroot\\fonts\\poppins\\Poppins-Light.ttf",
+      "Id": "D:\\Course\\CourseManagement\\CourseManagement\\CourseManagement\\wwwroot\\fonts\\poppins\\Poppins-Light.ttf",
       "PackagePath": "staticwebassets\\fonts\\poppins\\Poppins-Light.ttf"
     },
     {
-      "Id": "D:\\Lessons\\CM\\CourseManagement\\CourseManagement\\wwwroot\\fonts\\poppins\\Poppins-LightItalic.ttf",
+      "Id": "D:\\Course\\CourseManagement\\CourseManagement\\CourseManagement\\wwwroot\\fonts\\poppins\\Poppins-LightItalic.ttf",
       "PackagePath": "staticwebassets\\fonts\\poppins\\Poppins-LightItalic.ttf"
     },
     {
-      "Id": "D:\\Lessons\\CM\\CourseManagement\\CourseManagement\\wwwroot\\fonts\\poppins\\Poppins-Medium.ttf",
+      "Id": "D:\\Course\\CourseManagement\\CourseManagement\\CourseManagement\\wwwroot\\fonts\\poppins\\Poppins-Medium.ttf",
       "PackagePath": "staticwebassets\\fonts\\poppins\\Poppins-Medium.ttf"
     },
     {
-      "Id": "D:\\Lessons\\CM\\CourseManagement\\CourseManagement\\wwwroot\\fonts\\poppins\\Poppins-MediumItalic.ttf",
+      "Id": "D:\\Course\\CourseManagement\\CourseManagement\\CourseManagement\\wwwroot\\fonts\\poppins\\Poppins-MediumItalic.ttf",
       "PackagePath": "staticwebassets\\fonts\\poppins\\Poppins-MediumItalic.ttf"
     },
     {
-      "Id": "D:\\Lessons\\CM\\CourseManagement\\CourseManagement\\wwwroot\\fonts\\poppins\\Poppins-Regular.ttf",
+      "Id": "D:\\Course\\CourseManagement\\CourseManagement\\CourseManagement\\wwwroot\\fonts\\poppins\\Poppins-Regular.ttf",
       "PackagePath": "staticwebassets\\fonts\\poppins\\Poppins-Regular.ttf"
     },
     {
-      "Id": "D:\\Lessons\\CM\\CourseManagement\\CourseManagement\\wwwroot\\fonts\\poppins\\Poppins-SemiBold.ttf",
+      "Id": "D:\\Course\\CourseManagement\\CourseManagement\\CourseManagement\\wwwroot\\fonts\\poppins\\Poppins-SemiBold.ttf",
       "PackagePath": "staticwebassets\\fonts\\poppins\\Poppins-SemiBold.ttf"
     },
     {
-      "Id": "D:\\Lessons\\CM\\CourseManagement\\CourseManagement\\wwwroot\\fonts\\poppins\\Poppins-SemiBoldItalic.ttf",
+      "Id": "D:\\Course\\CourseManagement\\CourseManagement\\CourseManagement\\wwwroot\\fonts\\poppins\\Poppins-SemiBoldItalic.ttf",
       "PackagePath": "staticwebassets\\fonts\\poppins\\Poppins-SemiBoldItalic.ttf"
     },
     {
-      "Id": "D:\\Lessons\\CM\\CourseManagement\\CourseManagement\\wwwroot\\fonts\\poppins\\Poppins-Thin.ttf",
+      "Id": "D:\\Course\\CourseManagement\\CourseManagement\\CourseManagement\\wwwroot\\fonts\\poppins\\Poppins-Thin.ttf",
       "PackagePath": "staticwebassets\\fonts\\poppins\\Poppins-Thin.ttf"
     },
     {
-      "Id": "D:\\Lessons\\CM\\CourseManagement\\CourseManagement\\wwwroot\\fonts\\poppins\\Poppins-ThinItalic.ttf",
+      "Id": "D:\\Course\\CourseManagement\\CourseManagement\\CourseManagement\\wwwroot\\fonts\\poppins\\Poppins-ThinItalic.ttf",
       "PackagePath": "staticwebassets\\fonts\\poppins\\Poppins-ThinItalic.ttf"
     },
     {
-      "Id": "D:\\Lessons\\CM\\CourseManagement\\CourseManagement\\wwwroot\\fonts\\ubuntu\\UFL.txt",
+      "Id": "D:\\Course\\CourseManagement\\CourseManagement\\CourseManagement\\wwwroot\\fonts\\ubuntu\\UFL.txt",
       "PackagePath": "staticwebassets\\fonts\\ubuntu\\UFL.txt"
     },
     {
-      "Id": "D:\\Lessons\\CM\\CourseManagement\\CourseManagement\\wwwroot\\fonts\\ubuntu\\Ubuntu-Bold.ttf",
+      "Id": "D:\\Course\\CourseManagement\\CourseManagement\\CourseManagement\\wwwroot\\fonts\\ubuntu\\Ubuntu-Bold.ttf",
       "PackagePath": "staticwebassets\\fonts\\ubuntu\\Ubuntu-Bold.ttf"
     },
     {
-      "Id": "D:\\Lessons\\CM\\CourseManagement\\CourseManagement\\wwwroot\\fonts\\ubuntu\\Ubuntu-BoldItalic.ttf",
+      "Id": "D:\\Course\\CourseManagement\\CourseManagement\\CourseManagement\\wwwroot\\fonts\\ubuntu\\Ubuntu-BoldItalic.ttf",
       "PackagePath": "staticwebassets\\fonts\\ubuntu\\Ubuntu-BoldItalic.ttf"
     },
     {
-      "Id": "D:\\Lessons\\CM\\CourseManagement\\CourseManagement\\wwwroot\\fonts\\ubuntu\\Ubuntu-Italic.ttf",
+      "Id": "D:\\Course\\CourseManagement\\CourseManagement\\CourseManagement\\wwwroot\\fonts\\ubuntu\\Ubuntu-Italic.ttf",
       "PackagePath": "staticwebassets\\fonts\\ubuntu\\Ubuntu-Italic.ttf"
     },
     {
-      "Id": "D:\\Lessons\\CM\\CourseManagement\\CourseManagement\\wwwroot\\fonts\\ubuntu\\Ubuntu-Light.ttf",
+      "Id": "D:\\Course\\CourseManagement\\CourseManagement\\CourseManagement\\wwwroot\\fonts\\ubuntu\\Ubuntu-Light.ttf",
       "PackagePath": "staticwebassets\\fonts\\ubuntu\\Ubuntu-Light.ttf"
     },
     {
-      "Id": "D:\\Lessons\\CM\\CourseManagement\\CourseManagement\\wwwroot\\fonts\\ubuntu\\Ubuntu-LightItalic.ttf",
+      "Id": "D:\\Course\\CourseManagement\\CourseManagement\\CourseManagement\\wwwroot\\fonts\\ubuntu\\Ubuntu-LightItalic.ttf",
       "PackagePath": "staticwebassets\\fonts\\ubuntu\\Ubuntu-LightItalic.ttf"
     },
     {
-      "Id": "D:\\Lessons\\CM\\CourseManagement\\CourseManagement\\wwwroot\\fonts\\ubuntu\\Ubuntu-Medium.ttf",
+      "Id": "D:\\Course\\CourseManagement\\CourseManagement\\CourseManagement\\wwwroot\\fonts\\ubuntu\\Ubuntu-Medium.ttf",
       "PackagePath": "staticwebassets\\fonts\\ubuntu\\Ubuntu-Medium.ttf"
     },
     {
-      "Id": "D:\\Lessons\\CM\\CourseManagement\\CourseManagement\\wwwroot\\fonts\\ubuntu\\Ubuntu-MediumItalic.ttf",
+      "Id": "D:\\Course\\CourseManagement\\CourseManagement\\CourseManagement\\wwwroot\\fonts\\ubuntu\\Ubuntu-MediumItalic.ttf",
       "PackagePath": "staticwebassets\\fonts\\ubuntu\\Ubuntu-MediumItalic.ttf"
     },
     {
-      "Id": "D:\\Lessons\\CM\\CourseManagement\\CourseManagement\\wwwroot\\fonts\\ubuntu\\Ubuntu-Regular.ttf",
+      "Id": "D:\\Course\\CourseManagement\\CourseManagement\\CourseManagement\\wwwroot\\fonts\\ubuntu\\Ubuntu-Regular.ttf",
       "PackagePath": "staticwebassets\\fonts\\ubuntu\\Ubuntu-Regular.ttf"
     },
     {
-      "Id": "D:\\Lessons\\CM\\CourseManagement\\CourseManagement\\wwwroot\\index.html",
+      "Id": "D:\\Course\\CourseManagement\\CourseManagement\\CourseManagement\\wwwroot\\index.html",
       "PackagePath": "staticwebassets\\index.html"
     },
     {
-      "Id": "D:\\Lessons\\CM\\CourseManagement\\CourseManagement\\wwwroot\\js\\CustomScript.js",
+      "Id": "D:\\Course\\CourseManagement\\CourseManagement\\CourseManagement\\wwwroot\\js\\CustomScript.js",
       "PackagePath": "staticwebassets\\js\\CustomScript.js"
     },
     {
-      "Id": "D:\\Lessons\\CM\\CourseManagement\\CourseManagement\\wwwroot\\js\\ajax-contact.js",
+      "Id": "D:\\Course\\CourseManagement\\CourseManagement\\CourseManagement\\wwwroot\\js\\ajax-contact.js",
       "PackagePath": "staticwebassets\\js\\ajax-contact.js"
     },
     {
-      "Id": "D:\\Lessons\\CM\\CourseManagement\\CourseManagement\\wwwroot\\js\\bootstrap.min.js",
+      "Id": "D:\\Course\\CourseManagement\\CourseManagement\\CourseManagement\\wwwroot\\js\\bootstrap.min.js",
       "PackagePath": "staticwebassets\\js\\bootstrap.min.js"
     },
     {
-      "Id": "D:\\Lessons\\CM\\CourseManagement\\CourseManagement\\wwwroot\\js\\jquery.countdown.min.js",
+      "Id": "D:\\Course\\CourseManagement\\CourseManagement\\CourseManagement\\wwwroot\\js\\jquery.countdown.min.js",
       "PackagePath": "staticwebassets\\js\\jquery.countdown.min.js"
     },
     {
-      "Id": "D:\\Lessons\\CM\\CourseManagement\\CourseManagement\\wwwroot\\js\\jquery.counterup.min.js",
+      "Id": "D:\\Course\\CourseManagement\\CourseManagement\\CourseManagement\\wwwroot\\js\\jquery.counterup.min.js",
       "PackagePath": "staticwebassets\\js\\jquery.counterup.min.js"
     },
     {
-      "Id": "D:\\Lessons\\CM\\CourseManagement\\CourseManagement\\wwwroot\\js\\jquery.magnific-popup.min.js",
+      "Id": "D:\\Course\\CourseManagement\\CourseManagement\\CourseManagement\\wwwroot\\js\\jquery.magnific-popup.min.js",
       "PackagePath": "staticwebassets\\js\\jquery.magnific-popup.min.js"
     },
     {
-      "Id": "D:\\Lessons\\CM\\CourseManagement\\CourseManagement\\wwwroot\\js\\jquery.nice-number.min.js",
+      "Id": "D:\\Course\\CourseManagement\\CourseManagement\\CourseManagement\\wwwroot\\js\\jquery.nice-number.min.js",
       "PackagePath": "staticwebassets\\js\\jquery.nice-number.min.js"
     },
     {
-      "Id": "D:\\Lessons\\CM\\CourseManagement\\CourseManagement\\wwwroot\\js\\jquery.nice-select.min.js",
+      "Id": "D:\\Course\\CourseManagement\\CourseManagement\\CourseManagement\\wwwroot\\js\\jquery.nice-select.min.js",
       "PackagePath": "staticwebassets\\js\\jquery.nice-select.min.js"
     },
     {
-      "Id": "D:\\Lessons\\CM\\CourseManagement\\CourseManagement\\wwwroot\\js\\main.js",
+      "Id": "D:\\Course\\CourseManagement\\CourseManagement\\CourseManagement\\wwwroot\\js\\main.js",
       "PackagePath": "staticwebassets\\js\\main.js"
     },
     {
-      "Id": "D:\\Lessons\\CM\\CourseManagement\\CourseManagement\\wwwroot\\js\\main2.js",
+      "Id": "D:\\Course\\CourseManagement\\CourseManagement\\CourseManagement\\wwwroot\\js\\main2.js",
       "PackagePath": "staticwebassets\\js\\main2.js"
     },
     {
-      "Id": "D:\\Lessons\\CM\\CourseManagement\\CourseManagement\\wwwroot\\js\\map-script.js",
+      "Id": "D:\\Course\\CourseManagement\\CourseManagement\\CourseManagement\\wwwroot\\js\\map-script.js",
       "PackagePath": "staticwebassets\\js\\map-script.js"
     },
     {
-      "Id": "D:\\Lessons\\CM\\CourseManagement\\CourseManagement\\wwwroot\\js\\slick.min.js",
+      "Id": "D:\\Course\\CourseManagement\\CourseManagement\\CourseManagement\\wwwroot\\js\\slick.min.js",
       "PackagePath": "staticwebassets\\js\\slick.min.js"
     },
     {
-      "Id": "D:\\Lessons\\CM\\CourseManagement\\CourseManagement\\wwwroot\\js\\validator.min.js",
+      "Id": "D:\\Course\\CourseManagement\\CourseManagement\\CourseManagement\\wwwroot\\js\\validator.min.js",
       "PackagePath": "staticwebassets\\js\\validator.min.js"
     },
     {
-      "Id": "D:\\Lessons\\CM\\CourseManagement\\CourseManagement\\wwwroot\\js\\waypoints.min.js",
+      "Id": "D:\\Course\\CourseManagement\\CourseManagement\\CourseManagement\\wwwroot\\js\\waypoints.min.js",
       "PackagePath": "staticwebassets\\js\\waypoints.min.js"
     },
     {
-      "Id": "D:\\Lessons\\CM\\CourseManagement\\CourseManagement\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "Id": "D:\\Course\\CourseManagement\\CourseManagement\\CourseManagement\\wwwroot\\lib\\bootstrap\\LICENSE",
       "PackagePath": "staticwebassets\\lib\\bootstrap"
     },
     {
-      "Id": "D:\\Lessons\\CM\\CourseManagement\\CourseManagement\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "Id": "D:\\Course\\CourseManagement\\CourseManagement\\CourseManagement\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
     },
     {
-      "Id": "D:\\Lessons\\CM\\CourseManagement\\CourseManagement\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "Id": "D:\\Course\\CourseManagement\\CourseManagement\\CourseManagement\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
     },
     {
-      "Id": "D:\\Lessons\\CM\\CourseManagement\\CourseManagement\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "Id": "D:\\Course\\CourseManagement\\CourseManagement\\CourseManagement\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
     },
     {
-      "Id": "D:\\Lessons\\CM\\CourseManagement\\CourseManagement\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "Id": "D:\\Course\\CourseManagement\\CourseManagement\\CourseManagement\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
     },
     {
-      "Id": "D:\\Lessons\\CM\\CourseManagement\\CourseManagement\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "Id": "D:\\Course\\CourseManagement\\CourseManagement\\CourseManagement\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
     },
     {
-      "Id": "D:\\Lessons\\CM\\CourseManagement\\CourseManagement\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "Id": "D:\\Course\\CourseManagement\\CourseManagement\\CourseManagement\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
     },
     {
-      "Id": "D:\\Lessons\\CM\\CourseManagement\\CourseManagement\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "Id": "D:\\Course\\CourseManagement\\CourseManagement\\CourseManagement\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
     },
     {
-      "Id": "D:\\Lessons\\CM\\CourseManagement\\CourseManagement\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "Id": "D:\\Course\\CourseManagement\\CourseManagement\\CourseManagement\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
     },
     {
-      "Id": "D:\\Lessons\\CM\\CourseManagement\\CourseManagement\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "Id": "D:\\Course\\CourseManagement\\CourseManagement\\CourseManagement\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
     },
     {
-      "Id": "D:\\Lessons\\CM\\CourseManagement\\CourseManagement\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "Id": "D:\\Course\\CourseManagement\\CourseManagement\\CourseManagement\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
     },
     {
-      "Id": "D:\\Lessons\\CM\\CourseManagement\\CourseManagement\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "Id": "D:\\Course\\CourseManagement\\CourseManagement\\CourseManagement\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
     },
     {
-      "Id": "D:\\Lessons\\CM\\CourseManagement\\CourseManagement\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "Id": "D:\\Course\\CourseManagement\\CourseManagement\\CourseManagement\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
     },
     {
-      "Id": "D:\\Lessons\\CM\\CourseManagement\\CourseManagement\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "Id": "D:\\Course\\CourseManagement\\CourseManagement\\CourseManagement\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
     },
     {
-      "Id": "D:\\Lessons\\CM\\CourseManagement\\CourseManagement\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "Id": "D:\\Course\\CourseManagement\\CourseManagement\\CourseManagement\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
     },
     {
-      "Id": "D:\\Lessons\\CM\\CourseManagement\\CourseManagement\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "Id": "D:\\Course\\CourseManagement\\CourseManagement\\CourseManagement\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
     },
     {
-      "Id": "D:\\Lessons\\CM\\CourseManagement\\CourseManagement\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "Id": "D:\\Course\\CourseManagement\\CourseManagement\\CourseManagement\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
     },
     {
-      "Id": "D:\\Lessons\\CM\\CourseManagement\\CourseManagement\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "Id": "D:\\Course\\CourseManagement\\CourseManagement\\CourseManagement\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
     },
     {
-      "Id": "D:\\Lessons\\CM\\CourseManagement\\CourseManagement\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "Id": "D:\\Course\\CourseManagement\\CourseManagement\\CourseManagement\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
     },
     {
-      "Id": "D:\\Lessons\\CM\\CourseManagement\\CourseManagement\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "Id": "D:\\Course\\CourseManagement\\CourseManagement\\CourseManagement\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
     },
     {
-      "Id": "D:\\Lessons\\CM\\CourseManagement\\CourseManagement\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "Id": "D:\\Course\\CourseManagement\\CourseManagement\\CourseManagement\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
     },
     {
-      "Id": "D:\\Lessons\\CM\\CourseManagement\\CourseManagement\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "Id": "D:\\Course\\CourseManagement\\CourseManagement\\CourseManagement\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
     },
     {
-      "Id": "D:\\Lessons\\CM\\CourseManagement\\CourseManagement\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "Id": "D:\\Course\\CourseManagement\\CourseManagement\\CourseManagement\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
     },
     {
-      "Id": "D:\\Lessons\\CM\\CourseManagement\\CourseManagement\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "Id": "D:\\Course\\CourseManagement\\CourseManagement\\CourseManagement\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
     },
     {
-      "Id": "D:\\Lessons\\CM\\CourseManagement\\CourseManagement\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "Id": "D:\\Course\\CourseManagement\\CourseManagement\\CourseManagement\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
     },
     {
-      "Id": "D:\\Lessons\\CM\\CourseManagement\\CourseManagement\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "Id": "D:\\Course\\CourseManagement\\CourseManagement\\CourseManagement\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
     },
     {
-      "Id": "D:\\Lessons\\CM\\CourseManagement\\CourseManagement\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "Id": "D:\\Course\\CourseManagement\\CourseManagement\\CourseManagement\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
     },
     {
-      "Id": "D:\\Lessons\\CM\\CourseManagement\\CourseManagement\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "Id": "D:\\Course\\CourseManagement\\CourseManagement\\CourseManagement\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
     },
     {
-      "Id": "D:\\Lessons\\CM\\CourseManagement\\CourseManagement\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "Id": "D:\\Course\\CourseManagement\\CourseManagement\\CourseManagement\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
     },
     {
-      "Id": "D:\\Lessons\\CM\\CourseManagement\\CourseManagement\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "Id": "D:\\Course\\CourseManagement\\CourseManagement\\CourseManagement\\wwwroot\\lib\\jquery\\LICENSE.txt",
       "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
     },
     {
-      "Id": "D:\\Lessons\\CM\\CourseManagement\\CourseManagement\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "Id": "D:\\Course\\CourseManagement\\CourseManagement\\CourseManagement\\wwwroot\\lib\\jquery\\dist\\jquery.js",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
     },
     {
-      "Id": "D:\\Lessons\\CM\\CourseManagement\\CourseManagement\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "Id": "D:\\Course\\CourseManagement\\CourseManagement\\CourseManagement\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
     },
     {
-      "Id": "D:\\Lessons\\CM\\CourseManagement\\CourseManagement\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "Id": "D:\\Course\\CourseManagement\\CourseManagement\\CourseManagement\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
     },
     {
-      "Id": "D:\\Lessons\\CM\\CourseManagement\\CourseManagement\\wwwroot\\vendor\\animate\\animate.css",
+      "Id": "D:\\Course\\CourseManagement\\CourseManagement\\CourseManagement\\wwwroot\\vendor\\animate\\animate.css",
       "PackagePath": "staticwebassets\\vendor\\animate\\animate.css"
     },
     {
-      "Id": "D:\\Lessons\\CM\\CourseManagement\\CourseManagement\\wwwroot\\vendor\\animsition\\css\\animsition.css",
+      "Id": "D:\\Course\\CourseManagement\\CourseManagement\\CourseManagement\\wwwroot\\vendor\\animsition\\css\\animsition.css",
       "PackagePath": "staticwebassets\\vendor\\animsition\\css\\animsition.css"
     },
     {
-      "Id": "D:\\Lessons\\CM\\CourseManagement\\CourseManagement\\wwwroot\\vendor\\animsition\\css\\animsition.min.css",
+      "Id": "D:\\Course\\CourseManagement\\CourseManagement\\CourseManagement\\wwwroot\\vendor\\animsition\\css\\animsition.min.css",
       "PackagePath": "staticwebassets\\vendor\\animsition\\css\\animsition.min.css"
     },
     {
-      "Id": "D:\\Lessons\\CM\\CourseManagement\\CourseManagement\\wwwroot\\vendor\\animsition\\js\\animsition.js",
+      "Id": "D:\\Course\\CourseManagement\\CourseManagement\\CourseManagement\\wwwroot\\vendor\\animsition\\js\\animsition.js",
       "PackagePath": "staticwebassets\\vendor\\animsition\\js\\animsition.js"
     },
     {
-      "Id": "D:\\Lessons\\CM\\CourseManagement\\CourseManagement\\wwwroot\\vendor\\animsition\\js\\animsition.min.js",
+      "Id": "D:\\Course\\CourseManagement\\CourseManagement\\CourseManagement\\wwwroot\\vendor\\animsition\\js\\animsition.min.js",
       "PackagePath": "staticwebassets\\vendor\\animsition\\js\\animsition.min.js"
     },
     {
-      "Id": "D:\\Lessons\\CM\\CourseManagement\\CourseManagement\\wwwroot\\vendor\\bootstrap\\css\\bootstrap-grid.css",
+      "Id": "D:\\Course\\CourseManagement\\CourseManagement\\CourseManagement\\wwwroot\\vendor\\bootstrap\\css\\bootstrap-grid.css",
       "PackagePath": "staticwebassets\\vendor\\bootstrap\\css\\bootstrap-grid.css"
     },
     {
-      "Id": "D:\\Lessons\\CM\\CourseManagement\\CourseManagement\\wwwroot\\vendor\\bootstrap\\css\\bootstrap-grid.css.map",
+      "Id": "D:\\Course\\CourseManagement\\CourseManagement\\CourseManagement\\wwwroot\\vendor\\bootstrap\\css\\bootstrap-grid.css.map",
       "PackagePath": "staticwebassets\\vendor\\bootstrap\\css\\bootstrap-grid.css.map"
     },
     {
-      "Id": "D:\\Lessons\\CM\\CourseManagement\\CourseManagement\\wwwroot\\vendor\\bootstrap\\css\\bootstrap-grid.min.css",
+      "Id": "D:\\Course\\CourseManagement\\CourseManagement\\CourseManagement\\wwwroot\\vendor\\bootstrap\\css\\bootstrap-grid.min.css",
       "PackagePath": "staticwebassets\\vendor\\bootstrap\\css\\bootstrap-grid.min.css"
     },
     {
-      "Id": "D:\\Lessons\\CM\\CourseManagement\\CourseManagement\\wwwroot\\vendor\\bootstrap\\css\\bootstrap-grid.min.css.map",
+      "Id": "D:\\Course\\CourseManagement\\CourseManagement\\CourseManagement\\wwwroot\\vendor\\bootstrap\\css\\bootstrap-grid.min.css.map",
       "PackagePath": "staticwebassets\\vendor\\bootstrap\\css\\bootstrap-grid.min.css.map"
     },
     {
-      "Id": "D:\\Lessons\\CM\\CourseManagement\\CourseManagement\\wwwroot\\vendor\\bootstrap\\css\\bootstrap-reboot.css",
+      "Id": "D:\\Course\\CourseManagement\\CourseManagement\\CourseManagement\\wwwroot\\vendor\\bootstrap\\css\\bootstrap-reboot.css",
       "PackagePath": "staticwebassets\\vendor\\bootstrap\\css\\bootstrap-reboot.css"
     },
     {
-      "Id": "D:\\Lessons\\CM\\CourseManagement\\CourseManagement\\wwwroot\\vendor\\bootstrap\\css\\bootstrap-reboot.css.map",
+      "Id": "D:\\Course\\CourseManagement\\CourseManagement\\CourseManagement\\wwwroot\\vendor\\bootstrap\\css\\bootstrap-reboot.css.map",
       "PackagePath": "staticwebassets\\vendor\\bootstrap\\css\\bootstrap-reboot.css.map"
     },
     {
-      "Id": "D:\\Lessons\\CM\\CourseManagement\\CourseManagement\\wwwroot\\vendor\\bootstrap\\css\\bootstrap-reboot.min.css",
+      "Id": "D:\\Course\\CourseManagement\\CourseManagement\\CourseManagement\\wwwroot\\vendor\\bootstrap\\css\\bootstrap-reboot.min.css",
       "PackagePath": "staticwebassets\\vendor\\bootstrap\\css\\bootstrap-reboot.min.css"
     },
     {
-      "Id": "D:\\Lessons\\CM\\CourseManagement\\CourseManagement\\wwwroot\\vendor\\bootstrap\\css\\bootstrap-reboot.min.css.map",
+      "Id": "D:\\Course\\CourseManagement\\CourseManagement\\CourseManagement\\wwwroot\\vendor\\bootstrap\\css\\bootstrap-reboot.min.css.map",
       "PackagePath": "staticwebassets\\vendor\\bootstrap\\css\\bootstrap-reboot.min.css.map"
     },
     {
-      "Id": "D:\\Lessons\\CM\\CourseManagement\\CourseManagement\\wwwroot\\vendor\\bootstrap\\css\\bootstrap.css",
+      "Id": "D:\\Course\\CourseManagement\\CourseManagement\\CourseManagement\\wwwroot\\vendor\\bootstrap\\css\\bootstrap.css",
       "PackagePath": "staticwebassets\\vendor\\bootstrap\\css\\bootstrap.css"
     },
     {
-      "Id": "D:\\Lessons\\CM\\CourseManagement\\CourseManagement\\wwwroot\\vendor\\bootstrap\\css\\bootstrap.css.map",
+      "Id": "D:\\Course\\CourseManagement\\CourseManagement\\CourseManagement\\wwwroot\\vendor\\bootstrap\\css\\bootstrap.css.map",
       "PackagePath": "staticwebassets\\vendor\\bootstrap\\css\\bootstrap.css.map"
     },
     {
-      "Id": "D:\\Lessons\\CM\\CourseManagement\\CourseManagement\\wwwroot\\vendor\\bootstrap\\css\\bootstrap.min.css",
+      "Id": "D:\\Course\\CourseManagement\\CourseManagement\\CourseManagement\\wwwroot\\vendor\\bootstrap\\css\\bootstrap.min.css",
       "PackagePath": "staticwebassets\\vendor\\bootstrap\\css\\bootstrap.min.css"
     },
     {
-      "Id": "D:\\Lessons\\CM\\CourseManagement\\CourseManagement\\wwwroot\\vendor\\bootstrap\\css\\bootstrap.min.css.map",
+      "Id": "D:\\Course\\CourseManagement\\CourseManagement\\CourseManagement\\wwwroot\\vendor\\bootstrap\\css\\bootstrap.min.css.map",
       "PackagePath": "staticwebassets\\vendor\\bootstrap\\css\\bootstrap.min.css.map"
     },
     {
-      "Id": "D:\\Lessons\\CM\\CourseManagement\\CourseManagement\\wwwroot\\vendor\\bootstrap\\js\\bootstrap.js",
+      "Id": "D:\\Course\\CourseManagement\\CourseManagement\\CourseManagement\\wwwroot\\vendor\\bootstrap\\js\\bootstrap.js",
       "PackagePath": "staticwebassets\\vendor\\bootstrap\\js\\bootstrap.js"
     },
     {
-      "Id": "D:\\Lessons\\CM\\CourseManagement\\CourseManagement\\wwwroot\\vendor\\bootstrap\\js\\bootstrap.min.js",
+      "Id": "D:\\Course\\CourseManagement\\CourseManagement\\CourseManagement\\wwwroot\\vendor\\bootstrap\\js\\bootstrap.min.js",
       "PackagePath": "staticwebassets\\vendor\\bootstrap\\js\\bootstrap.min.js"
     },
     {
-      "Id": "D:\\Lessons\\CM\\CourseManagement\\CourseManagement\\wwwroot\\vendor\\bootstrap\\js\\popper.js",
+      "Id": "D:\\Course\\CourseManagement\\CourseManagement\\CourseManagement\\wwwroot\\vendor\\bootstrap\\js\\popper.js",
       "PackagePath": "staticwebassets\\vendor\\bootstrap\\js\\popper.js"
     },
     {
-      "Id": "D:\\Lessons\\CM\\CourseManagement\\CourseManagement\\wwwroot\\vendor\\bootstrap\\js\\popper.min.js",
+      "Id": "D:\\Course\\CourseManagement\\CourseManagement\\CourseManagement\\wwwroot\\vendor\\bootstrap\\js\\popper.min.js",
       "PackagePath": "staticwebassets\\vendor\\bootstrap\\js\\popper.min.js"
     },
     {
-      "Id": "D:\\Lessons\\CM\\CourseManagement\\CourseManagement\\wwwroot\\vendor\\bootstrap\\js\\tooltip.js",
+      "Id": "D:\\Course\\CourseManagement\\CourseManagement\\CourseManagement\\wwwroot\\vendor\\bootstrap\\js\\tooltip.js",
       "PackagePath": "staticwebassets\\vendor\\bootstrap\\js\\tooltip.js"
     },
     {
-      "Id": "D:\\Lessons\\CM\\CourseManagement\\CourseManagement\\wwwroot\\vendor\\countdowntime\\countdowntime.js",
+      "Id": "D:\\Course\\CourseManagement\\CourseManagement\\CourseManagement\\wwwroot\\vendor\\countdowntime\\countdowntime.js",
       "PackagePath": "staticwebassets\\vendor\\countdowntime\\countdowntime.js"
     },
     {
-      "Id": "D:\\Lessons\\CM\\CourseManagement\\CourseManagement\\wwwroot\\vendor\\css-hamburgers\\hamburgers.css",
+      "Id": "D:\\Course\\CourseManagement\\CourseManagement\\CourseManagement\\wwwroot\\vendor\\css-hamburgers\\hamburgers.css",
       "PackagePath": "staticwebassets\\vendor\\css-hamburgers\\hamburgers.css"
     },
     {
-      "Id": "D:\\Lessons\\CM\\CourseManagement\\CourseManagement\\wwwroot\\vendor\\css-hamburgers\\hamburgers.min.css",
+      "Id": "D:\\Course\\CourseManagement\\CourseManagement\\CourseManagement\\wwwroot\\vendor\\css-hamburgers\\hamburgers.min.css",
       "PackagePath": "staticwebassets\\vendor\\css-hamburgers\\hamburgers.min.css"
     },
     {
-      "Id": "D:\\Lessons\\CM\\CourseManagement\\CourseManagement\\wwwroot\\vendor\\daterangepicker\\daterangepicker.css",
+      "Id": "D:\\Course\\CourseManagement\\CourseManagement\\CourseManagement\\wwwroot\\vendor\\daterangepicker\\daterangepicker.css",
       "PackagePath": "staticwebassets\\vendor\\daterangepicker\\daterangepicker.css"
     },
     {
-      "Id": "D:\\Lessons\\CM\\CourseManagement\\CourseManagement\\wwwroot\\vendor\\daterangepicker\\daterangepicker.js",
+      "Id": "D:\\Course\\CourseManagement\\CourseManagement\\CourseManagement\\wwwroot\\vendor\\daterangepicker\\daterangepicker.js",
       "PackagePath": "staticwebassets\\vendor\\daterangepicker\\daterangepicker.js"
     },
     {
-      "Id": "D:\\Lessons\\CM\\CourseManagement\\CourseManagement\\wwwroot\\vendor\\daterangepicker\\moment.js",
+      "Id": "D:\\Course\\CourseManagement\\CourseManagement\\CourseManagement\\wwwroot\\vendor\\daterangepicker\\moment.js",
       "PackagePath": "staticwebassets\\vendor\\daterangepicker\\moment.js"
     },
     {
-      "Id": "D:\\Lessons\\CM\\CourseManagement\\CourseManagement\\wwwroot\\vendor\\daterangepicker\\moment.min.js",
+      "Id": "D:\\Course\\CourseManagement\\CourseManagement\\CourseManagement\\wwwroot\\vendor\\daterangepicker\\moment.min.js",
       "PackagePath": "staticwebassets\\vendor\\daterangepicker\\moment.min.js"
     },
     {
-      "Id": "D:\\Lessons\\CM\\CourseManagement\\CourseManagement\\wwwroot\\vendor\\jquery-1.12.4.min.js",
+      "Id": "D:\\Course\\CourseManagement\\CourseManagement\\CourseManagement\\wwwroot\\vendor\\jquery-1.12.4.min.js",
       "PackagePath": "staticwebassets\\vendor\\jquery-1.12.4.min.js"
     },
     {
-      "Id": "D:\\Lessons\\CM\\CourseManagement\\CourseManagement\\wwwroot\\vendor\\jquery\\jquery-3.2.1.min.js",
+      "Id": "D:\\Course\\CourseManagement\\CourseManagement\\CourseManagement\\wwwroot\\vendor\\jquery\\jquery-3.2.1.min.js",
       "PackagePath": "staticwebassets\\vendor\\jquery\\jquery-3.2.1.min.js"
     },
     {
-      "Id": "D:\\Lessons\\CM\\CourseManagement\\CourseManagement\\wwwroot\\vendor\\modernizr-3.6.0.min.js",
+      "Id": "D:\\Course\\CourseManagement\\CourseManagement\\CourseManagement\\wwwroot\\vendor\\modernizr-3.6.0.min.js",
       "PackagePath": "staticwebassets\\vendor\\modernizr-3.6.0.min.js"
     },
     {
-      "Id": "D:\\Lessons\\CM\\CourseManagement\\CourseManagement\\wwwroot\\vendor\\perfect-scrollbar\\perfect-scrollbar.css",
+      "Id": "D:\\Course\\CourseManagement\\CourseManagement\\CourseManagement\\wwwroot\\vendor\\perfect-scrollbar\\perfect-scrollbar.css",
       "PackagePath": "staticwebassets\\vendor\\perfect-scrollbar\\perfect-scrollbar.css"
     },
     {
-      "Id": "D:\\Lessons\\CM\\CourseManagement\\CourseManagement\\wwwroot\\vendor\\perfect-scrollbar\\perfect-scrollbar.min.js",
+      "Id": "D:\\Course\\CourseManagement\\CourseManagement\\CourseManagement\\wwwroot\\vendor\\perfect-scrollbar\\perfect-scrollbar.min.js",
       "PackagePath": "staticwebassets\\vendor\\perfect-scrollbar\\perfect-scrollbar.min.js"
     },
     {
-      "Id": "D:\\Lessons\\CM\\CourseManagement\\CourseManagement\\wwwroot\\vendor\\select2\\select2.css",
+      "Id": "D:\\Course\\CourseManagement\\CourseManagement\\CourseManagement\\wwwroot\\vendor\\select2\\select2.css",
       "PackagePath": "staticwebassets\\vendor\\select2\\select2.css"
     },
     {
-      "Id": "D:\\Lessons\\CM\\CourseManagement\\CourseManagement\\wwwroot\\vendor\\select2\\select2.js",
+      "Id": "D:\\Course\\CourseManagement\\CourseManagement\\CourseManagement\\wwwroot\\vendor\\select2\\select2.js",
       "PackagePath": "staticwebassets\\vendor\\select2\\select2.js"
     },
     {
-      "Id": "D:\\Lessons\\CM\\CourseManagement\\CourseManagement\\wwwroot\\vendor\\select2\\select2.min.css",
+      "Id": "D:\\Course\\CourseManagement\\CourseManagement\\CourseManagement\\wwwroot\\vendor\\select2\\select2.min.css",
       "PackagePath": "staticwebassets\\vendor\\select2\\select2.min.css"
     },
     {
-      "Id": "D:\\Lessons\\CM\\CourseManagement\\CourseManagement\\wwwroot\\vendor\\select2\\select2.min.js",
+      "Id": "D:\\Course\\CourseManagement\\CourseManagement\\CourseManagement\\wwwroot\\vendor\\select2\\select2.min.js",
       "PackagePath": "staticwebassets\\vendor\\select2\\select2.min.js"
     },
     {

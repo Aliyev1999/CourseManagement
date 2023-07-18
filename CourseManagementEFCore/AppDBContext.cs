@@ -39,13 +39,6 @@ namespace CourseManagementEFCore
             modelBuilder.ApplyConfigurationsFromAssembly(Assembly.GetExecutingAssembly());
 
             base.OnModelCreating(modelBuilder);
-
-            foreach (var entityType in modelBuilder.Model.GetEntityTypes())
-            {
-                ConfigureGlobalFiltersMethodInfo
-                    .MakeGenericMethod(entityType.ClrType)
-                    .Invoke(this, new object[] { modelBuilder, entityType });
-            }
         }
 
         public DbSet<Course> Courses { get; set; }
@@ -70,7 +63,7 @@ namespace CourseManagementEFCore
                         SetModificationAuditProperties(entry);
                         break;
                     case EntityState.Deleted:
-                        CancelDeletionForSoftDelete(entry);
+                        //CancelDeletionForSoftDelete(entry);
                         SetDeletionAuditProperties(entry);
                         break;
                 }
@@ -124,13 +117,13 @@ namespace CourseManagementEFCore
                 hasCreationTimeEntity.CreationDate = DateTime.Now;
             }
 
-            if (!(entry.Entity is ICreationAudited creationAuditedEntity)) return;
+            //if (!(entry.Entity is ICreationAudited creationAuditedEntity)) return;
 
-            if (creationAuditedEntity.CreatorID != null)
-            {
-                //CreatedUserId is already set
-                return;
-            }
+            //if (creationAuditedEntity.CreatorID != null)
+            //{
+            //    //CreatedUserId is already set
+            //    return;
+            //}
 
         }
 
@@ -143,13 +136,13 @@ namespace CourseManagementEFCore
                 modificationDateEntity.LastModificationDate = DateTime.Now;
             }
 
-            if (!(entry.Entity is IModificationAudited modificationAuditedEntity)) return;
+            //if (!(entry.Entity is IModificationAudited modificationAuditedEntity)) return;
 
-            if (modificationAuditedEntity.LastModificatorID != null)
-            {
-                //LastModifiedUserId is already set
-                return;
-            }
+            //if (modificationAuditedEntity.LastModificatorID != null)
+            //{
+            //    //LastModifiedUserId is already set
+            //    return;
+            //}
 
         }
 
@@ -163,21 +156,21 @@ namespace CourseManagementEFCore
                 hasDeletionTimeEntity.DeletedDate = DateTime.Now;
             }
 
-            if (!(entry.Entity is IDeletionAudited deletionAuditedEntity)) return;
+            //if (!(entry.Entity is IDeletionAudited deletionAuditedEntity)) return;
 
-            deletionAuditedEntity.DeletedDate = DateTime.Now;
+            //deletionAuditedEntity.DeletedDate = DateTime.Now;
         }
 
-        protected virtual void CancelDeletionForSoftDelete(EntityEntry entry)
-        {
-            if (!(entry.Entity is ISoftDelete))
-            {
-                return;
-            }
+        //protected virtual void CancelDeletionForSoftDelete(EntityEntry entry)
+        //{
+        //    if (!(entry.Entity is ISoftDelete))
+        //    {
+        //        return;
+        //    }
 
-            entry.Reload();
-            entry.State = EntityState.Modified;
-            ((ISoftDelete)entry.Entity).IsDeleted = true;
-        }
+        //    entry.Reload();
+        //    entry.State = EntityState.Modified;
+        //    ((ISoftDelete)entry.Entity).IsDeleted = true;
+        //}
     }
 }
