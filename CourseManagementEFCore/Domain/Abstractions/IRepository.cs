@@ -3,6 +3,7 @@ using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Linq.Expressions;
+using System.Runtime.InteropServices;
 using System.Threading;
 using System.Threading.Tasks;
 
@@ -22,7 +23,7 @@ namespace CourseManagementEFCore.Domain.Abstractions
 
         Task<int> Count(Expression<Func<TEntity, bool>> predicate);
 
-        Task Commit(CancellationToken cancellationToken);
+        Task Commit([Optional]CancellationToken cancellationToken);
 
         IQueryable<TEntity> GetAllIncluding(params Expression<Func<TEntity, object>>[] includeProperties);
 

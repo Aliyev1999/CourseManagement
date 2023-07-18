@@ -1,0 +1,72 @@
+﻿@using CourseManagement.Models
+@model TeachersViewModel
+@{
+    ViewData["Title"] = "Teachers";
+}
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>Teachers</title>
+    <meta charset="UTF-8">
+</head>
+<body>
+    <form>
+        <div class="row">
+            <div class="col-6">
+                <h2 class="text-info">Teachers List</h2>
+            </div>
+            <div class="col-6 text-right">
+                <a asp-controller="Teachers" asp-action="Create" class="btn btn-info">
+                    Create New Teacher
+                </a>
+            </div>
+        </div>
+
+        <div class="border bg-white">
+            <br />
+            <div>
+                <table class="table table-striped border">
+                    <tr class="table-secondary">
+                        <th>
+                           Name
+                        </th>
+                        <th>
+                            Surname
+                        </th>
+                        <th>
+                            Profession
+                        </th>
+                        <th>
+
+                        </th>
+                    </tr>
+                    @foreach (var item in Model.Teachers)
+                    {
+                        <tr class="table text-black">
+                            <td>
+                                @item.Name
+
+                            </td>
+                            <td>
+                                @item.Surname
+                            </td>
+                            <td>
+                                @item.Profession
+                            </td>
+                            <td>
+                                <div class="btn-group">
+                                    <a asp-action="Edit" asp-route-id="@item.ID" class="btn btn-sm btn-warning">Edit</a>
+                                    <a asp-action="Delete" asp-route-id="@item.ID" class="btn btn-sm btn-danger ml-1" onclick="confirm('Are you sure delete?')">Delete</a>
+                                    <a asp-action="Details" asp-route-id="@item.ID" class="btn btn-sm btn-primary ml-1">Details</a>
+                                </div>
+                            </td>
+                        </tr>
+                    }
+                </table>
+            </div>
+        </div>
+    </form>
+</body>
+</html>

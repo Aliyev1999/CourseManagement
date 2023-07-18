@@ -14,10 +14,6 @@
   </ItemGroup>
 
   <ItemGroup>
-    <Content Remove="Views\Teacher\Index.cshtml" />
-  </ItemGroup>
-
-  <ItemGroup>
     <ProjectReference Include="..\CourseManagementCore\CourseManagementCore.csproj" />
     <ProjectReference Include="..\CourseManagementEFCore\CourseManagementEFCore.csproj" />
   </ItemGroup>
@@ -25,7 +21,11 @@
   <ItemGroup>
     <None Include="Views\Home\Index.cshtml" />
     <None Include="Views\Shared\_Layout.cshtml" />
-    <None Include="Views\Teacher\Index.cshtml" />
+    <None Include="Views\Teachers\Create.cshtml" />
+    <None Include="Views\Teachers\Details.cshtml" />
+    <None Include="Views\Teachers\Edit.cshtml" />
+    <None Include="Views\Teachers\ExistingTeachers.cshtml" />
+    <None Include="Views\Teachers\Index.cshtml" />
     <None Include="Views\_ViewImports.cshtml" />
     <None Include="Views\_ViewStart.cshtml" />
     <None Include="wwwroot\fonts\font-awesome-4.7.0\fonts\fontawesome-webfont.svg" />
@@ -201,9 +201,7 @@
   <ItemGroup>
     <Folder Include="Helper\" />
     <Folder Include="Infrastructure\" />
-    <Folder Include="Mappers\" />
     <Folder Include="Middleware\" />
-    <Folder Include="Models\" />
     <Folder Include="Services\" />
   </ItemGroup>
 

@@ -1,23 +1,25 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Course\\CourseManagement\\CourseManagement\\CourseManagement\\CourseManagement.csproj": {}
+    "D:\\Lessons\\CM\\CourseManagement\\CourseManagement\\CourseManagement.csproj": {}
   },
   "projects": {
-    "D:\\Course\\CourseManagement\\CourseManagement\\CourseManagementCore\\CourseManagementCore.csproj": {
+    "D:\\Lessons\\CM\\CourseManagement\\CourseManagementCore\\CourseManagementCore.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Course\\CourseManagement\\CourseManagement\\CourseManagementCore\\CourseManagementCore.csproj",
+        "projectUniqueName": "D:\\Lessons\\CM\\CourseManagement\\CourseManagementCore\\CourseManagementCore.csproj",
         "projectName": "CourseManagementCore",
-        "projectPath": "D:\\Course\\CourseManagement\\CourseManagement\\CourseManagementCore\\CourseManagementCore.csproj",
-        "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
-        "outputPath": "D:\\Course\\CourseManagement\\CourseManagement\\CourseManagementCore\\obj\\",
+        "projectPath": "D:\\Lessons\\CM\\CourseManagement\\CourseManagementCore\\CourseManagementCore.csproj",
+        "packagesPath": "C:\\Users\\novru\\.nuget\\packages\\",
+        "outputPath": "D:\\Lessons\\CM\\CourseManagement\\CourseManagementCore\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\HP\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\novru\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -75,29 +77,45 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[6.0.13, 6.0.13]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[6.0.13, 6.0.13]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Ref",
+              "version": "[6.0.13, 6.0.13]"
+            }
+          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "D:\\Course\\CourseManagement\\CourseManagement\\CourseManagementEFCore\\CourseManagementEFCore.csproj": {
+    "D:\\Lessons\\CM\\CourseManagement\\CourseManagementEFCore\\CourseManagementEFCore.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Course\\CourseManagement\\CourseManagement\\CourseManagementEFCore\\CourseManagementEFCore.csproj",
+        "projectUniqueName": "D:\\Lessons\\CM\\CourseManagement\\CourseManagementEFCore\\CourseManagementEFCore.csproj",
         "projectName": "CourseManagementEFCore",
-        "projectPath": "D:\\Course\\CourseManagement\\CourseManagement\\CourseManagementEFCore\\CourseManagementEFCore.csproj",
-        "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
-        "outputPath": "D:\\Course\\CourseManagement\\CourseManagement\\CourseManagementEFCore\\obj\\",
+        "projectPath": "D:\\Lessons\\CM\\CourseManagement\\CourseManagementEFCore\\CourseManagementEFCore.csproj",
+        "packagesPath": "C:\\Users\\novru\\.nuget\\packages\\",
+        "outputPath": "D:\\Lessons\\CM\\CourseManagement\\CourseManagementEFCore\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\HP\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\novru\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -155,29 +173,45 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[6.0.13, 6.0.13]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[6.0.13, 6.0.13]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Ref",
+              "version": "[6.0.13, 6.0.13]"
+            }
+          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "D:\\Course\\CourseManagement\\CourseManagement\\CourseManagement\\CourseManagement.csproj": {
+    "D:\\Lessons\\CM\\CourseManagement\\CourseManagement\\CourseManagement.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Course\\CourseManagement\\CourseManagement\\CourseManagement\\CourseManagement.csproj",
+        "projectUniqueName": "D:\\Lessons\\CM\\CourseManagement\\CourseManagement\\CourseManagement.csproj",
         "projectName": "CourseManagement",
-        "projectPath": "D:\\Course\\CourseManagement\\CourseManagement\\CourseManagement\\CourseManagement.csproj",
-        "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
-        "outputPath": "D:\\Course\\CourseManagement\\CourseManagement\\CourseManagement\\obj\\",
+        "projectPath": "D:\\Lessons\\CM\\CourseManagement\\CourseManagement\\CourseManagement.csproj",
+        "packagesPath": "C:\\Users\\novru\\.nuget\\packages\\",
+        "outputPath": "D:\\Lessons\\CM\\CourseManagement\\CourseManagement\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\HP\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\novru\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -191,11 +225,11 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "D:\\Course\\CourseManagement\\CourseManagement\\CourseManagementCore\\CourseManagementCore.csproj": {
-                "projectPath": "D:\\Course\\CourseManagement\\CourseManagement\\CourseManagementCore\\CourseManagementCore.csproj"
+              "D:\\Lessons\\CM\\CourseManagement\\CourseManagementCore\\CourseManagementCore.csproj": {
+                "projectPath": "D:\\Lessons\\CM\\CourseManagement\\CourseManagementCore\\CourseManagementCore.csproj"
               },
-              "D:\\Course\\CourseManagement\\CourseManagement\\CourseManagementEFCore\\CourseManagementEFCore.csproj": {
-                "projectPath": "D:\\Course\\CourseManagement\\CourseManagement\\CourseManagementEFCore\\CourseManagementEFCore.csproj"
+              "D:\\Lessons\\CM\\CourseManagement\\CourseManagementEFCore\\CourseManagementEFCore.csproj": {
+                "projectPath": "D:\\Lessons\\CM\\CourseManagement\\CourseManagementEFCore\\CourseManagementEFCore.csproj"
               }
             }
           }
@@ -250,6 +284,24 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[6.0.13, 6.0.13]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Host.win-x64",
+              "version": "[6.0.13, 6.0.13]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[6.0.13, 6.0.13]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Ref",
+              "version": "[6.0.13, 6.0.13]"
+            }
+          ],
           "frameworkReferences": {
             "Microsoft.AspNetCore.App": {
               "privateAssets": "none"
@@ -258,7 +310,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
         }
       }
     }

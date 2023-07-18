@@ -83,9 +83,9 @@ namespace CourseManagementEFCore.DataAccess.SqlServer
             await context.SaveChangesAsync(cancellationToken);
         }
 
-        public Task<TEntity> GetBy(Expression<Func<TEntity, bool>> predicate)
+        public async Task<TEntity> GetBy(Expression<Func<TEntity, bool>> predicate)
         {
-            return GetAll().SingleOrDefaultAsync(predicate);
+            return await GetAll().SingleOrDefaultAsync(predicate);
         }
 
         private static void BindIncludeProperties(IQueryable<TEntity> query, IEnumerable<Expression<Func<TEntity, object>>> includeProperties)
