@@ -60,6 +60,7 @@ namespace CourseManagement.Mappers
         {
             List<TeachersViewModel> modelList = new List<TeachersViewModel>();
             TeachersViewModel model = new TeachersViewModel();
+
             foreach (var item in teachers)
             {
                 model = ViewMapper(item);

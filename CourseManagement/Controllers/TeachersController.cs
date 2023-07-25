@@ -12,25 +12,35 @@ namespace CourseManagement.Controllers
         private readonly ILogger<TeachersController> _logger;
         public TeachersController(IUnitOfWork unitOfWork, ILogger<TeachersController> logger)
         {
-            this._unitOfWork = unitOfWork;
-            this._logger = logger;
+            _unitOfWork = unitOfWork;
+            _logger = logger;
         }
 
         public async Task<IActionResult> Index()
         {
             List<TeachersViewModel> modelList = new List<TeachersViewModel>();
-            List<Teacher> teachers = await _unitOfWork.TeacherRepository.GetAllListIncluding(m => m.Courses);
+
+            List<Teacher> teachers = await _unitOfWork.TeacherRepository.GetAllList();
+
             modelList = TeacherMappers.GetList(teachers);
+
             TeachersViewModel model = new TeachersViewModel();
 
             model.Teachers = modelList;
             return View(model);
         }
 
+
+
+
+
+
+
         public IActionResult Create()
         {
             return View();
         }
+
 
         [HttpPost]
         public async Task<IActionResult> Submit(TeachersViewModel model)
@@ -48,20 +58,28 @@ namespace CourseManagement.Controllers
 
         }
 
+
+
+
         [HttpGet]
         public async Task<IActionResult> Edit(int? id)
         {
-            Teacher tModel = await _unitOfWork.TeacherRepository.GetBy(x => (x.ID == id));
-            if (tModel == null)
+            Teacher teacher = await _unitOfWork.TeacherRepository.GetBy(x => (x.ID == id));
+
+            if (teacher == null)
             {
                 Response.StatusCode = 404;
                 _logger.LogWarning(" Edit : Warning log : " + id.ToString() + " 404 not found");
                 return View("NotFound", id.Value);
             }
 
-            TeachersViewModel model = TeacherMappers.ViewMapper(tModel);
+            TeachersViewModel model = TeacherMappers.ViewMapper(teacher);
             return View(model);
         }
+
+
+
+
 
         [HttpPost]
         public async Task<IActionResult> Save(TeachersViewModel model)
@@ -79,13 +97,25 @@ namespace CourseManagement.Controllers
             }
         }
 
+
+
         [HttpGet]
         public async Task<IActionResult> Details(int? id)
         {
-            Teacher tModel = await _unitOfWork.TeacherRepository.GetBy(x => (x.ID == id));
-            TeachersViewModel model = TeacherMappers.ViewMapper(tModel);
+            Teacher teacher = await _unitOfWork.TeacherRepository.GetBy(x => (x.ID == id));
+
+            if (teacher == null)
+            {
+                Response.StatusCode = 404;
+                _logger.LogWarning(" Edit : Warning log : " + id.ToString() + " 404 not found");
+                return View("NotFound", id.Value);
+            }
+
+            TeachersViewModel model = TeacherMappers.ViewMapper(teacher);
             return View(model);
         }
+
+
 
         [HttpGet]
         public async Task<IActionResult> Delete(int id)
