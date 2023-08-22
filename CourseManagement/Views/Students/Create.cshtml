@@ -1,0 +1,67 @@
+﻿@model StudentViewModel
+@{
+    ViewData["Title"] = "Create";
+}
+
+
+<div class="col-11 mx-auto pt-0">
+    <div class="card">
+        <div class="card-header bg-primary text-uppercase text-white">
+            <h1>Create Student</h1>
+        </div>
+
+        <form method="post" asp-controller="Students" asp-action="Create">
+            <div class="row" style="margin:20px 20px 20px 20px">
+                <div class="col-md-6">
+                    <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+                    <div class="form-group">
+                        <label asp-for="Name" class="control-label "></label>
+                        <input asp-for="Name" class="form-control" />
+                        <span asp-validation-for="Name" class="text-danger"></span>
+                    </div>
+                </div>
+                <div class="col-md-6">
+                    <div class="form-group">
+                        <label asp-for="Surname" class="control-label"></label>
+                        <input asp-for="Surname" class="form-control" />
+                        <span asp-validation-for="Surname" class="text-danger"></span>
+                    </div>
+                </div>
+                <div class="col-md-6">
+                    <div class="form-group">
+                        <label asp-for="Email" class="control-label"></label>
+                        <input asp-for="Email" class="form-control" />
+                        <span asp-validation-for="Email" class="text-danger"></span>
+                    </div>
+                </div>
+                <div class="col-md-6">
+                    <div class="form-group">
+                        <label asp-for="PhoneNumber" class="control-label"></label>
+                        <input asp-for="PhoneNumber" class="form-control" />
+                        <span asp-validation-for="PhoneNumber" class="text-danger"></span>
+                    </div>
+                </div>
+
+                <div class="col-md-6">
+                    <div class="btn-group">
+                        <a asp-controller="Teachers" asp-action="Create" class="btn btn-sm btn-warning">CREATE NEW TEEACHER</a>
+                        <a asp-action="Delete" class="btn btn-sm btn-danger ml-1">ADD EXISTING TEACHER</a>
+                        @*<span asp-validation-for="" class="text-danger"></span>*@
+                    </div>
+                </div>
+
+               <partial />
+
+                <div class="form-group">
+                    <input type="submit" asp-action="Submit" value="Create" class="btn btn-primary ml-1" />
+                    <a href="##" class="btn btn-sm btn-warning ml-1" onClick="history.go(-1); return false;"> Return to back</a>
+                </div>
+            </div>
+        </form>
+    </div>
+</div>
+
+
+
+
+

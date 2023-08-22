@@ -1,0 +1,142 @@
+﻿@model CoursesViewModel
+
+@{
+    ViewData["Title"] = "Edit";
+}
+
+<div class="col-11 mx-auto pt-0">
+    <div class="card">
+        <div class="card-header bg-primary text-uppercase text-white">
+            <h1>EDIT COURSE</h1>
+        </div>
+
+        <form method="post" asp-controller="Courses" asp-action="Edit">
+            <div class="row" style="margin:20px 20px 20px 20px">
+                <div class="col-md-12">
+                    <h3><label class="control-label"><b><i>Teacher</i></b></label></h3>
+                    <hr style="height : 10px" />
+                </div>
+
+                <div class="col-md-12">
+                    <h6><label class="control-label">@(Model.Teacher.Name+" "+ Model.Teacher.Surname + " - "+Model.Teacher.Profession)</label></h6>
+                    <hr style="height:10px; color:black" />
+                </div>
+                <div class="col-md-3" style="margin:0px 0px 40px 0px">
+                    <label class="control-label">Add Teacher</label>
+                    <hr style="height : 0px" />
+                    <div class="btn-group" style="align-content:center">
+                        <a asp-controller="Teachers" asp-action="Create" class="btn btn-sm btn-danger ml-1">CREATE NEW TEACHER</a>
+                    </div>
+                </div>
+
+                <div class="col-md-9">
+                    <div class="form-group">
+                        <label asp-for="TeacherID" class="control-label">Change Teacher</label>
+                        <hr style="height : 0px" />
+                        <div class="input-group">
+                            <select asp-for="TeacherID" class="form-control" asp-items="@(new SelectList( ViewBag.TeacherList,"ID","Details"))">
+                                <option value="" selected disabled>--Select Teacher--</option>
+                            </select>
+                            <span asp-validation-for="TeacherID" class="text-danger"></span>
+                            @*<div class="input-group-append" style="margin:0px 0px 20px 0px">
+                                    <input type="submit" asp-action="AddTeachers" value="Add" class="btn btn-primary ml-1" />
+                                </div>*@
+                        </div>
+                    </div>
+                </div>
+
+                <div class="col-md-12">
+                    <hr style="height : 10px" />
+                    <h3><label class="control-label"><b><i>Course</i></b></label></h3>
+                    <hr style="height : 10px" />
+                </div>
+
+                <div class="col-md-6">
+                    <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+                    <div class="form-group">
+                        <label asp-for="Name" class="control-label "></label>
+                        <input asp-for="Name" class="form-control" />
+                        <span asp-validation-for="Name" class="text-danger"></span>
+                    </div>
+                </div>
+                <div class="col-md-6">
+                    <div class="form-group">
+                        <label asp-for="Description" class="control-label"></label>
+                        <input asp-for="Description" class="form-control" />
+                        <span asp-validation-for="Description" class="text-danger"></span>
+                    </div>
+                </div>
+                <div class="col-md-6">
+                    <div class="form-group">
+                        <label asp-for="Duration" class="control-label"></label>
+                        <input asp-for="Duration" class="form-control" />
+                        <span asp-validation-for="Duration" class="text-danger"></span>
+                    </div>
+                </div>
+                <div class="col-md-6">
+                    <div class="form-group">
+                        <label asp-for="Prices" class="control-label"></label>
+                        <input asp-for="Prices" class="form-control" />
+                        <span asp-validation-for="Prices" class="text-danger"></span>
+                    </div>
+                </div>
+
+                <div class="col-md-12">
+                    <hr style="height:10px; color:black" />
+                    <h3><label class="control-label"><b><i>Students</i></b></label></h3>
+                    <hr style="height:10px; color:black" />
+                </div>
+
+                <div class="col-md-3" style="margin:0px 0px 40px 0px">
+                    <label class="control-label">Add Students</label>
+                    <hr style="height : 0px" />
+                    <div class="btn-group">
+                        @*<a asp-controller="Teachers" asp-action="Create" class="btn btn-sm btn-danger ml-1">Create Student</a>*@
+                        <input type="submit" asp-action="AddStudents" class="btn btn-sm btn-danger" value="Add Students"/>
+                        <span asp-validation-for="Duration" class="text-danger"></span>
+                    </div>
+                </div>
+
+                <div class="col-md-9">
+                    <div class="form-group">
+                        <label asp-for="Student.ID" class="control-label">Existing Students</label>
+                        <hr style="height : 0px" />
+                        <div class="input-group mb-8">
+                            <select name="DDLVendor" asp-for="Student.ID" class="form-control" asp-items="@(new SelectList( ViewBag.StudentsList,"ID","Details"))">
+                                <option value="" selected disabled>---Select Student--- </option>
+                            </select>
+                            @*<div class="input-group-append" style="margin:0px 0px 20px 0px">
+                                <a asp-controller="Courses" asp-action="AddStudents" class="btn btn-primary ml-1">Add</a>
+                                <input id="btnAddStudent" type="submit" asp-action="AddStudents" value="Add" class="btn btn-primary ml-1" />
+                            </div>*@
+                        </div>
+                    </div>
+                </div>
+
+                <div class="col-md-12">
+                    <partial name="StudentList" model="Model" />
+                </div>
+
+                <input type="hidden" asp-for="ID" />
+                <input type="hidden" asp-for="Teacher" />
+                <input type="hidden" asp-for="CourseStudents" />
+                <input type="hidden" asp-for="IsDeleted" />
+                <input type="hidden" asp-for="CreationDate" />
+                <input type="hidden" asp-for="CreatorID" />
+                <input type="hidden" asp-for="LastModificationDate" />
+                <input type="hidden" asp-for="LastModificatorID" />
+                <input type="hidden" asp-for="DeletedDate" />
+                <input type="hidden" asp-for="DeletedUserID" />
+
+
+
+                <div class="col-md-12" style="text-align:center">
+                    <div class="form-group">
+                        <input type="submit" asp-action="Save" value="Save" class="btn btn-primary ml-1" />
+                        <a href="##" class="btn btn-sm btn-warning ml-1" onClick="history.go(-1); return false;"> Return to back</a>
+                    </div>
+                </div>
+            </div>
+        </form>
+    </div>
+</div>

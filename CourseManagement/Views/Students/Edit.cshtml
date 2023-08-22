@@ -1,0 +1,110 @@
+﻿@model StudentViewModel
+
+@{
+    ViewData["Title"] = "Edit";
+}
+
+<div class="col-11 mx-auto pt-0">
+    <div class="card">
+        <div class="card-header bg-primary text-uppercase text-white">
+            <h1>EDIT STUDENT</h1>
+        </div>
+
+        <form method="post" asp-controller="Students" asp-action="Edit">
+            <div class="row" style="margin:20px 20px 20px 20px">
+                <div class="col-md-6">
+                    <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+                    <div class="form-group">
+                        <label asp-for="Name" class="control-label "></label>
+                        <input asp-for="Name" class="form-control" />
+                        <span asp-validation-for="Name" class="text-danger"></span>
+                    </div>
+                </div>
+                <div class="col-md-6">
+                    <div class="form-group">
+                        <label asp-for="Surname" class="control-label"></label>
+                        <input asp-for="Surname" class="form-control" />
+                        <span asp-validation-for="Surname" class="text-danger"></span>
+                    </div>
+                </div>
+                <div class="col-md-6">
+                    <div class="form-group">
+                        <label asp-for="Email" class="control-label"></label>
+                        <input asp-for="Email" class="form-control" />
+                        <span asp-validation-for="Email" class="text-danger"></span>
+                    </div>
+                </div>
+                <div class="col-md-6">
+                    <div class="form-group">
+                        <label asp-for="PhoneNumber" class="control-label"></label>
+                        <input asp-for="PhoneNumber" class="form-control" />
+                        <span asp-validation-for="PhoneNumber" class="text-danger"></span>
+                    </div>
+                </div>
+                <div class="col-md-6">
+                    <div class="form-group">
+                        <label asp-for="BirthDate" class="control-label"></label>
+                        <input asp-for="PhoneNumber" type="date" class="form-control" />
+                        <span asp-validation-for="PhoneNumber" class="text-danger"></span>
+                    </div>
+                </div>
+                @*<div class="col-md-6">
+                        <div class="form-group">
+                            <label asp-for="Teacher" class="control-label"></label>
+                            <input asp-for="Profession" class="form-control" />
+                            <span asp-validation-for="Profession" class="text-danger"></span>
+                        </div>
+                    </div>*@
+                <input type="hidden" asp-for="ID" />
+                <input type="hidden" asp-for="CourseStudents" />
+                <input type="hidden" asp-for="IsDeleted" />
+                <input type="hidden" asp-for="CreationDate" />
+                <input type="hidden" asp-for="CreatorID" />
+                <input type="hidden" asp-for="LastModificationDate" />
+                <input type="hidden" asp-for="LastModificatorID" />
+                <input type="hidden" asp-for="DeletedDate" />
+                <input type="hidden" asp-for="DeletedUserID" />
+
+                <div class="card-body bg-dark text-uppercase text-white col-md-12">
+                    <h1>TEACHER</h1>
+                </div>
+
+                @*<div class="col-md-6">
+                        <div class="form-group">
+                            <label asp-for="Teacher.Name" class="control-label"></label>
+                            <input asp-for="Teacher.Name" class="form-control" />
+                            <span asp-validation-for="Teacher.Name" class="text-danger"></span>
+                        </div>
+                    </div>
+                    <div class="col-md-6">
+                        <div class="form-group">
+                            <label asp-for="Teacher.Surname" class="control-label"></label>
+                            <input asp-for="Teacher.Surname" class="form-control" />
+                            <span asp-validation-for="Teacher.Surname" class="text-danger"></span>
+                        </div>
+                    </div>
+                    <div class="col-md-6">
+                        <div class="form-group">
+                            <label asp-for="Teacher.Profession" class="control-label"></label>
+                            <input asp-for="Teacher.Profession" class="form-control" />
+                            <span asp-validation-for="Teacher.Profession" class="text-danger"></span>
+                        </div>
+                    </div>
+                    <div class="col-md-6">
+                        <div class="form-group">
+                            <label asp-for="Teacher.Email" class="control-label"></label>
+                            <input asp-for="Teacher.Email" class="form-control" />
+                            <span asp-validation-for="Teacher.Email" class="text-danger"></span>
+                        </div>
+                    </div>*@
+
+                <div class="col-md-12" style="text-align:center">
+                    <div class="form-group">
+                        <input type="submit" asp-action="Save" value="Save" class="btn btn-primary ml-1" />
+                        <a href="##" class="btn btn-sm btn-warning ml-1" onClick="history.go(-1); return false;"> Return to back</a>
+                    </div>
+                </div>
+            </div>
+        </form>
+    </div>
+</div>

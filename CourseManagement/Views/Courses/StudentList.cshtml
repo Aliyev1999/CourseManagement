@@ -1,0 +1,48 @@
+﻿@model CoursesViewModel
+
+
+<table id="ExpTable" class="table table-striped border">
+
+    <tr class="table-secondary">
+        <td>
+            @Html.DisplayNameFor(m => m.Student.Name)
+        </td>
+        <td>
+            @Html.DisplayNameFor(m => m.Student.Surname)
+        </td>
+        <td>
+            @Html.DisplayNameFor(m => m.Student.BirthDate)
+        </td>
+        <td>
+            @Html.DisplayNameFor(m => m.Student.Email)
+        </td>
+        <td>
+            @Html.DisplayNameFor(m => m.Student.PhoneNumber)
+        </td>
+    </tr>
+    @{
+        foreach (var item in Model.Student.Students)
+        {
+            <tr class="table text-black">
+                <td>
+                    @Html.DisplayFor(m => item.Name)
+                </td>
+                <td>
+                    @Html.DisplayFor(m => item.Surname)
+                </td>
+                <td>
+                    @Html.DisplayFor(m => item.BirthDate)
+                </td>
+                <td>
+                    @Html.DisplayFor(m => item.Email)
+                </td>
+                <td>
+                    @Html.DisplayFor(m => item.PhoneNumber)
+                </td>
+
+            </tr>
+        }
+    }
+</table>
+
+

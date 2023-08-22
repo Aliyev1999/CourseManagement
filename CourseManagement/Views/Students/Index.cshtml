@@ -1,0 +1,79 @@
+﻿@using CourseManagement.Models
+@model StudentViewModel
+@{
+    ViewData["Title"] = "Students";
+
+    Pager pager = new Pager();
+    int pageNo = 0;
+    if (ViewBag.Pager != null)
+    {
+        pager = ViewBag.Pager;
+        pageNo = pager.CurrentPage;
+    }
+}
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>Students</title>
+    <meta charset="UTF-8">
+</head>
+<body>
+    <form>
+        <div class="row">
+            <div class="col-6">
+                <h2 class="text-info">Students List</h2>
+            </div>
+            <div class="col-6 text-right">
+                <a asp-controller="Students" asp-action="Create" class="btn btn-info">Create New Student</a>
+            </div>
+        </div>
+
+        <div class="border bg-white">
+            <br />
+            <div>
+                <table class="table table-striped border">
+                    <tr class="table-secondary">
+                        <th>
+                            @Html.DisplayNameFor(m => m.Name)
+                        </th>
+                        <th>
+                            @Html.DisplayNameFor(m => m.Surname)
+                        </th>
+                        <th>
+                            @Html.DisplayNameFor(m => m.Email)
+                        </th>
+
+                        <th>
+
+                        </th>
+                    </tr>
+                    @foreach (var item in Model.Students)
+                    {
+                        <tr class="table text-black">
+                            <td>
+                                @Html.DisplayFor(m => item.Name)
+                            </td>
+                            <td>
+                                @Html.DisplayFor(m => item.Surname)
+                            </td>
+                            <td>
+                                @Html.DisplayFor(m => item.Email)
+                            </td>
+                            <td>
+                                <div class="btn-group">
+                                    <a asp-action="Edit" asp-route-id="@item.ID" class="btn btn-sm btn-warning">Edit</a>
+                                    <a asp-action="Delete" asp-route-id="@item.ID" class="btn btn-sm btn-danger ml-1">Delete</a>
+                                    <a asp-action="Details" asp-route-id="@item.ID" class="btn btn-sm btn-primary ml-1">Details</a>
+
+                                </div>
+                            </td>
+                        </tr>
+                    }
+                </table>
+            </div>
+            <partial name="Pager" model="@pager" />
+        </div>
+    </form>
+</body>
+</html>

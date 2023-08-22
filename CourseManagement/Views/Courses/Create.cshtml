@@ -1,0 +1,139 @@
+﻿@model CoursesViewModel
+@using CourseManagementEFCore.Domain.Entities;
+@{
+    ViewData["Title"] = "Create";
+    StudentViewModel viewModel = new StudentViewModel();
+}
+
+
+<div class="col-11 mx-auto pt-0">
+    <div class="card">
+        <div class="card-header bg-primary text-uppercase text-white">
+            <h1>Create Course</h1>
+        </div>
+        <form method="post" asp-controller="Teachers" asp-action="Create">
+            <div class="row" style="margin:20px 20px 20px 20px">
+                <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+                <div class="col-md-12">
+                    <h3><label class="control-label">Teacher</label></h3>
+                    <hr style="height : 10px" />
+                </div>
+                <div class="col-md-3" style="margin:0px 0px 40px 0px">
+                    <label class="control-label">Add Teacher</label>
+                    <hr style="height : 0px" />
+                    <div class="btn-group" style="align-content:center">
+                        <a asp-controller="Teachers" asp-action="Create" class="btn btn-sm btn-danger">CREATE NEW TEACHER</a>
+                    </div>
+                </div>
+
+                <div class="col-md-9">
+                    <div class="form-group">
+                        <label asp-for="TeacherID" class="control-label">Existing Teachers</label>
+                        <hr style="height : 0px" />
+                        <div class="input-group">
+                            <select asp-for="TeacherID" class="form-control" asp-items="@(new SelectList( ViewBag.TeacherList,"ID","Details"))">
+                                <option value="" selected disabled>---Select Teacher</option>
+                            </select>
+                            <span asp-validation-for="TeacherID" class="text-danger"></span>
+                            @*<div class="input-group-append" style="margin:0px 0px 20px 0px">
+                                    <input type="submit" asp-action="AddTeachers" value="Add" class="btn btn-primary ml-1" />
+                                </div>*@
+                        </div>
+                    </div>
+                </div>
+
+                <div class="col-md-12">
+                    <hr style="height : 10px" />
+                    <h3><label class="control-label">Course</label></h3>
+                    <hr style="height : 10px" />
+                </div>
+
+                <div class="col-md-6">
+                    <div class="form-group">
+                        <label asp-for="Name" class="control-label "></label>
+                        <input asp-for="Name" class="form-control" />
+                        <span asp-validation-for="Name" class="text-danger"></span>
+                    </div>
+                </div>
+                <div class="col-md-6">
+                    <div class="form-group">
+                        <label asp-for="Description" class="control-label"></label>
+                        <input asp-for="Description" class="form-control" />
+                        <span asp-validation-for="Description" class="text-danger"></span>
+                    </div>
+                </div>
+                <div class="col-md-6">
+                    <div class="form-group">
+                        <label asp-for="Duration" class="control-label"></label>
+                        <input asp-for="Duration" class="form-control" />
+                        <span asp-validation-for="Duration" class="text-danger"></span>
+                    </div>
+                </div>
+                <div class="col-md-6">
+                    <div class="form-group">
+                        <label asp-for="Prices" class="control-label"></label>
+                        <input asp-for="Prices" class="form-control" />
+                        <span asp-validation-for="Prices" class="text-danger"></span>
+                    </div>
+                </div>
+
+                @*<div class="col-md-12">
+                        <hr style="height:10px; color:black" />
+                        <h3><label class="control-label">Students</label></h3>
+                        <hr style="height:10px; color:black" />
+                    </div>*@
+
+                @*<div class="col-md-3" style="margin:0px 0px 40px 0px">
+                        <label class="control-label">Add Students</label>
+                        <hr style="height : 0px" />
+                        <div class="btn-group">
+                            <a asp-controller="Teachers" asp-action="Create" class="btn btn-sm btn-danger">Create Student</a>
+                            <span asp-validation-for="Duration" class="text-danger"></span>
+                        </div>
+                    </div>
+
+                    <div class="col-md-9">
+                        <div class="form-group">
+                            <label asp-for="Student.ID" class="control-label">Existing Students</label>
+                            <hr style="height : 0px" />
+                            <div class="input-group mb-8">
+                                <input type="submit" asp-action="AddStudents" class="btn btn-sm btn-danger" name="Add" value="Add"/>
+                            </div>
+                        </div>
+                    </div>*@
+
+                @*<div class="col-md-12">
+                        <partial name="AddStudents" model="Model" />
+                    </div>*@
+
+                <input type="hidden" asp-for="CreationDate" />
+
+                <div class="col-md-12">
+                    <hr style="height:10px; color:black;" />
+                </div>
+
+                <div class="form-group col-md-12" style="text-align:center">
+                    <input type="submit" asp-action="Submit" value="Create" class="btn btn-primary ml-1" />
+                    <a href="##" class="btn btn-sm btn-warning ml-1" onClick="history.go(-1); return false;"> Return to back</a>
+                </div>
+            </div>
+        </form>
+    </div>
+</div>
+
+@*<script>
+        $(document).ready(function () {
+            $("#btnAddStudent").click(function (e) {
+                alert('clicked');
+                var add = $("#DDLVendor").val();
+                $.ajax({
+                    type: "GET",
+                    url: "/Courses/AddStudents",
+                    success: function (add) {
+                        $("#AddStudents").html(add);
+                    }
+                });
+            });
+        });
+
+    </script>*@

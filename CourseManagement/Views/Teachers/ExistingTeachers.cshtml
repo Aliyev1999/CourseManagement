@@ -3,6 +3,13 @@
 @{
     ViewData["Title"] = "Teachers";
 
+    Pager pager = new Pager();
+    int pageNo = 0;
+    if (ViewBag.Pager != null)
+    {
+        pager = ViewBag.Pager;
+        pageNo = pager.CurrentPage;
+    }
 }
 
 
@@ -64,6 +71,7 @@
                     }
                 </table>
             </div>
+            <partial name="Pager" model="@pager" />
         </div>
     </form>
 </body>

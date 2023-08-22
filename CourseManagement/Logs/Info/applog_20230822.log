@@ -1,0 +1,376 @@
+2023-08-22T15:35:11.0696408+03:00 [WRN] (Microsoft.AspNetCore.HttpsPolicy.HttpsRedirectionMiddleware) Failed to determine the https port for redirect.
+2023-08-22T15:35:11.5906775+03:00 [WRN] (CourseManagement.Controllers.ErrorController) 404 error occured. Path / and QueryString = 
+2023-08-22T15:35:11.9891790+03:00 [WRN] (CourseManagement.Controllers.ErrorController) 404 error occured. Path /css/site.css and QueryString = 
+2023-08-22T15:35:12.1272101+03:00 [WRN] (CourseManagement.Controllers.ErrorController) 404 error occured. Path /js/site.js and QueryString = 
+2023-08-22T15:35:24.5187816+03:00 [WRN] (CourseManagement.Controllers.ErrorController) 404 error occured. Path /login and QueryString = 
+2023-08-22T15:35:24.8128663+03:00 [WRN] (CourseManagement.Controllers.ErrorController) 404 error occured. Path /js/site.js and QueryString = 
+2023-08-22T15:35:24.8130178+03:00 [WRN] (CourseManagement.Controllers.ErrorController) 404 error occured. Path /css/site.css and QueryString = 
+2023-08-22T15:35:49.3836086+03:00 [WRN] (CourseManagement.Controllers.ErrorController) 404 error occured. Path /login and QueryString = 
+2023-08-22T15:35:49.4097892+03:00 [WRN] (CourseManagement.Controllers.ErrorController) 404 error occured. Path /css/site.css and QueryString = 
+2023-08-22T15:35:49.4296031+03:00 [WRN] (CourseManagement.Controllers.ErrorController) 404 error occured. Path /js/site.js and QueryString = 
+2023-08-22T15:35:51.2507090+03:00 [WRN] (CourseManagement.Controllers.ErrorController) 404 error occured. Path /login and QueryString = 
+2023-08-22T15:35:51.2657832+03:00 [WRN] (CourseManagement.Controllers.ErrorController) 404 error occured. Path /css/site.css and QueryString = 
+2023-08-22T15:35:51.2663320+03:00 [WRN] (CourseManagement.Controllers.ErrorController) 404 error occured. Path /js/site.js and QueryString = 
+2023-08-22T15:35:52.4654838+03:00 [WRN] (CourseManagement.Controllers.ErrorController) 404 error occured. Path /login and QueryString = 
+2023-08-22T15:35:52.4805983+03:00 [WRN] (CourseManagement.Controllers.ErrorController) 404 error occured. Path /js/site.js and QueryString = 
+2023-08-22T15:35:52.4805983+03:00 [WRN] (CourseManagement.Controllers.ErrorController) 404 error occured. Path /css/site.css and QueryString = 
+2023-08-22T15:36:09.6632335+03:00 [WRN] (CourseManagement.Controllers.ErrorController) 404 error occured. Path /login and QueryString = 
+2023-08-22T15:36:09.6853869+03:00 [WRN] (CourseManagement.Controllers.ErrorController) 404 error occured. Path /css/site.css and QueryString = 
+2023-08-22T15:36:09.6858524+03:00 [WRN] (CourseManagement.Controllers.ErrorController) 404 error occured. Path /js/site.js and QueryString = 
+2023-08-22T15:36:12.7865363+03:00 [WRN] (CourseManagement.Controllers.ErrorController) 404 error occured. Path /login and QueryString = 
+2023-08-22T15:36:12.8054987+03:00 [WRN] (CourseManagement.Controllers.ErrorController) 404 error occured. Path /css/site.css and QueryString = 
+2023-08-22T15:36:12.8059283+03:00 [WRN] (CourseManagement.Controllers.ErrorController) 404 error occured. Path /js/site.js and QueryString = 
+2023-08-22T15:36:41.0092307+03:00 [WRN] (CourseManagement.Controllers.ErrorController) 404 error occured. Path /home and QueryString = 
+2023-08-22T15:36:41.0312115+03:00 [WRN] (CourseManagement.Controllers.ErrorController) 404 error occured. Path /css/site.css and QueryString = 
+2023-08-22T15:36:41.0313060+03:00 [WRN] (CourseManagement.Controllers.ErrorController) 404 error occured. Path /js/site.js and QueryString = 
+2023-08-22T15:36:47.0393924+03:00 [WRN] (CourseManagement.Controllers.ErrorController) 404 error occured. Path /home/index and QueryString = 
+2023-08-22T15:36:47.0553023+03:00 [WRN] (CourseManagement.Controllers.ErrorController) 404 error occured. Path /css/site.css and QueryString = 
+2023-08-22T15:36:47.0558099+03:00 [WRN] (CourseManagement.Controllers.ErrorController) 404 error occured. Path /js/site.js and QueryString = 
+2023-08-22T15:37:07.7735306+03:00 [WRN] (Microsoft.AspNetCore.HttpsPolicy.HttpsRedirectionMiddleware) Failed to determine the https port for redirect.
+2023-08-22T15:37:07.9624101+03:00 [WRN] (CourseManagement.Controllers.ErrorController) 404 error occured. Path / and QueryString = 
+2023-08-22T15:37:08.2529203+03:00 [WRN] (CourseManagement.Controllers.ErrorController) 404 error occured. Path /css/site.css and QueryString = 
+2023-08-22T15:37:08.2747209+03:00 [WRN] (CourseManagement.Controllers.ErrorController) 404 error occured. Path /js/site.js and QueryString = 
+2023-08-22T15:37:17.1338611+03:00 [WRN] (CourseManagement.Controllers.ErrorController) 404 error occured. Path /home and QueryString = 
+2023-08-22T15:37:17.1600436+03:00 [WRN] (CourseManagement.Controllers.ErrorController) 404 error occured. Path /css/site.css and QueryString = 
+2023-08-22T15:37:17.1602004+03:00 [WRN] (CourseManagement.Controllers.ErrorController) 404 error occured. Path /js/site.js and QueryString = 
+2023-08-22T15:37:20.9972668+03:00 [WRN] (CourseManagement.Controllers.ErrorController) 404 error occured. Path /home and QueryString = 
+2023-08-22T15:37:21.0161409+03:00 [WRN] (CourseManagement.Controllers.ErrorController) 404 error occured. Path /css/site.css and QueryString = 
+2023-08-22T15:37:21.0167479+03:00 [WRN] (CourseManagement.Controllers.ErrorController) 404 error occured. Path /js/site.js and QueryString = 
+2023-08-22T15:37:22.5164787+03:00 [WRN] (CourseManagement.Controllers.ErrorController) 404 error occured. Path /home and QueryString = 
+2023-08-22T15:37:22.5301919+03:00 [WRN] (CourseManagement.Controllers.ErrorController) 404 error occured. Path /css/site.css and QueryString = 
+2023-08-22T15:37:22.5309090+03:00 [WRN] (CourseManagement.Controllers.ErrorController) 404 error occured. Path /js/site.js and QueryString = 
+2023-08-22T15:37:23.4919832+03:00 [WRN] (CourseManagement.Controllers.ErrorController) 404 error occured. Path /home and QueryString = 
+2023-08-22T15:37:23.5102474+03:00 [WRN] (CourseManagement.Controllers.ErrorController) 404 error occured. Path /css/site.css and QueryString = 
+2023-08-22T15:37:23.5105919+03:00 [WRN] (CourseManagement.Controllers.ErrorController) 404 error occured. Path /js/site.js and QueryString = 
+2023-08-22T15:37:24.4662764+03:00 [WRN] (CourseManagement.Controllers.ErrorController) 404 error occured. Path /home and QueryString = 
+2023-08-22T15:37:24.4848465+03:00 [WRN] (CourseManagement.Controllers.ErrorController) 404 error occured. Path /css/site.css and QueryString = 
+2023-08-22T15:37:24.4855245+03:00 [WRN] (CourseManagement.Controllers.ErrorController) 404 error occured. Path /js/site.js and QueryString = 
+2023-08-22T15:38:21.3651579+03:00 [WRN] (CourseManagement.Controllers.ErrorController) 404 error occured. Path /home and QueryString = 
+2023-08-22T15:38:21.4460455+03:00 [WRN] (CourseManagement.Controllers.ErrorController) 404 error occured. Path /css/site.css and QueryString = 
+2023-08-22T15:38:21.4462812+03:00 [WRN] (CourseManagement.Controllers.ErrorController) 404 error occured. Path /js/site.js and QueryString = 
+2023-08-22T15:38:31.1590106+03:00 [WRN] (Microsoft.AspNetCore.HttpsPolicy.HttpsRedirectionMiddleware) Failed to determine the https port for redirect.
+2023-08-22T15:38:31.4976297+03:00 [WRN] (CourseManagement.Controllers.ErrorController) 404 error occured. Path / and QueryString = 
+2023-08-22T15:38:32.0041043+03:00 [WRN] (CourseManagement.Controllers.ErrorController) 404 error occured. Path /css/site.css and QueryString = 
+2023-08-22T15:38:32.0408214+03:00 [WRN] (CourseManagement.Controllers.ErrorController) 404 error occured. Path /js/site.js and QueryString = 
+2023-08-22T15:44:05.3298135+03:00 [WRN] (Microsoft.AspNetCore.HttpsPolicy.HttpsRedirectionMiddleware) Failed to determine the https port for redirect.
+2023-08-22T15:44:08.6948875+03:00 [WRN] (CourseManagement.Controllers.ErrorController) 404 error occured. Path /js/site.js and QueryString = 
+2023-08-22T15:44:08.6948909+03:00 [WRN] (CourseManagement.Controllers.ErrorController) 404 error occured. Path /css/site.css and QueryString = 
+2023-08-22T15:44:31.9656831+03:00 [WRN] (CourseManagement.Controllers.ErrorController) 404 error occured. Path /Login/home and QueryString = 
+2023-08-22T15:44:32.0172880+03:00 [WRN] (CourseManagement.Controllers.ErrorController) 404 error occured. Path /css/site.css and QueryString = 
+2023-08-22T15:44:32.0197676+03:00 [WRN] (CourseManagement.Controllers.ErrorController) 404 error occured. Path /js/site.js and QueryString = 
+2023-08-22T15:44:46.0474586+03:00 [WRN] (CourseManagement.Controllers.ErrorController) 404 error occured. Path /css/site.css and QueryString = 
+2023-08-22T15:44:46.0575269+03:00 [WRN] (CourseManagement.Controllers.ErrorController) 404 error occured. Path /js/site.js and QueryString = 
+2023-08-22T15:44:48.6701842+03:00 [WRN] (CourseManagement.Controllers.ErrorController) 403 error occured. Path /Courses and QueryString = 
+2023-08-22T15:45:03.8970285+03:00 [WRN] (Microsoft.EntityFrameworkCore.Model.Validation) No store type was specified for the decimal property '"Prices"' on entity type '"Course"'. This will cause values to be silently truncated if they do not fit in the default precision and scale. Explicitly specify the SQL server column type that can accommodate all the values in 'OnModelCreating' using 'HasColumnType', specify precision and scale using 'HasPrecision', or configure a value converter using 'HasConversion'.
+2023-08-22T15:45:12.6214704+03:00 [WRN] (CourseManagement.Controllers.ErrorController) 404 error occured. Path /css/site.css and QueryString = 
+2023-08-22T15:45:12.6613573+03:00 [WRN] (CourseManagement.Controllers.ErrorController) 404 error occured. Path /js/site.js and QueryString = 
+2023-08-22T16:09:00.6092435+03:00 [WRN] (Microsoft.AspNetCore.HttpsPolicy.HttpsRedirectionMiddleware) Failed to determine the https port for redirect.
+2023-08-22T16:09:01.8347747+03:00 [WRN] (CourseManagement.Controllers.ErrorController) 404 error occured. Path /css/site.css and QueryString = 
+2023-08-22T16:09:01.8347773+03:00 [WRN] (CourseManagement.Controllers.ErrorController) 404 error occured. Path /js/site.js and QueryString = 
+2023-08-22T16:09:10.6250421+03:00 [WRN] (Microsoft.EntityFrameworkCore.Model.Validation) No store type was specified for the decimal property '"Prices"' on entity type '"Course"'. This will cause values to be silently truncated if they do not fit in the default precision and scale. Explicitly specify the SQL server column type that can accommodate all the values in 'OnModelCreating' using 'HasColumnType', specify precision and scale using 'HasPrecision', or configure a value converter using 'HasConversion'.
+2023-08-22T16:09:16.4161224+03:00 [WRN] (CourseManagement.Controllers.ErrorController) 404 error occured. Path /js/site.js and QueryString = 
+2023-08-22T16:09:16.4655967+03:00 [WRN] (CourseManagement.Controllers.ErrorController) 404 error occured. Path /css/site.css and QueryString = 
+2023-08-22T16:09:18.9912136+03:00 [WRN] (CourseManagement.Controllers.ErrorController) 404 error occured. Path /css/site.css and QueryString = 
+2023-08-22T16:09:18.9952171+03:00 [WRN] (CourseManagement.Controllers.ErrorController) 404 error occured. Path /js/site.js and QueryString = 
+2023-08-22T16:09:20.8012110+03:00 [WRN] (CourseManagement.Controllers.ErrorController) 404 error occured. Path /css/site.css and QueryString = 
+2023-08-22T16:09:20.8025201+03:00 [WRN] (CourseManagement.Controllers.ErrorController) 404 error occured. Path /js/site.js and QueryString = 
+2023-08-22T16:09:22.5815041+03:00 [WRN] (CourseManagement.Controllers.ErrorController) 404 error occured. Path /css/site.css and QueryString = 
+2023-08-22T16:09:22.5908993+03:00 [WRN] (CourseManagement.Controllers.ErrorController) 404 error occured. Path /js/site.js and QueryString = 
+2023-08-22T16:09:42.6076742+03:00 [ERR] (Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware) An unhandled exception has occurred while executing the request.
+System.ArgumentNullException: Value cannot be null. (Parameter 'source')
+   at System.Linq.ThrowHelper.ThrowArgumentNullException(ExceptionArgument argument)
+   at System.Linq.Enumerable.Any[TSource](IEnumerable`1 source, Func`2 predicate)
+   at CourseManagement.Infrastructure.AuthorizeActionFilter.CheckUserPermission(String permissionList) in D:\Course\CourseManagement\CourseManagement\CourseManagement\Infrastructure\AuthorizeActionFilter.cs:line 86
+   at CourseManagement.Infrastructure.AuthorizeActionFilter.OnAuthorizationAsync(AuthorizationFilterContext actionContext) in D:\Course\CourseManagement\CourseManagement\CourseManagement\Infrastructure\AuthorizeActionFilter.cs:line 55
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|20_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|6_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Diagnostics.StatusCodePagesMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+2023-08-22T16:09:43.0893835+03:00 [WRN] (CourseManagement.Controllers.ErrorController) 404 error occured. Path /favicon.ico and QueryString = 
+2023-08-22T16:09:50.4514753+03:00 [WRN] (CourseManagement.Controllers.ErrorController) 404 error occured. Path /css/site.css and QueryString = 
+2023-08-22T16:09:50.4551687+03:00 [WRN] (CourseManagement.Controllers.ErrorController) 404 error occured. Path /js/site.js and QueryString = 
+2023-08-22T16:09:59.8403893+03:00 [ERR] (Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware) An unhandled exception has occurred while executing the request.
+System.ArgumentNullException: Value cannot be null. (Parameter 'source')
+   at System.Linq.ThrowHelper.ThrowArgumentNullException(ExceptionArgument argument)
+   at System.Linq.Enumerable.Any[TSource](IEnumerable`1 source, Func`2 predicate)
+   at CourseManagement.Infrastructure.AuthorizeActionFilter.CheckUserPermission(String permissionList) in D:\Course\CourseManagement\CourseManagement\CourseManagement\Infrastructure\AuthorizeActionFilter.cs:line 86
+   at CourseManagement.Infrastructure.AuthorizeActionFilter.OnAuthorizationAsync(AuthorizationFilterContext actionContext) in D:\Course\CourseManagement\CourseManagement\CourseManagement\Infrastructure\AuthorizeActionFilter.cs:line 55
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|20_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|6_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Diagnostics.StatusCodePagesMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+2023-08-22T16:29:14.1357181+03:00 [WRN] (Microsoft.AspNetCore.HttpsPolicy.HttpsRedirectionMiddleware) Failed to determine the https port for redirect.
+2023-08-22T16:29:15.2133837+03:00 [WRN] (CourseManagement.Controllers.ErrorController) 404 error occured. Path /js/site.js and QueryString = 
+2023-08-22T16:29:15.2133756+03:00 [WRN] (CourseManagement.Controllers.ErrorController) 404 error occured. Path /css/site.css and QueryString = 
+2023-08-22T16:29:24.0366193+03:00 [WRN] (Microsoft.EntityFrameworkCore.Model.Validation) No store type was specified for the decimal property '"Prices"' on entity type '"Course"'. This will cause values to be silently truncated if they do not fit in the default precision and scale. Explicitly specify the SQL server column type that can accommodate all the values in 'OnModelCreating' using 'HasColumnType', specify precision and scale using 'HasPrecision', or configure a value converter using 'HasConversion'.
+2023-08-22T16:29:30.4967092+03:00 [ERR] (Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware) An unhandled exception has occurred while executing the request.
+System.Exception: The hashtype is not supported
+   at CourseManagement.Controllers.LoginController.Login(LoginViewModel model, String returnUrl) in D:\Course\CourseManagement\CourseManagement\CourseManagement\Controllers\LoginController.cs:line 92
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.TaskOfIActionResultExecutor.Execute(IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeActionMethodAsync>g__Awaited|12_0(ControllerActionInvoker invoker, ValueTask`1 actionResultValueTask)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeNextActionFilterAsync>g__Awaited|10_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeInnerFilterAsync>g__Awaited|13_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeNextResourceFilter>g__Awaited|25_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Rethrow(ResourceExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|20_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|6_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Diagnostics.StatusCodePagesMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+2023-08-22T16:29:59.3956484+03:00 [WRN] (CourseManagement.Controllers.ErrorController) 404 error occured. Path /css/site.css and QueryString = 
+2023-08-22T16:29:59.4752771+03:00 [WRN] (CourseManagement.Controllers.ErrorController) 404 error occured. Path /js/site.js and QueryString = 
+2023-08-22T16:30:15.5666022+03:00 [ERR] (Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware) An unhandled exception has occurred while executing the request.
+System.Exception: The hashtype is not supported
+   at CourseManagement.Controllers.LoginController.Login(LoginViewModel model, String returnUrl) in D:\Course\CourseManagement\CourseManagement\CourseManagement\Controllers\LoginController.cs:line 92
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.TaskOfIActionResultExecutor.Execute(IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeActionMethodAsync>g__Awaited|12_0(ControllerActionInvoker invoker, ValueTask`1 actionResultValueTask)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeNextActionFilterAsync>g__Awaited|10_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeInnerFilterAsync>g__Awaited|13_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeNextResourceFilter>g__Awaited|25_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Rethrow(ResourceExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|20_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|6_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Diagnostics.StatusCodePagesMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+2023-08-22T16:31:35.8794924+03:00 [ERR] (Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware) An unhandled exception has occurred while executing the request.
+System.Exception: The hashtype is not supported
+   at CourseManagement.Controllers.LoginController.Login(LoginViewModel model, String returnUrl) in D:\Course\CourseManagement\CourseManagement\CourseManagement\Controllers\LoginController.cs:line 92
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.TaskOfIActionResultExecutor.Execute(IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeActionMethodAsync>g__Awaited|12_0(ControllerActionInvoker invoker, ValueTask`1 actionResultValueTask)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeNextActionFilterAsync>g__Awaited|10_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeInnerFilterAsync>g__Awaited|13_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeNextResourceFilter>g__Awaited|25_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Rethrow(ResourceExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|20_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|6_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Diagnostics.StatusCodePagesMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+2023-08-22T16:32:19.3355480+03:00 [WRN] (CourseManagement.Controllers.ErrorController) 404 error occured. Path /css/site.css and QueryString = 
+2023-08-22T16:32:19.4331667+03:00 [WRN] (CourseManagement.Controllers.ErrorController) 404 error occured. Path /js/site.js and QueryString = 
+2023-08-22T16:32:24.4642080+03:00 [WRN] (CourseManagement.Controllers.ErrorController) 404 error occured. Path /css/site.css and QueryString = 
+2023-08-22T16:32:24.4756685+03:00 [WRN] (CourseManagement.Controllers.ErrorController) 404 error occured. Path /js/site.js and QueryString = 
+2023-08-22T16:33:35.0345915+03:00 [WRN] (Microsoft.AspNetCore.HttpsPolicy.HttpsRedirectionMiddleware) Failed to determine the https port for redirect.
+2023-08-22T16:33:35.9003761+03:00 [WRN] (CourseManagement.Controllers.ErrorController) 404 error occured. Path /css/site.css and QueryString = 
+2023-08-22T16:33:35.9003944+03:00 [WRN] (CourseManagement.Controllers.ErrorController) 404 error occured. Path /js/site.js and QueryString = 
+2023-08-22T16:33:41.6651449+03:00 [WRN] (Microsoft.EntityFrameworkCore.Model.Validation) No store type was specified for the decimal property '"Prices"' on entity type '"Course"'. This will cause values to be silently truncated if they do not fit in the default precision and scale. Explicitly specify the SQL server column type that can accommodate all the values in 'OnModelCreating' using 'HasColumnType', specify precision and scale using 'HasPrecision', or configure a value converter using 'HasConversion'.
+2023-08-22T16:33:44.8458060+03:00 [WRN] (CourseManagement.Controllers.ErrorController) 404 error occured. Path /js/site.js and QueryString = 
+2023-08-22T16:33:44.8482466+03:00 [WRN] (CourseManagement.Controllers.ErrorController) 404 error occured. Path /css/site.css and QueryString = 
+2023-08-22T16:33:59.2243277+03:00 [ERR] (Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware) An unhandled exception has occurred while executing the request.
+System.ArgumentNullException: Value cannot be null. (Parameter 'source')
+   at System.Linq.ThrowHelper.ThrowArgumentNullException(ExceptionArgument argument)
+   at System.Linq.Enumerable.Any[TSource](IEnumerable`1 source, Func`2 predicate)
+   at CourseManagement.Infrastructure.AuthorizeActionFilter.CheckUserPermission(String permissionList) in D:\Course\CourseManagement\CourseManagement\CourseManagement\Infrastructure\AuthorizeActionFilter.cs:line 86
+   at CourseManagement.Infrastructure.AuthorizeActionFilter.OnAuthorizationAsync(AuthorizationFilterContext actionContext) in D:\Course\CourseManagement\CourseManagement\CourseManagement\Infrastructure\AuthorizeActionFilter.cs:line 55
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|20_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|6_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Diagnostics.StatusCodePagesMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+2023-08-22T16:34:03.6393395+03:00 [WRN] (CourseManagement.Controllers.ErrorController) 404 error occured. Path /css/site.css and QueryString = 
+2023-08-22T16:34:03.6411947+03:00 [WRN] (CourseManagement.Controllers.ErrorController) 404 error occured. Path /js/site.js and QueryString = 
+2023-08-22T16:34:24.7874565+03:00 [WRN] (CourseManagement.Controllers.ErrorController) 404 error occured. Path /css/site.css and QueryString = 
+2023-08-22T16:34:24.8507790+03:00 [WRN] (CourseManagement.Controllers.ErrorController) 404 error occured. Path /js/site.js and QueryString = 
+2023-08-22T16:34:29.4063111+03:00 [WRN] (CourseManagement.Controllers.ErrorController) 404 error occured. Path /css/site.css and QueryString = 
+2023-08-22T16:34:29.4214593+03:00 [WRN] (CourseManagement.Controllers.ErrorController) 404 error occured. Path /js/site.js and QueryString = 
+2023-08-22T16:34:33.6743574+03:00 [ERR] (CourseManagement.Controllers.UsersController) User Edit : Error log
+2023-08-22T16:34:33.6805128+03:00 [FTL] (CourseManagement.Controllers.UsersController) User Edit : Critical log
+2023-08-22T16:34:34.0488578+03:00 [WRN] (CourseManagement.Controllers.ErrorController) 404 error occured. Path /css/site.css and QueryString = 
+2023-08-22T16:34:34.0609122+03:00 [WRN] (CourseManagement.Controllers.ErrorController) 404 error occured. Path /js/site.js and QueryString = 
+2023-08-22T16:34:54.8164033+03:00 [ERR] (Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware) An unhandled exception has occurred while executing the request.
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at AspNetCoreGeneratedDocument.Views_Users_Edit.<ExecuteAsync>b__33_74() in D:\Course\CourseManagement\CourseManagement\CourseManagement\Views\Users\Edit.cshtml:line 62
+   at Microsoft.AspNetCore.Razor.Runtime.TagHelpers.TagHelperExecutionContext.SetOutputContentAsync()
+   at AspNetCoreGeneratedDocument.Views_Users_Edit.<ExecuteAsync>b__33_40()
+   at Microsoft.AspNetCore.Razor.Runtime.TagHelpers.TagHelperExecutionContext.SetOutputContentAsync()
+   at AspNetCoreGeneratedDocument.Views_Users_Edit.<ExecuteAsync>b__33_0() in D:\Course\CourseManagement\CourseManagement\CourseManagement\Views\Users\Edit.cshtml:line 61
+   at Microsoft.AspNetCore.Razor.Runtime.TagHelpers.TagHelperExecutionContext.GetChildContentAsync(Boolean useCachedResult, HtmlEncoder encoder)
+   at Microsoft.AspNetCore.Mvc.TagHelpers.RenderAtEndOfFormTagHelper.ProcessAsync(TagHelperContext context, TagHelperOutput output)
+   at Microsoft.AspNetCore.Razor.Runtime.TagHelpers.TagHelperRunner.<RunAsync>g__Awaited|0_0(Task task, TagHelperExecutionContext executionContext, Int32 i, Int32 count)
+   at AspNetCoreGeneratedDocument.Views_Users_Edit.ExecuteAsync() in D:\Course\CourseManagement\CourseManagement\CourseManagement\Views\Users\Edit.cshtml:line 4
+   at Microsoft.AspNetCore.Mvc.Razor.RazorView.RenderPageCoreAsync(IRazorPage page, ViewContext context)
+   at Microsoft.AspNetCore.Mvc.Razor.RazorView.RenderPageAsync(IRazorPage page, ViewContext context, Boolean invokeViewStarts)
+   at Microsoft.AspNetCore.Mvc.Razor.RazorView.RenderAsync(ViewContext context)
+   at Microsoft.AspNetCore.Mvc.ViewFeatures.ViewExecutor.ExecuteAsync(ViewContext viewContext, String contentType, Nullable`1 statusCode)
+   at Microsoft.AspNetCore.Mvc.ViewFeatures.ViewExecutor.ExecuteAsync(ViewContext viewContext, String contentType, Nullable`1 statusCode)
+   at Microsoft.AspNetCore.Mvc.ViewFeatures.ViewExecutor.ExecuteAsync(ActionContext actionContext, IView view, ViewDataDictionary viewData, ITempDataDictionary tempData, String contentType, Nullable`1 statusCode)
+   at Microsoft.AspNetCore.Mvc.ViewFeatures.ViewResultExecutor.ExecuteAsync(ActionContext context, ViewResult result)
+   at Microsoft.AspNetCore.Mvc.ViewResult.ExecuteResultAsync(ActionContext context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeNextResultFilterAsync>g__Awaited|30_0[TFilter,TFilterAsync](ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Rethrow(ResultExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.ResultNext[TFilter,TFilterAsync](State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.InvokeResultFilters()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeNextResourceFilter>g__Awaited|25_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Rethrow(ResourceExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.InvokeFilterPipelineAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|6_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Diagnostics.StatusCodePagesMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+2023-08-22T16:34:57.5138964+03:00 [ERR] (CourseManagement.Controllers.UsersController) User Edit : Error log
+2023-08-22T16:34:57.5150635+03:00 [FTL] (CourseManagement.Controllers.UsersController) User Edit : Critical log
+2023-08-22T16:34:57.6538120+03:00 [WRN] (CourseManagement.Controllers.ErrorController) 404 error occured. Path /css/site.css and QueryString = 
+2023-08-22T16:34:57.7180275+03:00 [WRN] (CourseManagement.Controllers.ErrorController) 404 error occured. Path /js/site.js and QueryString = 
+2023-08-22T16:35:06.8711936+03:00 [WRN] (CourseManagement.Controllers.ErrorController) 404 error occured. Path /css/site.css and QueryString = 
+2023-08-22T16:35:06.8881751+03:00 [WRN] (CourseManagement.Controllers.ErrorController) 404 error occured. Path /js/site.js and QueryString = 
+2023-08-22T16:35:21.1440470+03:00 [ERR] (Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware) An unhandled exception has occurred while executing the request.
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at AspNetCoreGeneratedDocument.Views_Users_Edit.<ExecuteAsync>b__33_74() in D:\Course\CourseManagement\CourseManagement\CourseManagement\Views\Users\Edit.cshtml:line 62
+   at Microsoft.AspNetCore.Razor.Runtime.TagHelpers.TagHelperExecutionContext.SetOutputContentAsync()
+   at AspNetCoreGeneratedDocument.Views_Users_Edit.<ExecuteAsync>b__33_40()
+   at Microsoft.AspNetCore.Razor.Runtime.TagHelpers.TagHelperExecutionContext.SetOutputContentAsync()
+   at AspNetCoreGeneratedDocument.Views_Users_Edit.<ExecuteAsync>b__33_0() in D:\Course\CourseManagement\CourseManagement\CourseManagement\Views\Users\Edit.cshtml:line 61
+   at Microsoft.AspNetCore.Razor.Runtime.TagHelpers.TagHelperExecutionContext.GetChildContentAsync(Boolean useCachedResult, HtmlEncoder encoder)
+   at Microsoft.AspNetCore.Mvc.TagHelpers.RenderAtEndOfFormTagHelper.ProcessAsync(TagHelperContext context, TagHelperOutput output)
+   at Microsoft.AspNetCore.Razor.Runtime.TagHelpers.TagHelperRunner.<RunAsync>g__Awaited|0_0(Task task, TagHelperExecutionContext executionContext, Int32 i, Int32 count)
+   at AspNetCoreGeneratedDocument.Views_Users_Edit.ExecuteAsync() in D:\Course\CourseManagement\CourseManagement\CourseManagement\Views\Users\Edit.cshtml:line 4
+   at Microsoft.AspNetCore.Mvc.Razor.RazorView.RenderPageCoreAsync(IRazorPage page, ViewContext context)
+   at Microsoft.AspNetCore.Mvc.Razor.RazorView.RenderPageAsync(IRazorPage page, ViewContext context, Boolean invokeViewStarts)
+   at Microsoft.AspNetCore.Mvc.Razor.RazorView.RenderAsync(ViewContext context)
+   at Microsoft.AspNetCore.Mvc.ViewFeatures.ViewExecutor.ExecuteAsync(ViewContext viewContext, String contentType, Nullable`1 statusCode)
+   at Microsoft.AspNetCore.Mvc.ViewFeatures.ViewExecutor.ExecuteAsync(ViewContext viewContext, String contentType, Nullable`1 statusCode)
+   at Microsoft.AspNetCore.Mvc.ViewFeatures.ViewExecutor.ExecuteAsync(ActionContext actionContext, IView view, ViewDataDictionary viewData, ITempDataDictionary tempData, String contentType, Nullable`1 statusCode)
+   at Microsoft.AspNetCore.Mvc.ViewFeatures.ViewResultExecutor.ExecuteAsync(ActionContext context, ViewResult result)
+   at Microsoft.AspNetCore.Mvc.ViewResult.ExecuteResultAsync(ActionContext context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeNextResultFilterAsync>g__Awaited|30_0[TFilter,TFilterAsync](ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Rethrow(ResultExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.ResultNext[TFilter,TFilterAsync](State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.InvokeResultFilters()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeNextResourceFilter>g__Awaited|25_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Rethrow(ResourceExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.InvokeFilterPipelineAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|6_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Diagnostics.StatusCodePagesMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+2023-08-22T16:35:25.2499110+03:00 [ERR] (CourseManagement.Controllers.UsersController) User Edit : Error log
+2023-08-22T16:35:25.2520783+03:00 [FTL] (CourseManagement.Controllers.UsersController) User Edit : Critical log
+2023-08-22T16:35:25.3500980+03:00 [WRN] (CourseManagement.Controllers.ErrorController) 404 error occured. Path /css/site.css and QueryString = 
+2023-08-22T16:35:25.3909867+03:00 [WRN] (CourseManagement.Controllers.ErrorController) 404 error occured. Path /js/site.js and QueryString = 
+2023-08-22T16:35:25.8804467+03:00 [WRN] (CourseManagement.Controllers.ErrorController) 404 error occured. Path /css/site.css and QueryString = 
+2023-08-22T16:35:25.8823697+03:00 [WRN] (CourseManagement.Controllers.ErrorController) 404 error occured. Path /js/site.js and QueryString = 
+2023-08-22T16:35:26.0976854+03:00 [WRN] (CourseManagement.Controllers.ErrorController) 404 error occured. Path /css/site.css and QueryString = 
+2023-08-22T16:35:26.1031970+03:00 [WRN] (CourseManagement.Controllers.ErrorController) 404 error occured. Path /js/site.js and QueryString = 
+2023-08-22T16:35:28.1650022+03:00 [WRN] (CourseManagement.Controllers.ErrorController) 404 error occured. Path /css/site.css and QueryString = 
+2023-08-22T16:35:28.1667938+03:00 [WRN] (CourseManagement.Controllers.ErrorController) 404 error occured. Path /js/site.js and QueryString = 
+2023-08-22T16:35:30.1268236+03:00 [ERR] (CourseManagement.Controllers.UsersController) User Edit : Error log
+2023-08-22T16:35:30.1324364+03:00 [FTL] (CourseManagement.Controllers.UsersController) User Edit : Critical log
+2023-08-22T16:35:30.2021560+03:00 [WRN] (CourseManagement.Controllers.ErrorController) 404 error occured. Path /css/site.css and QueryString = 
+2023-08-22T16:35:30.2072639+03:00 [WRN] (CourseManagement.Controllers.ErrorController) 404 error occured. Path /js/site.js and QueryString = 
+2023-08-22T16:37:44.9681977+03:00 [WRN] (Microsoft.AspNetCore.HttpsPolicy.HttpsRedirectionMiddleware) Failed to determine the https port for redirect.
+2023-08-22T16:37:45.8526875+03:00 [WRN] (CourseManagement.Controllers.ErrorController) 404 error occured. Path /js/site.js and QueryString = 
+2023-08-22T16:37:45.8526853+03:00 [WRN] (CourseManagement.Controllers.ErrorController) 404 error occured. Path /css/site.css and QueryString = 
+2023-08-22T16:37:57.0133547+03:00 [WRN] (Microsoft.EntityFrameworkCore.Model.Validation) No store type was specified for the decimal property '"Prices"' on entity type '"Course"'. This will cause values to be silently truncated if they do not fit in the default precision and scale. Explicitly specify the SQL server column type that can accommodate all the values in 'OnModelCreating' using 'HasColumnType', specify precision and scale using 'HasPrecision', or configure a value converter using 'HasConversion'.
+2023-08-22T16:38:36.2895226+03:00 [WRN] (Microsoft.AspNetCore.HttpsPolicy.HttpsRedirectionMiddleware) Failed to determine the https port for redirect.
+2023-08-22T16:38:37.1921380+03:00 [WRN] (CourseManagement.Controllers.ErrorController) 404 error occured. Path /css/site.css and QueryString = 
+2023-08-22T16:38:37.1921455+03:00 [WRN] (CourseManagement.Controllers.ErrorController) 404 error occured. Path /js/site.js and QueryString = 
+2023-08-22T16:38:44.9074708+03:00 [WRN] (CourseManagement.Controllers.ErrorController) 403 error occured. Path /Users and QueryString = 
+2023-08-22T16:38:55.2275963+03:00 [WRN] (Microsoft.EntityFrameworkCore.Model.Validation) No store type was specified for the decimal property '"Prices"' on entity type '"Course"'. This will cause values to be silently truncated if they do not fit in the default precision and scale. Explicitly specify the SQL server column type that can accommodate all the values in 'OnModelCreating' using 'HasColumnType', specify precision and scale using 'HasPrecision', or configure a value converter using 'HasConversion'.
+2023-08-22T16:39:11.3723892+03:00 [WRN] (CourseManagement.Controllers.ErrorController) 404 error occured. Path /css/site.css and QueryString = 
+2023-08-22T16:39:11.4445312+03:00 [WRN] (CourseManagement.Controllers.ErrorController) 404 error occured. Path /js/site.js and QueryString = 
+2023-08-22T16:39:19.1383546+03:00 [WRN] (CourseManagement.Controllers.ErrorController) 404 error occured. Path /css/site.css and QueryString = 
+2023-08-22T16:39:19.1477000+03:00 [WRN] (CourseManagement.Controllers.ErrorController) 404 error occured. Path /js/site.js and QueryString = 
+2023-08-22T16:39:20.6987184+03:00 [ERR] (CourseManagement.Controllers.UsersController) User Edit : Error log
+2023-08-22T16:39:20.7018210+03:00 [FTL] (CourseManagement.Controllers.UsersController) User Edit : Critical log
+2023-08-22T16:39:21.0371037+03:00 [WRN] (CourseManagement.Controllers.ErrorController) 404 error occured. Path /css/site.css and QueryString = 
+2023-08-22T16:39:21.0518142+03:00 [WRN] (CourseManagement.Controllers.ErrorController) 404 error occured. Path /js/site.js and QueryString = 
+2023-08-22T16:39:36.7799523+03:00 [INF] (CourseManagement.Controllers.UsersController) User Edit : Information log :4 updated
+2023-08-22T16:39:36.8285928+03:00 [WRN] (CourseManagement.Controllers.ErrorController) 404 error occured. Path /css/site.css and QueryString = 
+2023-08-22T16:39:36.8796450+03:00 [WRN] (CourseManagement.Controllers.ErrorController) 404 error occured. Path /js/site.js and QueryString = 
+2023-08-22T16:39:41.1675359+03:00 [ERR] (CourseManagement.Controllers.UsersController) User Edit : Error log
+2023-08-22T16:39:41.1716712+03:00 [FTL] (CourseManagement.Controllers.UsersController) User Edit : Critical log
+2023-08-22T16:39:41.2481200+03:00 [WRN] (CourseManagement.Controllers.ErrorController) 404 error occured. Path /css/site.css and QueryString = 
+2023-08-22T16:39:41.2500920+03:00 [WRN] (CourseManagement.Controllers.ErrorController) 404 error occured. Path /js/site.js and QueryString = 
+2023-08-22T16:39:48.9816392+03:00 [INF] (CourseManagement.Controllers.UsersController) User Edit : Information log :5 updated
+2023-08-22T16:39:49.0290586+03:00 [WRN] (CourseManagement.Controllers.ErrorController) 404 error occured. Path /css/site.css and QueryString = 
+2023-08-22T16:39:49.0328858+03:00 [WRN] (CourseManagement.Controllers.ErrorController) 404 error occured. Path /js/site.js and QueryString = 
+2023-08-22T16:40:17.6494757+03:00 [WRN] (Microsoft.AspNetCore.HttpsPolicy.HttpsRedirectionMiddleware) Failed to determine the https port for redirect.
+2023-08-22T16:40:18.5396550+03:00 [WRN] (CourseManagement.Controllers.ErrorController) 404 error occured. Path /css/site.css and QueryString = 
+2023-08-22T16:40:18.5396503+03:00 [WRN] (CourseManagement.Controllers.ErrorController) 404 error occured. Path /js/site.js and QueryString = 
+2023-08-22T16:40:34.4530106+03:00 [WRN] (Microsoft.AspNetCore.HttpsPolicy.HttpsRedirectionMiddleware) Failed to determine the https port for redirect.
+2023-08-22T16:40:35.2543411+03:00 [WRN] (CourseManagement.Controllers.ErrorController) 404 error occured. Path /css/site.css and QueryString = 
+2023-08-22T16:40:35.2543373+03:00 [WRN] (CourseManagement.Controllers.ErrorController) 404 error occured. Path /js/site.js and QueryString = 
+2023-08-22T16:40:37.2574068+03:00 [WRN] (CourseManagement.Controllers.ErrorController) 403 error occured. Path /Users and QueryString = 
+2023-08-22T16:40:44.3446445+03:00 [WRN] (Microsoft.EntityFrameworkCore.Model.Validation) No store type was specified for the decimal property '"Prices"' on entity type '"Course"'. This will cause values to be silently truncated if they do not fit in the default precision and scale. Explicitly specify the SQL server column type that can accommodate all the values in 'OnModelCreating' using 'HasColumnType', specify precision and scale using 'HasPrecision', or configure a value converter using 'HasConversion'.
+2023-08-22T16:40:49.8797639+03:00 [WRN] (CourseManagement.Controllers.ErrorController) 404 error occured. Path /css/site.css and QueryString = 
+2023-08-22T16:40:49.9187439+03:00 [WRN] (CourseManagement.Controllers.ErrorController) 404 error occured. Path /js/site.js and QueryString = 
+2023-08-22T16:40:53.5335488+03:00 [WRN] (CourseManagement.Controllers.ErrorController) 404 error occured. Path /css/site.css and QueryString = 
+2023-08-22T16:40:53.5355032+03:00 [WRN] (CourseManagement.Controllers.ErrorController) 404 error occured. Path /js/site.js and QueryString = 
+2023-08-22T16:40:55.9140944+03:00 [ERR] (CourseManagement.Controllers.UsersController) User Edit : Error log
+2023-08-22T16:40:55.9225656+03:00 [FTL] (CourseManagement.Controllers.UsersController) User Edit : Critical log
+2023-08-22T16:40:56.2166085+03:00 [WRN] (CourseManagement.Controllers.ErrorController) 404 error occured. Path /css/site.css and QueryString = 
+2023-08-22T16:40:56.2188337+03:00 [WRN] (CourseManagement.Controllers.ErrorController) 404 error occured. Path /js/site.js and QueryString = 
+2023-08-22T16:40:59.4582099+03:00 [WRN] (CourseManagement.Controllers.ErrorController) 404 error occured. Path /css/site.css and QueryString = 
+2023-08-22T16:40:59.4639003+03:00 [WRN] (CourseManagement.Controllers.ErrorController) 404 error occured. Path /js/site.js and QueryString = 
+2023-08-22T16:41:10.8916065+03:00 [WRN] (CourseManagement.Controllers.ErrorController) 404 error occured. Path /css/site.css and QueryString = 
+2023-08-22T16:41:10.8925432+03:00 [WRN] (CourseManagement.Controllers.ErrorController) 404 error occured. Path /js/site.js and QueryString = 
+2023-08-22T16:41:31.3119668+03:00 [WRN] (CourseManagement.Controllers.ErrorController) 404 error occured. Path /css/site.css and QueryString = 
+2023-08-22T16:41:31.3133134+03:00 [WRN] (CourseManagement.Controllers.ErrorController) 404 error occured. Path /js/site.js and QueryString = 
+2023-08-22T16:42:12.2932773+03:00 [WRN] (CourseManagement.Controllers.ErrorController) 404 error occured. Path /css/site.css and QueryString = 
+2023-08-22T16:42:12.2972991+03:00 [WRN] (CourseManagement.Controllers.ErrorController) 404 error occured. Path /js/site.js and QueryString = 
+2023-08-22T16:42:22.8310331+03:00 [ERR] (CourseManagement.Controllers.UsersController) User Edit : Error log
+2023-08-22T16:42:22.8328990+03:00 [FTL] (CourseManagement.Controllers.UsersController) User Edit : Critical log
+2023-08-22T16:42:22.8728165+03:00 [WRN] (CourseManagement.Controllers.ErrorController) 404 error occured. Path /css/site.css and QueryString = 
+2023-08-22T16:42:22.8740896+03:00 [WRN] (CourseManagement.Controllers.ErrorController) 404 error occured. Path /js/site.js and QueryString = 
+2023-08-22T16:42:53.3032472+03:00 [WRN] (CourseManagement.Controllers.ErrorController) 404 error occured. Path /css/site.css and QueryString = 
+2023-08-22T16:42:53.3057803+03:00 [WRN] (CourseManagement.Controllers.ErrorController) 404 error occured. Path /js/site.js and QueryString = 
+2023-08-22T16:43:10.8971066+03:00 [ERR] (CourseManagement.Controllers.UsersController) User Edit : Error log
+2023-08-22T16:43:10.8983335+03:00 [FTL] (CourseManagement.Controllers.UsersController) User Edit : Critical log
+2023-08-22T16:43:10.9453035+03:00 [WRN] (CourseManagement.Controllers.ErrorController) 404 error occured. Path /css/site.css and QueryString = 
+2023-08-22T16:43:10.9492748+03:00 [WRN] (CourseManagement.Controllers.ErrorController) 404 error occured. Path /js/site.js and QueryString = 
+2023-08-22T16:43:23.4456775+03:00 [WRN] (CourseManagement.Controllers.ErrorController) 404 error occured. Path /css/site.css and QueryString = 
+2023-08-22T16:43:23.4486554+03:00 [WRN] (CourseManagement.Controllers.ErrorController) 404 error occured. Path /js/site.js and QueryString = 
+2023-08-22T16:57:34.6370537+03:00 [WRN] (CourseManagement.Controllers.ErrorController) 404 error occured. Path /css/site.css and QueryString = 
+2023-08-22T16:57:34.6697061+03:00 [WRN] (CourseManagement.Controllers.ErrorController) 404 error occured. Path /js/site.js and QueryString = 
+2023-08-22T16:57:40.5060987+03:00 [WRN] (CourseManagement.Controllers.ErrorController) 404 error occured. Path /css/site.css and QueryString = 
+2023-08-22T16:57:40.5225379+03:00 [WRN] (CourseManagement.Controllers.ErrorController) 404 error occured. Path /js/site.js and QueryString = 
+2023-08-22T16:58:59.9937415+03:00 [WRN] (CourseManagement.Controllers.ErrorController) 404 error occured. Path /css/site.css and QueryString = 
+2023-08-22T17:02:12.3875158+03:00 [WRN] (CourseManagement.Controllers.ErrorController) 404 error occured. Path /css/site.css and QueryString = 
+2023-08-22T17:02:12.4281256+03:00 [WRN] (CourseManagement.Controllers.ErrorController) 404 error occured. Path /js/site.js and QueryString = 
+2023-08-22T17:02:30.8939376+03:00 [WRN] (CourseManagement.Controllers.ErrorController) 404 error occured. Path /css/site.css and QueryString = 
+2023-08-22T17:02:30.9419737+03:00 [WRN] (CourseManagement.Controllers.ErrorController) 404 error occured. Path /js/site.js and QueryString = 
+2023-08-22T17:02:35.9572162+03:00 [WRN] (CourseManagement.Controllers.ErrorController) 403 error occured. Path /Courses and QueryString = 
+2023-08-22T17:02:41.0867754+03:00 [WRN] (CourseManagement.Controllers.ErrorController) 404 error occured. Path /css/site.css and QueryString = 
+2023-08-22T17:02:41.1252441+03:00 [WRN] (CourseManagement.Controllers.ErrorController) 404 error occured. Path /js/site.js and QueryString = 

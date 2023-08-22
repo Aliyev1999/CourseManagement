@@ -1,0 +1,86 @@
+﻿@using CourseManagement.Models
+@model UserViewModel
+@{
+    ViewData["Title"] = "Users";
+
+    Pager pager = new Pager();
+    int pageNo = 0;
+    if (ViewBag.Pager != null)
+    {
+        pager = ViewBag.Pager;
+        pageNo = pager.CurrentPage;
+    }
+}
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>Teachers</title>
+    <meta charset="UTF-8">
+</head>
+<body>
+    <form>
+        <div class="row">
+            <div class="col-6">
+                <h2 class="text-info">Teachers List</h2>
+            </div>
+            <div class="col-6 text-right">
+                <a asp-controller="Users" asp-action="Create" class="btn btn-info">
+                    Create New User
+                </a>
+            </div>
+        </div>
+
+        <div class="border bg-white">
+            <br />
+            <div>
+                <table class="table table-striped border">
+                    <tr class="table-secondary">
+                        <th>
+                            @Html.DisplayNameFor(m => m.Name)
+                        </th>
+                        <th>
+                            @Html.DisplayNameFor(m => m.Surname)
+                        </th>
+                        <th>
+
+                        </th>
+                    </tr>
+                    @foreach (var item in Model.Users)
+                    {
+                        <tr class="table text-black">
+                            <td>
+                                @Html.DisplayFor(m => item.Name)
+                            </td>
+                            <td>
+                                @Html.DisplayFor(m => item.Surname)
+                            </td>
+                          
+                            <td>
+                                <div class="btn-group">
+                                    <a asp-action="Edit" asp-route-id="@item.ID" class="btn btn-sm btn-warning">Edit</a>
+                                    <a asp-action="Delete" asp-route-id="@item.ID" class="btn btn-sm btn-danger ml-1" onclick="confirm('Are you sure delete?')">Delete</a>
+                                    <a asp-action="Details" asp-route-id="@item.ID" class="btn btn-sm btn-primary ml-1">Details</a>
+                                </div>
+                            </td>
+                        </tr>
+                    }
+                </table>
+            </div>
+            <partial name="Pager" model="@pager" />
+            @*<span id="deleteSpan_@item.ID">
+                    <a asp-action="Delete" asp-route-id="@item.ID" class="btn btn-sm btn-danger ml-1" onclick="confirmDelete('@item.ID',true)">Delete</a>
+                </span>
+                <span style="display:none" id="confirmDeleteSpan_@item.ID">
+                    <span>Are you sure want to delete?</span>
+                    <button type="submit" class="btn btn-danger">Yes</button>
+                    <a href="#" class="btn btn-primary" onclick="confirmDelete('@item.ID', false)">No</a>
+                </span>*@
+            @*@section Scripts{
+                    <script src="~/js/CustomScript.js"></script>
+                }*@
+        </div>
+    </form>
+</body>
+</html>

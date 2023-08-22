@@ -5,6 +5,7 @@ namespace CourseManagement.Models
 {
     public class BaseViewModel
     {
+        [Required]
         public int ID { get; set; }
         public long? LastModificatorID { get; set; }
         public DateTime? LastModificationDate { get; set; }

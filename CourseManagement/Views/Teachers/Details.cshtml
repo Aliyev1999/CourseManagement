@@ -10,46 +10,46 @@
     <hr />
     <dl class="row">
         <dt class="col-sm-2">
-            Name
+            @Html.DisplayNameFor(model => model.Name)
         </dt>
         <dd class="col-sm-10">
-            @Model.Name
+            @Html.DisplayFor(model => model.Name)
         </dd>
         <dt class="col-sm-2">
-            Surname
+            @Html.DisplayNameFor(model => model.Surname)
         </dt>
         <dd class="col-sm-10">
-            @Model.Surname
+            @Html.DisplayFor(model => model.Surname)
         </dd>
         <dt class="col-sm-2">
-            Email
+            @Html.DisplayNameFor(model => model.Email)
         </dt>
         <dd class="col-sm-10">
-            @Model.Email
+            @Html.DisplayFor(model => model.Email)
         </dd>
         <dt class="col-sm-2">
-            PhoneNumber
-         </dt>
-        <dd class="col-sm-10">
-            @Model.PhoneNumber
-        </dd>
-        <dt class="col-sm-2">
-             BirthDate
+            @Html.DisplayNameFor(model => model.PhoneNumber)
         </dt>
         <dd class="col-sm-10">
-            @Model.BirthDate
+            @Html.DisplayFor(model => model.PhoneNumber)
         </dd>
         <dt class="col-sm-2">
-            Profession
+            @Html.DisplayNameFor(model => model.BirthDate)
         </dt>
         <dd class="col-sm-10">
-            @Model.Profession
+            @Html.DisplayFor(model => model.BirthDate)
         </dd>
         <dt class="col-sm-2">
-            IsDeleted
+            @Html.DisplayNameFor(model => model.Profession)
         </dt>
         <dd class="col-sm-10">
-            @Model.IsDeleted
+            @Html.DisplayFor(model => model.Profession)
+        </dd>
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.IsDeleted)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.IsDeleted)
         </dd>
     </dl>
 </div>
