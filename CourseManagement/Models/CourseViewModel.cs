@@ -7,8 +7,11 @@ namespace CourseManagement.Models
 {
     public class CoursesViewModel : BaseViewModel
     {
+<<<<<<< HEAD
         [Required]
         [DataType(DataType.Text)]
+=======
+>>>>>>> 73d098765aa42eda39f0657a92afaf7acc48f6a8
         public string Description { get; set; }
 
         [Required]
@@ -19,8 +22,11 @@ namespace CourseManagement.Models
         [DataType(DataType.Text)]
         public decimal Prices { get; set; }
 
+<<<<<<< HEAD
         [Required]
         [DataType(DataType.Text)]
+=======
+>>>>>>> 73d098765aa42eda39f0657a92afaf7acc48f6a8
         public string Profession { get; set; }
 
         [Required]

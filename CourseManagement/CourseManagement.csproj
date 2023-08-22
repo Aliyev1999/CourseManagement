@@ -19,7 +19,10 @@
   </ItemGroup>
 
   <ItemGroup>
+<<<<<<< HEAD
     <None Include="Views\AccessDenied\Index.cshtml" />
+=======
+>>>>>>> 73d098765aa42eda39f0657a92afaf7acc48f6a8
     <None Include="Views\Courses\Add.cshtml" />
     <None Include="Views\Courses\AddStudents.cshtml" />
     <None Include="Views\Courses\Create.cshtml" />
@@ -34,7 +37,10 @@
     <None Include="Views\Shared\NotFound.cshtml" />
     <None Include="Views\Shared\Pager.cshtml" />
     <None Include="Views\Shared\_Layout.cshtml" />
+<<<<<<< HEAD
     <None Include="Views\Shared\_ValidationScriptsPartial.cshtml" />
+=======
+>>>>>>> 73d098765aa42eda39f0657a92afaf7acc48f6a8
     <None Include="Views\Students\Create.cshtml" />
     <None Include="Views\Students\Details.cshtml" />
     <None Include="Views\Students\Edit.cshtml" />

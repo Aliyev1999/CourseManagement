@@ -9,13 +9,14 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = CourseManagement
 build_property.RootNamespace = CourseManagement
-build_property.ProjectDir = D:\Course\CourseManagement\CourseManagement\CourseManagement\
+build_property.ProjectDir = D:\Lessons\CM\CourseManagement\CourseManagement\
 build_property.RazorLangVersion = 6.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = D:\Course\CourseManagement\CourseManagement\CourseManagement
+build_property.MSBuildProjectDirectory = D:\Lessons\CM\CourseManagement\CourseManagement
 build_property._RazorSourceGeneratorDebug = 
 
+<<<<<<< HEAD
 [D:/Course/CourseManagement/CourseManagement/CourseManagement/Views/AccessDenied/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjZXNzRGVuaWVkXEluZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
@@ -69,13 +70,53 @@ build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXE5vdEZvdW5kLmNzaHRt
 build_metadata.AdditionalFiles.CssScope = 
 
 [D:/Course/CourseManagement/CourseManagement/CourseManagement/Views/Shared/Pager.cshtml]
+=======
+[D:/Lessons/CM/CourseManagement/CourseManagement/Views/Courses/Add.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ291cnNlc1xBZGQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Lessons/CM/CourseManagement/CourseManagement/Views/Courses/AddStudents.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ291cnNlc1xBZGRTdHVkZW50cy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Lessons/CM/CourseManagement/CourseManagement/Views/Courses/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ291cnNlc1xDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Lessons/CM/CourseManagement/CourseManagement/Views/Courses/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ291cnNlc1xEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Lessons/CM/CourseManagement/CourseManagement/Views/Courses/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ291cnNlc1xFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Lessons/CM/CourseManagement/CourseManagement/Views/Courses/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ291cnNlc1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Lessons/CM/CourseManagement/CourseManagement/Views/Courses/Remove.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ291cnNlc1xSZW1vdmUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Lessons/CM/CourseManagement/CourseManagement/Views/Courses/StudentList.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ291cnNlc1xTdHVkZW50TGlzdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Lessons/CM/CourseManagement/CourseManagement/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Lessons/CM/CourseManagement/CourseManagement/Views/Shared/Pager.cshtml]
+>>>>>>> 73d098765aa42eda39f0657a92afaf7acc48f6a8
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXFBhZ2VyLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Course/CourseManagement/CourseManagement/CourseManagement/Views/Shared/_Layout.cshtml]
+[D:/Lessons/CM/CourseManagement/CourseManagement/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
+<<<<<<< HEAD
 [D:/Course/CourseManagement/CourseManagement/CourseManagement/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
@@ -97,25 +138,45 @@ build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3R1ZGVudHNcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
 [D:/Course/CourseManagement/CourseManagement/CourseManagement/Views/Teachers/Create.cshtml]
+=======
+[D:/Lessons/CM/CourseManagement/CourseManagement/Views/Students/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3R1ZGVudHNcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Lessons/CM/CourseManagement/CourseManagement/Views/Students/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3R1ZGVudHNcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Lessons/CM/CourseManagement/CourseManagement/Views/Students/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3R1ZGVudHNcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Lessons/CM/CourseManagement/CourseManagement/Views/Students/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3R1ZGVudHNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Lessons/CM/CourseManagement/CourseManagement/Views/Teachers/Create.cshtml]
+>>>>>>> 73d098765aa42eda39f0657a92afaf7acc48f6a8
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGVhY2hlcnNcQ3JlYXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Course/CourseManagement/CourseManagement/CourseManagement/Views/Teachers/Details.cshtml]
+[D:/Lessons/CM/CourseManagement/CourseManagement/Views/Teachers/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGVhY2hlcnNcRGV0YWlscy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Course/CourseManagement/CourseManagement/CourseManagement/Views/Teachers/Edit.cshtml]
+[D:/Lessons/CM/CourseManagement/CourseManagement/Views/Teachers/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGVhY2hlcnNcRWRpdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Course/CourseManagement/CourseManagement/CourseManagement/Views/Teachers/ExistingTeachers.cshtml]
+[D:/Lessons/CM/CourseManagement/CourseManagement/Views/Teachers/ExistingTeachers.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGVhY2hlcnNcRXhpc3RpbmdUZWFjaGVycy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Course/CourseManagement/CourseManagement/CourseManagement/Views/Teachers/Index.cshtml]
+[D:/Lessons/CM/CourseManagement/CourseManagement/Views/Teachers/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGVhY2hlcnNcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
+<<<<<<< HEAD
 [D:/Course/CourseManagement/CourseManagement/CourseManagement/Views/Users/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlcnNcQ3JlYXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
@@ -133,9 +194,12 @@ build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlcnNcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
 [D:/Course/CourseManagement/CourseManagement/CourseManagement/Views/_ViewImports.cshtml]
+=======
+[D:/Lessons/CM/CourseManagement/CourseManagement/Views/_ViewImports.cshtml]
+>>>>>>> 73d098765aa42eda39f0657a92afaf7acc48f6a8
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Course/CourseManagement/CourseManagement/CourseManagement/Views/_ViewStart.cshtml]
+[D:/Lessons/CM/CourseManagement/CourseManagement/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
