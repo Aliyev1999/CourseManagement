@@ -374,3 +374,12 @@ System.NullReferenceException: Object reference not set to an instance of an obj
 2023-08-22T17:02:35.9572162+03:00 [Thread:] [WRN] (CourseManagement.Controllers.ErrorController) 403 error occured. Path /Courses and QueryString = 
 2023-08-22T17:02:41.0867754+03:00 [Thread:] [WRN] (CourseManagement.Controllers.ErrorController) 404 error occured. Path /css/site.css and QueryString = 
 2023-08-22T17:02:41.1252441+03:00 [Thread:] [WRN] (CourseManagement.Controllers.ErrorController) 404 error occured. Path /js/site.js and QueryString = 
+2023-08-22T19:22:31.9021244+03:00 [Thread:] [WRN] (Microsoft.AspNetCore.HttpsPolicy.HttpsRedirectionMiddleware) Failed to determine the https port for redirect.
+2023-08-22T19:22:33.7120684+03:00 [Thread:] [WRN] (CourseManagement.Controllers.ErrorController) 404 error occured. Path /css/site.css and QueryString = 
+2023-08-22T19:22:33.7120296+03:00 [Thread:] [WRN] (CourseManagement.Controllers.ErrorController) 404 error occured. Path /js/site.js and QueryString = 
+2023-08-22T19:22:48.0970077+03:00 [Thread:] [WRN] (Microsoft.AspNetCore.HttpsPolicy.HttpsRedirectionMiddleware) Failed to determine the https port for redirect.
+2023-08-22T19:22:48.9218534+03:00 [Thread:] [WRN] (CourseManagement.Controllers.ErrorController) 404 error occured. Path /css/site.css and QueryString = 
+2023-08-22T19:22:48.9218548+03:00 [Thread:] [WRN] (CourseManagement.Controllers.ErrorController) 404 error occured. Path /js/site.js and QueryString = 
+2023-08-22T19:22:59.7156145+03:00 [Thread:] [WRN] (Microsoft.EntityFrameworkCore.Model.Validation) No store type was specified for the decimal property '"Prices"' on entity type '"Course"'. This will cause values to be silently truncated if they do not fit in the default precision and scale. Explicitly specify the SQL server column type that can accommodate all the values in 'OnModelCreating' using 'HasColumnType', specify precision and scale using 'HasPrecision', or configure a value converter using 'HasConversion'.
+2023-08-22T19:23:10.7124962+03:00 [Thread:] [WRN] (CourseManagement.Controllers.ErrorController) 404 error occured. Path /js/site.js and QueryString = 
+2023-08-22T19:23:10.7215487+03:00 [Thread:] [WRN] (CourseManagement.Controllers.ErrorController) 404 error occured. Path /css/site.css and QueryString = 
